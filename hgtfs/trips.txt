@@ -1,0 +1,1103 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id,source_id
+boston_and_lowell,rrmma_1840_1870,boston_and_lowell__c0,"Node (42.375,-71.083)",0,boston_and_lowell__c0,rrmma-lines
+boston_and_maine,rrmma_1840_1870,boston_and_maine__c0,"Node (42.698,-71.162)",0,boston_and_maine__c0,rrmma-lines
+boston_and_maine,rrmma_1840_1870,boston_and_maine__c1,"Node (42.627,-71.306)",0,boston_and_maine__c1,rrmma-lines
+boston_and_maine,rrmma_1840_1870,boston_and_maine__c2,"Node (42.378,-71.078)",0,boston_and_maine__c2,rrmma-lines
+fitchburg,rrmma_1840_1870,fitchburg__c0,"Node (42.477,-71.474)",0,fitchburg__c0,rrmma-lines
+boston_and_worcester,rrmma_1840_1870,boston_and_worcester__c0,"Node (42.213,-71.719)",0,boston_and_worcester__c0,rrmma-lines
+boston_and_providence,rrmma_1840_1870,boston_and_providence__c0,"Node (42.238,-71.133)",0,boston_and_providence__c0,rrmma-lines
+rensselaer_and_saratoga,rrmma_1840_1870,rensselaer_and_saratoga__c0,"Node (43.097,-73.797)",0,rensselaer_and_saratoga__c0,rrmma-lines
+new_york_central,rrmma_1840_1870,new_york_central__c0,"Node (43.151,-77.653)",0,new_york_central__c0,rrmma-lines
+new_york_central,rrmma_1840_1870,new_york_central__c1,"Node (42.907,-78.717)",0,new_york_central__c1,rrmma-lines
+norwich_and_worcester,rrmma_1840_1870,norwich_and_worcester__c0,"Node (42.260,-71.797)",0,norwich_and_worcester__c0,rrmma-lines
+troy_and_greenbush,rrmma_1840_1870,troy_and_greenbush__c0,"Node (42.651,-73.739)",0,troy_and_greenbush__c0,rrmma-lines
+troy_and_greenbush,rrmma_1840_1870,troy_and_greenbush__c1,"Node (42.670,-72.997)",0,troy_and_greenbush__c1,rrmma-lines
+troy_and_greenbush,rrmma_1840_1870,troy_and_greenbush__c2,"Node (42.586,-72.602)",0,troy_and_greenbush__c2,rrmma-lines
+new_bedford_and_taunton,rrmma_1840_1870,new_bedford_and_taunton__c0,"Node (41.665,-70.938)",0,new_bedford_and_taunton__c0,rrmma-lines
+western,rrmma_1840_1870,western__c0,"Node (42.253,-71.808)",0,western__c0,rrmma-lines
+providence_and_worcester,rrmma_1840_1870,providence_and_worcester__c0,"Node (41.895,-71.374)",0,providence_and_worcester__c0,rrmma-lines
+providence_and_worcester,rrmma_1840_1870,providence_and_worcester__c1,"Node (41.740,-71.333)",0,providence_and_worcester__c1,rrmma-lines
+hartford_providence_and_fishkill,rrmma_1840_1870,hartford_providence_and_fishkill__c0,"Node (41.806,-71.443)",0,hartford_providence_and_fishkill__c0,rrmma-lines
+new_york_providence_and_boston,rrmma_1840_1870,new_york_providence_and_boston__c0,"Node (41.338,-71.938)",0,new_york_providence_and_boston__c0,rrmma-lines
+new_york_providence_and_boston,rrmma_1840_1870,new_york_providence_and_boston__c1,"Node (41.362,-72.096)",0,new_york_providence_and_boston__c1,rrmma-lines
+new_haven_hartford_and_springfield,rrmma_1840_1870,new_haven_hartford_and_springfield__c0,"Node (41.713,-72.739)",0,new_haven_hartford_and_springfield__c0,rrmma-lines
+csx_transportation_incorporated,rrmma_1840_1870,csx_transportation_incorporated__c0,"Node (42.018,-70.981)",0,csx_transportation_incorporated__c0,rrmma-lines
+csx_transportation_incorporated,rrmma_1840_1870,csx_transportation_incorporated__c1,"Node (43.123,-78.937)",0,csx_transportation_incorporated__c1,rrmma-lines
+csx_transportation_incorporated,rrmma_1840_1870,csx_transportation_incorporated__c2,"Node (42.108,-80.113)",0,csx_transportation_incorporated__c2,rrmma-lines
+new_york_and_new_haven,rrmma_1840_1870,new_york_and_new_haven__c0,"Node (40.754,-74.001)",0,new_york_and_new_haven__c0,rrmma-lines
+new_york_and_erie,rrmma_1840_1870,new_york_and_erie__c0,"Node (41.108,-74.151)",0,new_york_and_erie__c0,rrmma-lines
+new_york_and_erie,rrmma_1840_1870,new_york_and_erie__c1,"Node (41.456,-74.114)",0,new_york_and_erie__c1,rrmma-lines
+flint_and_pere_marquette,rrmma_1840_1870,flint_and_pere_marquette__c0,"Node (43.068,-83.676)",0,flint_and_pere_marquette__c0,rrmma-lines
+danbury_and_norwalk,rrmma_1840_1870,danbury_and_norwalk__c0,"Node (41.099,-73.419)",0,danbury_and_norwalk__c0,rrmma-lines
+long_island,rrmma_1840_1870,long_island__c0,"Node (40.708,-73.891)",0,long_island__c0,rrmma-lines
+morris_and_essex,rrmma_1840_1870,morris_and_essex__c0,"Node (40.743,-74.118)",0,morris_and_essex__c0,rrmma-lines
+new_jersey_central,rrmma_1840_1870,new_jersey_central__c0,"Node (40.729,-74.136)",0,new_jersey_central__c0,rrmma-lines
+camden_and_amboy,rrmma_1840_1870,camden_and_amboy__c0,"Node (40.729,-74.136)",0,camden_and_amboy__c0,rrmma-lines
+camden_and_amboy,rrmma_1840_1870,camden_and_amboy__c1,"Node (40.490,-74.454)",0,camden_and_amboy__c1,rrmma-lines
+camden_and_amboy,rrmma_1840_1870,camden_and_amboy__c2,"Node (40.016,-74.818)",0,camden_and_amboy__c2,rrmma-lines
+camden_and_amboy,rrmma_1840_1870,camden_and_amboy__c3,"Node (40.089,-74.756)",0,camden_and_amboy__c3,rrmma-lines
+new_jersey,rrmma_1840_1870,new_jersey__c0,"Node (40.640,-74.206)",0,new_jersey__c0,rrmma-lines
+detroit_and_milwaukee,rrmma_1840_1870,detroit_and_milwaukee__c0,"Node (42.897,-83.959)",0,detroit_and_milwaukee__c0,rrmma-lines
+detroit_monroe_and_toledo,rrmma_1840_1870,detroit_monroe_and_toledo__c0,"Node (42.278,-83.138)",0,detroit_monroe_and_toledo__c0,rrmma-lines
+detroit_monroe_and_toledo,rrmma_1840_1870,detroit_monroe_and_toledo__c1,"Node (42.243,-83.149)",0,detroit_monroe_and_toledo__c1,rrmma-lines
+michigan_central,rrmma_1840_1870,michigan_central__c0,"Node (42.326,-83.107)",0,michigan_central__c0,rrmma-lines
+philadelphia_and_reading,rrmma_1840_1870,philadelphia_and_reading__c0,"Node (40.376,-75.933)",0,philadelphia_and_reading__c0,rrmma-lines
+adrian_and_blissfield_rail_road_company,rrmma_1840_1870,adrian_and_blissfield_rail_road_company__c0,"Node (41.892,-84.016)",0,adrian_and_blissfield_rail_road_company__c0,rrmma-lines
+philadelphia_and_trenton,rrmma_1840_1870,philadelphia_and_trenton__c0,"Node (40.001,-75.097)",0,philadelphia_and_trenton__c0,rrmma-lines
+pennsylvania,rrmma_1840_1870,pennsylvania__c0,"Node (40.192,-76.731)",0,pennsylvania__c0,rrmma-lines
+pennsylvania,rrmma_1840_1870,pennsylvania__c1,"Node (40.389,-79.851)",0,pennsylvania__c1,rrmma-lines
+norfolk_southern_railway_company,rrmma_1840_1870,norfolk_southern_railway_company__c0,"Node (42.015,-80.318)",0,norfolk_southern_railway_company__c0,rrmma-lines
+norfolk_southern_railway_company,rrmma_1840_1870,norfolk_southern_railway_company__c1,"Node (41.221,-77.115)",0,norfolk_southern_railway_company__c1,rrmma-lines
+norfolk_southern_railway_company,rrmma_1840_1870,norfolk_southern_railway_company__c2,"Node (41.642,-83.588)",0,norfolk_southern_railway_company__c2,rrmma-lines
+norfolk_southern_railway_company,rrmma_1840_1870,norfolk_southern_railway_company__c3,"Node (40.429,-78.378)",0,norfolk_southern_railway_company__c3,rrmma-lines
+norfolk_southern_railway_company,rrmma_1840_1870,norfolk_southern_railway_company__c4,"Node (39.982,-76.670)",0,norfolk_southern_railway_company__c4,rrmma-lines
+norfolk_southern_railway_company,rrmma_1840_1870,norfolk_southern_railway_company__c5,"Node (40.374,-80.611)",0,norfolk_southern_railway_company__c5,rrmma-lines
+norfolk_southern_railway_company,rrmma_1840_1870,norfolk_southern_railway_company__c6,Allen,0,norfolk_southern_railway_company__c6,rrmma-lines
+dayton_and_michigan,rrmma_1840_1870,dayton_and_michigan__c0,"Node (41.633,-83.534)",0,dayton_and_michigan__c0,rrmma-lines
+cleveland_and_toledo,rrmma_1840_1870,cleveland_and_toledo__c0,"Node (41.616,-83.504)",0,cleveland_and_toledo__c0,rrmma-lines
+camden_and_atlantic,rrmma_1840_1870,camden_and_atlantic__c0,"Node (39.916,-75.117)",0,camden_and_atlantic__c0,rrmma-lines
+philadelphia_wilmington_and_baltimore,rrmma_1840_1870,philadelphia_wilmington_and_baltimore__c0,"Node (39.953,-75.164)",0,philadelphia_wilmington_and_baltimore__c0,rrmma-lines
+cumberland_valley,rrmma_1840_1870,cumberland_valley__c0,"Node (40.259,-76.875)",0,cumberland_valley__c0,rrmma-lines
+delaware_newcastle_and_frenchtown,rrmma_1840_1870,delaware_newcastle_and_frenchtown__c0,"Node (39.721,-75.578)",0,delaware_newcastle_and_frenchtown__c0,rrmma-lines
+philadelphia_and_erie,rrmma_1840_1870,philadelphia_and_erie__c0,"Node (41.901,-79.862)",0,philadelphia_and_erie__c0,rrmma-lines
+philadelphia_and_erie,rrmma_1840_1870,philadelphia_and_erie__c1,"Node (40.886,-76.796)",0,philadelphia_and_erie__c1,rrmma-lines
+chicago_and_rock_island,rrmma_1840_1870,chicago_and_rock_island__c0,"Node (41.502,-88.126)",0,chicago_and_rock_island__c0,rrmma-lines
+northern_central,rrmma_1840_1870,northern_central__c0,"Node (38.914,-76.993)",0,northern_central__c0,rrmma-lines
+baltimore_and_ohio,rrmma_1840_1870,baltimore_and_ohio__c0,Pattersons Creek,0,baltimore_and_ohio__c0,rrmma-lines
+winchester_and_potomac,rrmma_1840_1870,winchester_and_potomac__c0,Winchester,0,winchester_and_potomac__c0,rrmma-lines
+pittsburgh_columbus_and_cincinnati,rrmma_1840_1870,pittsburgh_columbus_and_cincinnati__c0,"Node (40.332,-80.945)",0,pittsburgh_columbus_and_cincinnati__c0,rrmma-lines
+quincy_and_chicago,rrmma_1840_1870,quincy_and_chicago__c0,"Node (40.952,-90.355)",0,quincy_and_chicago__c0,rrmma-lines
+chicago_burlington_and_quincy,rrmma_1840_1870,chicago_burlington_and_quincy__c0,"Node (41.726,-88.348)",0,chicago_burlington_and_quincy__c0,rrmma-lines
+chicago_burlington_and_quincy,rrmma_1840_1870,chicago_burlington_and_quincy__c1,"Node (41.165,-90.047)",0,chicago_burlington_and_quincy__c1,rrmma-lines
+peoria_oquawka_and_burlington,rrmma_1840_1870,peoria_oquawka_and_burlington__c0,"Node (40.660,-89.634)",0,peoria_oquawka_and_burlington__c0,rrmma-lines
+louisville_new_albany_and_chicago,rrmma_1840_1870,louisville_new_albany_and_chicago__c0,"Node (40.403,-86.905)",0,louisville_new_albany_and_chicago__c0,rrmma-lines
+louisville_new_albany_and_chicago,rrmma_1840_1870,louisville_new_albany_and_chicago__c1,"Node (39.174,-86.577)",0,louisville_new_albany_and_chicago__c1,rrmma-lines
+illinois_river,rrmma_1840_1870,illinois_river__c0,"Node (40.651,-89.645)",0,illinois_river__c0,rrmma-lines
+bellefontaine_line,rrmma_1840_1870,bellefontaine_line__c0,"Node (40.187,-85.391)",0,bellefontaine_line__c0,rrmma-lines
+bellefontaine_line,rrmma_1840_1870,bellefontaine_line__c1,"Node (40.098,-85.666)",0,bellefontaine_line__c1,rrmma-lines
+great_western,rrmma_1840_1870,great_western__c0,"Node (40.136,-87.618)",0,great_western__c0,rrmma-lines
+great_western,rrmma_1840_1870,great_western__c1,"Node (39.822,-90.561)",0,great_western__c1,rrmma-lines
+indianapolis_and_cincinnati,rrmma_1840_1870,indianapolis_and_cincinnati__c0,"Node (39.763,-86.156)",0,indianapolis_and_cincinnati__c0,rrmma-lines
+jeffersonville,rrmma_1840_1870,jeffersonville__c0,Louisville,0,jeffersonville__c0,rrmma-lines
+illinois_central,rrmma_1840_1870,illinois_central__c0,"Node (39.856,-88.945)",0,illinois_central__c0,rrmma-lines
+illinois_central,rrmma_1840_1870,illinois_central__c1,"Node (41.685,-87.612)",0,illinois_central__c1,rrmma-lines
+illinois_central,rrmma_1840_1870,illinois_central__c2,"Node (41.641,-87.626)",0,illinois_central__c2,rrmma-lines
+ohio_and_mississippi,rrmma_1840_1870,ohio_and_mississippi__c0,St Louis,0,ohio_and_mississippi__c0,rrmma-lines
+st_louis_alton_and_chicago,rrmma_1840_1870,st_louis_alton_and_chicago__c0,"Node (41.854,-87.637)",0,st_louis_alton_and_chicago__c0,rrmma-lines
+richmond_fredericksburg_and_potomac,rrmma_1840_1870,richmond_fredericksburg_and_potomac__c0,Acquia Creek,0,richmond_fredericksburg_and_potomac__c0,rrmma-lines
+richmond_fredericksburg_and_potomac,rrmma_1840_1870,richmond_fredericksburg_and_potomac__c1,Acquia Creek,0,richmond_fredericksburg_and_potomac__c1,rrmma-lines
+virginia_central,rrmma_1840_1870,virginia_central__c0,Richmond,0,virginia_central__c0,rrmma-lines
+virginia_central,rrmma_1840_1870,virginia_central__c1,Jackson's River,0,virginia_central__c1,rrmma-lines
+richmond_and_york_river,rrmma_1840_1870,richmond_and_york_river__c0,West Point,0,richmond_and_york_river__c0,rrmma-lines
+richmond_and_petersburg,rrmma_1840_1870,richmond_and_petersburg__c0,Manchester,0,richmond_and_petersburg__c0,rrmma-lines
+richmond_and_petersburg,rrmma_1840_1870,richmond_and_petersburg__c1,Port Walthall,0,richmond_and_petersburg__c1,rrmma-lines
+richmond_and_petersburg,rrmma_1840_1870,richmond_and_petersburg__c2,Rice's,0,richmond_and_petersburg__c2,rrmma-lines
+petersburg_and_lynchburg,rrmma_1840_1870,petersburg_and_lynchburg__c0,Pamplin,0,petersburg_and_lynchburg__c0,rrmma-lines
+madison_and_indianapolis,rrmma_1840_1870,madison_and_indianapolis__c0,"Node (39.522,-85.770)",0,madison_and_indianapolis__c0,rrmma-lines
+petersburg,rrmma_1840_1870,petersburg__c0,Ryland,0,petersburg__c0,rrmma-lines
+seaboard_and_roanoke,rrmma_1840_1870,seaboard_and_roanoke__c0,Suffolk,0,seaboard_and_roanoke__c0,rrmma-lines
+terre_haute_alton_and_st_louis,rrmma_1840_1870,terre_haute_alton_and_st_louis__c0,"Node (39.474,-87.417)",0,terre_haute_alton_and_st_louis__c0,rrmma-lines
+louisville_and_frankfort,rrmma_1840_1870,louisville_and_frankfort__c0,Louisville,0,louisville_and_frankfort__c0,rrmma-lines
+memphis_and_ohio,rrmma_1840_1870,memphis_and_ohio__c0,Memphis,0,memphis_and_ohio__c0,rrmma-lines
+memphis_and_charleston,rrmma_1840_1870,memphis_and_charleston__c0,"Node (34.778,-88.112)",0,memphis_and_charleston__c0,rrmma-lines
+memphis_and_charleston,rrmma_1840_1870,memphis_and_charleston__c1,Cahawba,0,memphis_and_charleston__c1,rrmma-lines
+alabama_and_florida,rrmma_1840_1870,alabama_and_florida__c0,Montgomery,0,alabama_and_florida__c0,rrmma-lines
+new_orleans_jackson_and_great_northern,rrmma_1840_1870,new_orleans_jackson_and_great_northern__c0,Algiers,0,new_orleans_jackson_and_great_northern__c0,rrmma-lines
+southern_miss,rrmma_1840_1870,southern_miss__c0,Meridian,0,southern_miss__c0,rrmma-lines
+old_colony_and_fall_river,rrmma_1840_1870,old_colony_and_fall_river__c0,"Node (42.337,-71.060)",0,old_colony_and_fall_river__c0,rrmma-lines
+hudson_and_boston,rrmma_1840_1870,hudson_and_boston__c0,"Node (42.226,-73.735)",0,hudson_and_boston__c0,rrmma-lines
+corning_and_blossburg,rrmma_1840_1870,corning_and_blossburg__c0,"Node (41.680,-77.063)",0,corning_and_blossburg__c0,rrmma-lines
+pittsburgh_fort_wayne_and_chicago,rrmma_1840_1870,pittsburgh_fort_wayne_and_chicago__c0,"Node (41.628,-87.521)",0,pittsburgh_fort_wayne_and_chicago__c0,rrmma-lines
+nashville_and_kentucky,rrmma_1840_1870,nashville_and_kentucky__c0,"Node (36.274,-86.710)",0,nashville_and_kentucky__c0,rrmma-lines
+memphis_clarksville_and_louisville,rrmma_1840_1870,memphis_clarksville_and_louisville__c0,Guthrie,0,memphis_clarksville_and_louisville__c0,rrmma-lines
+memphis_and_little_rock,rrmma_1840_1870,memphis_and_little_rock__c0,Memphis,0,memphis_and_little_rock__c0,rrmma-lines
+memphis_and_little_rock,rrmma_1840_1870,memphis_and_little_rock__c1,Little Rock,0,memphis_and_little_rock__c1,rrmma-lines
+houstatonic,rrmma_1840_1870,houstatonic__c0,"Node (41.168,-73.209)",0,houstatonic__c0,rrmma-lines
+houstatonic,rrmma_1840_1870,houstatonic__c1,"Node (42.349,-73.400)",0,houstatonic__c1,rrmma-lines
+portland_saco_and_portsmouth,rrmma_1840_1870,portland_saco_and_portsmouth__c0,"Node (43.200,-70.874)",0,portland_saco_and_portsmouth__c0,rrmma-lines
+grand_trunk,rrmma_1840_1870,grand_trunk__c0,"Node (44.021,-70.266)",0,grand_trunk__c0,rrmma-lines
+manchester_and_lawrence,rrmma_1840_1870,manchester_and_lawrence__c0,"Node (42.581,-71.169)",0,manchester_and_lawrence__c0,rrmma-lines
+peterborough_and_shirley,rrmma_1840_1870,peterborough_and_shirley__c0,"Node (42.558,-71.542)",0,peterborough_and_shirley__c0,rrmma-lines
+cocheco,rrmma_1840_1870,cocheco__c0,"Node (42.702,-71.537)",0,cocheco__c0,rrmma-lines
+vermont_and_massachusetts,rrmma_1840_1870,vermont_and_massachusetts__c0,"Node (42.851,-72.556)",0,vermont_and_massachusetts__c0,rrmma-lines
+cheshire,rrmma_1840_1870,cheshire__c0,"Node (42.567,-71.984)",0,cheshire__c0,rrmma-lines
+connecticut_river,rrmma_1840_1870,connecticut_river__c0,"Node (42.103,-72.598)",0,connecticut_river__c0,rrmma-lines
+connecticut_river,rrmma_1840_1870,connecticut_river__c1,"Node (42.727,-72.463)",0,connecticut_river__c1,rrmma-lines
+northern,rrmma_1840_1870,northern__c0,"Node (41.112,-74.100)",0,northern__c0,rrmma-lines
+northern,rrmma_1840_1870,northern__c1,"Node (42.870,-70.865)",0,northern__c1,rrmma-lines
+northern,rrmma_1840_1870,northern__c2,"Node (43.444,-71.647)",0,northern__c2,rrmma-lines
+nashua_and_lowell,rrmma_1840_1870,nashua_and_lowell__c0,"Node (42.627,-71.306)",0,nashua_and_lowell__c0,rrmma-lines
+saratoga_and_whitehall,rrmma_1840_1870,saratoga_and_whitehall__c0,"Node (43.589,-73.296)",0,saratoga_and_whitehall__c0,rrmma-lines
+rutland_and_washington,rrmma_1840_1870,rutland_and_washington__c0,"Node (43.492,-73.248)",0,rutland_and_washington__c0,rrmma-lines
+albany_and_vermont,rrmma_1840_1870,albany_and_vermont__c0,"Node (42.918,-73.748)",0,albany_and_vermont__c0,rrmma-lines
+alexandria_and_cheyneyville,rrmma_1840_1870,alexandria_and_cheyneyville__c0,Cheyneyville,0,alexandria_and_cheyneyville__c0,rrmma-lines
+western_and_atlantic,rrmma_1840_1870,western_and_atlantic__c0,Boyce,0,western_and_atlantic__c0,rrmma-lines
+east_tennessee_and_georgia,rrmma_1840_1870,east_tennessee_and_georgia__c0,Statesline,0,east_tennessee_and_georgia__c0,rrmma-lines
+montgomery_and_west_point,rrmma_1840_1870,montgomery_and_west_point__c0,Columbus,0,montgomery_and_west_point__c0,rrmma-lines
+agusta_and_savanna,rrmma_1840_1870,agusta_and_savanna__c0,Millen,0,agusta_and_savanna__c0,rrmma-lines
+georgia,rrmma_1840_1870,georgia__c0,Union Point,0,georgia__c0,rrmma-lines
+central_georgia,rrmma_1840_1870,central_georgia__c0,Savannah,0,central_georgia__c0,rrmma-lines
+charlotte_and_south_carolina,rrmma_1840_1870,charlotte_and_south_carolina__c0,Morrow's,0,charlotte_and_south_carolina__c0,rrmma-lines
+roanoke_valley,rrmma_1840_1870,roanoke_valley__c0,Clarksville,0,roanoke_valley__c0,rrmma-lines
+wilmington_and_manchester,rrmma_1840_1870,wilmington_and_manchester__c0,Florence,0,wilmington_and_manchester__c0,rrmma-lines
+charleston_and_savannah,rrmma_1840_1870,charleston_and_savannah__c0,Charleston,0,charleston_and_savannah__c0,rrmma-lines
+south_carolina,rrmma_1840_1870,south_carolina__c0,Branchville,0,south_carolina__c0,rrmma-lines
+stony_brook,rrmma_1840_1870,stony_brook__c0,"Node (42.637,-71.374)",0,stony_brook__c0,rrmma-lines
+rutland_and_burlington,rrmma_1840_1870,rutland_and_burlington__c0,"Node (43.136,-72.446)",0,rutland_and_burlington__c0,rrmma-lines
+white_mountain,rrmma_1840_1870,white_mountain__c0,"Node (44.152,-72.043)",0,white_mountain__c0,rrmma-lines
+connecticut_and_passumpsic_rivers,rrmma_1840_1870,connecticut_and_passumpsic_rivers__c0,"Node (43.647,-72.318)",0,connecticut_and_passumpsic_rivers__c0,rrmma-lines
+west_feliciana,rrmma_1840_1870,west_feliciana__c0,"Node (31.106,-91.300)",0,west_feliciana__c0,rrmma-lines
+platte_county,rrmma_1840_1870,platte_county__c0,St. Joseph,0,platte_county__c0,rrmma-lines
+unnamed_line_1840_383_wisconsin,rrmma_1840_1870,unnamed_line_1840_383_wisconsin__c0,"Node (42.498,-88.328)",0,unnamed_line_1840_383_wisconsin__c0,rrmma-lines
+unnamed_line_1840_384_iowa,rrmma_1840_1870,unnamed_line_1840_384_iowa__c0,"Node (41.521,-90.568)",0,unnamed_line_1840_384_iowa__c0,rrmma-lines
+unnamed_line_1840_385_illinois,rrmma_1840_1870,unnamed_line_1840_385_illinois__c0,"Node (41.516,-90.572)",0,unnamed_line_1840_385_illinois__c0,rrmma-lines
+unnamed_line_1840_387_michigan,rrmma_1840_1870,unnamed_line_1840_387_michigan__c0,"Node (41.725,-83.720)",0,unnamed_line_1840_387_michigan__c0,rrmma-lines
+unnamed_line_1840_388_ohio,rrmma_1840_1870,unnamed_line_1840_388_ohio__c0,"Node (41.712,-83.704)",0,unnamed_line_1840_388_ohio__c0,rrmma-lines
+unnamed_line_1840_389_pennsylvania,rrmma_1840_1870,unnamed_line_1840_389_pennsylvania__c0,"Node (40.035,-76.512)",0,unnamed_line_1840_389_pennsylvania__c0,rrmma-lines
+lykens_valley,rrmma_1840_1870,lykens_valley__c0,"Node (40.567,-76.699)",0,lykens_valley__c0,rrmma-lines
+delaware_and_hudson,rrmma_1840_1870,delaware_and_hudson__c0,"Node (41.411,-75.673)",0,delaware_and_hudson__c0,rrmma-lines
+buffalo_niagara_falls_and_lewiston,rrmma_1840_1870,buffalo_niagara_falls_and_lewiston__c0,"Node (43.151,-77.653)",0,buffalo_niagara_falls_and_lewiston__c0,rrmma-lines
+buffalo_niagara_falls_and_lewiston,rrmma_1840_1870,buffalo_niagara_falls_and_lewiston__c1,"Node (43.253,-79.044)",0,buffalo_niagara_falls_and_lewiston__c1,rrmma-lines
+cayuga_and_susquehanna,rrmma_1840_1870,cayuga_and_susquehanna__c0,"Node (42.206,-76.506)",0,cayuga_and_susquehanna__c0,rrmma-lines
+norfolk_county,rrmma_1840_1870,norfolk_county__c0,"Node (42.347,-71.076)",0,norfolk_county__c0,rrmma-lines
+unnamed_line_1840_409,rrmma_1840_1870,unnamed_line_1840_409__c0,Stevenson,0,unnamed_line_1840_409__c0,rrmma-lines
+unnamed_line_1840_410,rrmma_1840_1870,unnamed_line_1840_410__c0,Charlestown,0,unnamed_line_1840_410__c0,rrmma-lines
+williamsport_and_elmira,rrmma_1840_1870,williamsport_and_elmira__c0,"Node (41.231,-77.005)",0,williamsport_and_elmira__c0,rrmma-lines
+unnamed_line_1840_412,rrmma_1840_1870,unnamed_line_1840_412__c0,"Node (40.035,-76.512)",0,unnamed_line_1840_412__c0,rrmma-lines
+unnamed_line_1840_413,rrmma_1840_1870,unnamed_line_1840_413__c0,"Node (38.617,-82.572)",0,unnamed_line_1840_413__c0,rrmma-lines
+raleigh_and_gaston,rrmma_1840_1870,raleigh_and_gaston__c0,Weldon,0,raleigh_and_gaston__c0,rrmma-lines
+unnamed_line_1840_426,rrmma_1840_1870,unnamed_line_1840_426__c0,Mount Airy,0,unnamed_line_1840_426__c0,rrmma-lines
+unnamed_line_1840_428,rrmma_1840_1870,unnamed_line_1840_428__c0,Hagerstown,0,unnamed_line_1840_428__c0,rrmma-lines
+unnamed_line_1840_431,rrmma_1840_1870,unnamed_line_1840_431__c0,"Node (42.370,-73.108)",0,unnamed_line_1840_431__c0,rrmma-lines
+unnamed_line_1840_432,rrmma_1840_1870,unnamed_line_1840_432__c0,"Node (42.599,-70.879)",0,unnamed_line_1840_432__c0,rrmma-lines
+sandusky_dayton_and_cincinnati,rrmma_1840_1870,sandusky_dayton_and_cincinnati__c0,"Node (39.936,-83.790)",0,sandusky_dayton_and_cincinnati__c0,rrmma-lines
+sandusky_dayton_and_cincinnati,rrmma_1840_1870,sandusky_dayton_and_cincinnati__c1,"Node (39.921,-83.805)",0,sandusky_dayton_and_cincinnati__c1,rrmma-lines
+unnamed_line_1840_435,rrmma_1840_1870,unnamed_line_1840_435__c0,"Node (40.875,-75.775)",0,unnamed_line_1840_435__c0,rrmma-lines
+unnamed_line_1840_436,rrmma_1840_1870,unnamed_line_1840_436__c0,"Node (40.862,-75.817)",0,unnamed_line_1840_436__c0,rrmma-lines
+unnamed_line_1840_437,rrmma_1840_1870,unnamed_line_1840_437__c0,"Node (42.345,-73.597)",0,unnamed_line_1840_437__c0,rrmma-lines
+unnamed_line_1840_438,rrmma_1840_1870,unnamed_line_1840_438__c0,"Node (43.097,-73.796)",0,unnamed_line_1840_438__c0,rrmma-lines
+unnamed_line_1840_443,rrmma_1840_1870,unnamed_line_1840_443__c0,"Node (42.794,-73.679)",0,unnamed_line_1840_443__c0,rrmma-lines
+grand_gulf_and_port_gibson,rrmma_1840_1870,grand_gulf_and_port_gibson__c0,Port Gibson,0,grand_gulf_and_port_gibson__c0,rrmma-lines
+unnamed_line_1840_447,rrmma_1840_1870,unnamed_line_1840_447__c0,"Node (30.534,-92.082)",0,unnamed_line_1840_447__c0,rrmma-lines
+unnamed_line_1840_448,rrmma_1840_1870,unnamed_line_1840_448__c0,"Node (30.123,-90.140)",0,unnamed_line_1840_448__c0,rrmma-lines
+unnamed_line_1840_449,rrmma_1840_1870,unnamed_line_1840_449__c0,"Node (42.270,-83.724)",0,unnamed_line_1840_449__c0,rrmma-lines
+unnamed_line_1840_450,rrmma_1840_1870,unnamed_line_1840_450__c0,"Node (42.638,-83.291)",0,unnamed_line_1840_450__c0,rrmma-lines
+unnamed_line_1840_451,rrmma_1840_1870,unnamed_line_1840_451__c0,"Node (42.729,-82.490)",0,unnamed_line_1840_451__c0,rrmma-lines
+unnamed_line_1840_452,rrmma_1840_1870,unnamed_line_1840_452__c0,"Node (38.610,-89.372)",0,unnamed_line_1840_452__c0,rrmma-lines
+unnamed_line_1840_453,rrmma_1840_1870,unnamed_line_1840_453__c0,"Node (38.683,-89.584)",0,unnamed_line_1840_453__c0,rrmma-lines
+unnamed_line_1840_454,rrmma_1840_1870,unnamed_line_1840_454__c0,"Node (39.163,-89.497)",0,unnamed_line_1840_454__c0,rrmma-lines
+unnamed_line_1840_455,rrmma_1840_1870,unnamed_line_1840_455__c0,"Node (44.934,-68.646)",0,unnamed_line_1840_455__c0,rrmma-lines
+unnamed_line_1840_456,rrmma_1840_1870,unnamed_line_1840_456__c0,"Node (42.874,-74.460)",0,unnamed_line_1840_456__c0,rrmma-lines
+unnamed_line_1840_458,rrmma_1840_1870,unnamed_line_1840_458__c0,"Node (40.574,-74.610)",0,unnamed_line_1840_458__c0,rrmma-lines
+unnamed_line_1840_459,rrmma_1840_1870,unnamed_line_1840_459__c0,"Node (40.917,-74.174)",0,unnamed_line_1840_459__c0,rrmma-lines
+unnamed_line_1840_460,rrmma_1840_1870,unnamed_line_1840_460__c0,"Node (41.681,-77.064)",0,unnamed_line_1840_460__c0,rrmma-lines
+unnamed_line_1840_461,rrmma_1840_1870,unnamed_line_1840_461__c0,"Node (40.682,-76.189)",0,unnamed_line_1840_461__c0,rrmma-lines
+unnamed_line_1840_462,rrmma_1840_1870,unnamed_line_1840_462__c0,"Node (40.661,-76.212)",0,unnamed_line_1840_462__c0,rrmma-lines
+unnamed_line_1840_463,rrmma_1840_1870,unnamed_line_1840_463__c0,"Node (41.233,-77.005)",0,unnamed_line_1840_463__c0,rrmma-lines
+unnamed_line_1840_464,rrmma_1840_1870,unnamed_line_1840_464__c0,"Node (40.429,-78.378)",0,unnamed_line_1840_464__c0,rrmma-lines
+unnamed_line_1840_465,rrmma_1840_1870,unnamed_line_1840_465__c0,Moscow,0,unnamed_line_1840_465__c0,rrmma-lines
+unnamed_line_1840_466,rrmma_1840_1870,unnamed_line_1840_466__c0,Cleveland,0,unnamed_line_1840_466__c0,rrmma-lines
+unnamed_line_1840_467,rrmma_1840_1870,unnamed_line_1840_467__c0,Forsyth,0,unnamed_line_1840_467__c0,rrmma-lines
+unnamed_line_1840_468,rrmma_1840_1870,unnamed_line_1840_468__c0,Weldon,0,unnamed_line_1840_468__c0,rrmma-lines
+unnamed_line_1840_469,rrmma_1840_1870,unnamed_line_1840_469__c0,"Node (41.308,-82.968)",0,unnamed_line_1840_469__c0,rrmma-lines
+unnamed_line_1840_470,rrmma_1840_1870,unnamed_line_1840_470__c0,Norfolk,0,unnamed_line_1840_470__c0,rrmma-lines
+unnamed_line_1840_471,rrmma_1840_1870,unnamed_line_1840_471__c0,Martinsburg,0,unnamed_line_1840_471__c0,rrmma-lines
+unnamed_line_1840_472,rrmma_1840_1870,unnamed_line_1840_472__c0,"Node (40.233,-76.914)",0,unnamed_line_1840_472__c0,rrmma-lines
+unnamed_line_1840_473,rrmma_1840_1870,unnamed_line_1840_473__c0,"Node (40.478,-74.291)",0,unnamed_line_1840_473__c0,rrmma-lines
+unnamed_line_1840_474,rrmma_1840_1870,unnamed_line_1840_474__c0,"Node (43.170,-78.691)",0,unnamed_line_1840_474__c0,rrmma-lines
+unnamed_line_1840_475,rrmma_1840_1870,unnamed_line_1840_475__c0,"Node (43.095,-79.057)",0,unnamed_line_1840_475__c0,rrmma-lines
+unnamed_line_1840_476,rrmma_1840_1870,unnamed_line_1840_476__c0,"Node (43.237,-77.568)",0,unnamed_line_1840_476__c0,rrmma-lines
+unnamed_line_1840_477,rrmma_1840_1870,unnamed_line_1840_477__c0,"Node (43.061,-76.190)",0,unnamed_line_1840_477__c0,rrmma-lines
+unnamed_line_1840_478,rrmma_1840_1870,unnamed_line_1840_478__c0,"Node (42.224,-71.000)",0,unnamed_line_1840_478__c0,rrmma-lines
+unnamed_line_1840_479,rrmma_1840_1870,unnamed_line_1840_479__c0,"Node (42.036,-71.156)",0,unnamed_line_1840_479__c0,rrmma-lines
+worcester_and_nashua,rrmma_1840_1870,worcester_and_nashua__c0,"Node (42.420,-71.689)",0,worcester_and_nashua__c0,rrmma-lines
+worcester_and_nashua,rrmma_1840_1870,worcester_and_nashua__c1,"Node (42.609,-71.558)",0,worcester_and_nashua__c1,rrmma-lines
+bay_colony_railroad_corporation,rrmma_1840_1870,bay_colony_railroad_corporation__c0,"Node (42.202,-71.003)",0,bay_colony_railroad_corporation__c0,rrmma-lines
+bay_colony_railroad_corporation,rrmma_1840_1870,bay_colony_railroad_corporation__c1,"Node (41.966,-70.674)",0,bay_colony_railroad_corporation__c1,rrmma-lines
+buffalo_new_york_and_erie,rrmma_1840_1870,buffalo_new_york_and_erie__c0,"Node (42.876,-77.756)",0,buffalo_new_york_and_erie__c0,rrmma-lines
+buffalo_new_york_and_erie,rrmma_1840_1870,buffalo_new_york_and_erie__c1,"Node (42.909,-78.715)",0,buffalo_new_york_and_erie__c1,rrmma-lines
+buffalo_new_york_and_erie,rrmma_1840_1870,buffalo_new_york_and_erie__c2,"Node (42.907,-78.717)",0,buffalo_new_york_and_erie__c2,rrmma-lines
+syracuse_binghamton_and_new_york,rrmma_1840_1870,syracuse_binghamton_and_new_york__c0,"Node (42.104,-75.894)",0,syracuse_binghamton_and_new_york__c0,rrmma-lines
+new_york_and_harlem,rrmma_1840_1870,new_york_and_harlem__c0,"Node (40.818,-73.926)",0,new_york_and_harlem__c0,rrmma-lines
+chicago_and_north_western,rrmma_1840_1870,chicago_and_north_western__c0,"Node (44.199,-88.458)",0,chicago_and_north_western__c0,rrmma-lines
+chicago_and_north_western,rrmma_1840_1870,chicago_and_north_western__c1,"Node (42.673,-89.038)",0,chicago_and_north_western__c1,rrmma-lines
+chicago_and_north_western,rrmma_1840_1870,chicago_and_north_western__c2,"Node (43.776,-88.445)",0,chicago_and_north_western__c2,rrmma-lines
+i_and_m_rail_link_llc,rrmma_1840_1870,i_and_m_rail_link_llc__c0,"Node (42.673,-89.038)",0,i_and_m_rail_link_llc__c0,rrmma-lines
+i_and_m_rail_link_llc,rrmma_1840_1870,i_and_m_rail_link_llc__c1,"Node (42.502,-89.010)",0,i_and_m_rail_link_llc__c1,rrmma-lines
+wisconsin_and_southern_railroad_company,rrmma_1840_1870,wisconsin_and_southern_railroad_company__c0,"Node (42.669,-89.033)",0,wisconsin_and_southern_railroad_company__c0,rrmma-lines
+michigan_southern_and_northern_indiana,rrmma_1840_1870,michigan_southern_and_northern_indiana__c0,"Node (41.682,-87.490)",0,michigan_southern_and_northern_indiana__c0,rrmma-lines
+columbus_and_xenia,rrmma_1840_1870,columbus_and_xenia__c0,"Node (39.962,-83.025)",0,columbus_and_xenia__c0,rrmma-lines
+peoria_and_bureau_valley,rrmma_1840_1870,peoria_and_bureau_valley__c0,"Node (41.111,-89.366)",0,peoria_and_bureau_valley__c0,rrmma-lines
+evansville_and_crawfordsville,rrmma_1840_1870,evansville_and_crawfordsville__c0,"Node (39.487,-87.395)",0,evansville_and_crawfordsville__c0,rrmma-lines
+cleveland_painesville_and_ashtabula,rrmma_1840_1870,cleveland_painesville_and_ashtabula__c0,"Node (41.556,-81.591)",0,cleveland_painesville_and_ashtabula__c0,rrmma-lines
+mobile_and_girard,rrmma_1840_1870,mobile_and_girard__c0,Columbus,0,mobile_and_girard__c0,rrmma-lines
+wilmington_and_weldon,rrmma_1840_1870,wilmington_and_weldon__c0,Rocky Mount,0,wilmington_and_weldon__c0,rrmma-lines
+tallahassee,rrmma_1840_1870,tallahassee__c0,Saint Marks,0,tallahassee__c0,rrmma-lines
+moscow_and_somerville,rrmma_1840_1870,moscow_and_somerville__c0,Somerville,0,moscow_and_somerville__c0,rrmma-lines
+unnamed_line_1845_430_wisconsin,rrmma_1840_1870,unnamed_line_1845_430_wisconsin__c0,"Node (42.498,-88.328)",0,unnamed_line_1845_430_wisconsin__c0,rrmma-lines
+unnamed_line_1845_431_iowa,rrmma_1840_1870,unnamed_line_1845_431_iowa__c0,"Node (41.521,-90.568)",0,unnamed_line_1845_431_iowa__c0,rrmma-lines
+unnamed_line_1845_432_illinois,rrmma_1840_1870,unnamed_line_1845_432_illinois__c0,"Node (41.516,-90.572)",0,unnamed_line_1845_432_illinois__c0,rrmma-lines
+unnamed_line_1845_434_michigan,rrmma_1840_1870,unnamed_line_1845_434_michigan__c0,"Node (41.725,-83.720)",0,unnamed_line_1845_434_michigan__c0,rrmma-lines
+unnamed_line_1845_435_ohio,rrmma_1840_1870,unnamed_line_1845_435_ohio__c0,"Node (41.712,-83.704)",0,unnamed_line_1845_435_ohio__c0,rrmma-lines
+unnamed_line_1845_437_pennsylvania,rrmma_1840_1870,unnamed_line_1845_437_pennsylvania__c0,"Node (40.035,-76.512)",0,unnamed_line_1845_437_pennsylvania__c0,rrmma-lines
+lehigh_and_susquehanna,rrmma_1840_1870,lehigh_and_susquehanna__c0,"Node (41.061,-75.774)",0,lehigh_and_susquehanna__c0,rrmma-lines
+annapolis_and_elkridge,rrmma_1840_1870,annapolis_and_elkridge__c0,Annapolis,0,annapolis_and_elkridge__c0,rrmma-lines
+unnamed_line_1845_447_new_york,rrmma_1840_1870,unnamed_line_1845_447_new_york__c0,"Node (42.863,-78.281)",0,unnamed_line_1845_447_new_york__c0,rrmma-lines
+unnamed_line_1845_465,rrmma_1840_1870,unnamed_line_1845_465__c0,"Node (40.402,-78.508)",0,unnamed_line_1845_465__c0,rrmma-lines
+unnamed_line_1845_467,rrmma_1840_1870,unnamed_line_1845_467__c0,"Node (40.035,-76.512)",0,unnamed_line_1845_467__c0,rrmma-lines
+unnamed_line_1845_471,rrmma_1840_1870,unnamed_line_1845_471__c0,"Node (42.639,-83.291)",0,unnamed_line_1845_471__c0,rrmma-lines
+unnamed_line_1845_472,rrmma_1840_1870,unnamed_line_1845_472__c0,"Node (40.326,-78.922)",0,unnamed_line_1845_472__c0,rrmma-lines
+unnamed_line_1845_474,rrmma_1840_1870,unnamed_line_1845_474__c0,"Node (43.168,-77.606)",0,unnamed_line_1845_474__c0,rrmma-lines
+unnamed_line_1845_475,rrmma_1840_1870,unnamed_line_1845_475__c0,"Node (40.478,-74.291)",0,unnamed_line_1845_475__c0,rrmma-lines
+unnamed_line_1845_476,rrmma_1840_1870,unnamed_line_1845_476__c0,"Node (31.708,-91.045)",0,unnamed_line_1845_476__c0,rrmma-lines
+unnamed_line_1845_480,rrmma_1840_1870,unnamed_line_1845_480__c0,Columbia,0,unnamed_line_1845_480__c0,rrmma-lines
+unnamed_line_1845_483,rrmma_1840_1870,unnamed_line_1845_483__c0,Norfolk,0,unnamed_line_1845_483__c0,rrmma-lines
+unnamed_line_1845_484,rrmma_1840_1870,unnamed_line_1845_484__c0,La Grange,0,unnamed_line_1845_484__c0,rrmma-lines
+unnamed_line_1845_487,rrmma_1840_1870,unnamed_line_1845_487__c0,Cleveland,0,unnamed_line_1845_487__c0,rrmma-lines
+unnamed_line_1845_489,rrmma_1840_1870,unnamed_line_1845_489__c0,"Node (41.918,-84.634)",0,unnamed_line_1845_489__c0,rrmma-lines
+unnamed_line_1845_490,rrmma_1840_1870,unnamed_line_1845_490__c0,"Node (42.627,-83.032)",0,unnamed_line_1845_490__c0,rrmma-lines
+unnamed_line_1845_491,rrmma_1840_1870,unnamed_line_1845_491__c0,Charlestown,0,unnamed_line_1845_491__c0,rrmma-lines
+unnamed_line_1845_493,rrmma_1840_1870,unnamed_line_1845_493__c0,"Node (40.918,-74.167)",0,unnamed_line_1845_493__c0,rrmma-lines
+unnamed_line_1845_494,rrmma_1840_1870,unnamed_line_1845_494__c0,"Node (40.682,-76.189)",0,unnamed_line_1845_494__c0,rrmma-lines
+unnamed_line_1845_495,rrmma_1840_1870,unnamed_line_1845_495__c0,"Node (40.259,-76.873)",0,unnamed_line_1845_495__c0,rrmma-lines
+unnamed_line_1845_496,rrmma_1840_1870,unnamed_line_1845_496__c0,"Node (39.964,-76.730)",0,unnamed_line_1845_496__c0,rrmma-lines
+unnamed_line_1845_497,rrmma_1840_1870,unnamed_line_1845_497__c0,"Node (40.999,-76.438)",0,unnamed_line_1845_497__c0,rrmma-lines
+unnamed_line_1845_498,rrmma_1840_1870,unnamed_line_1845_498__c0,"Node (40.875,-75.755)",0,unnamed_line_1845_498__c0,rrmma-lines
+unnamed_line_1845_499,rrmma_1840_1870,unnamed_line_1845_499__c0,"Node (44.934,-68.646)",0,unnamed_line_1845_499__c0,rrmma-lines
+boston_concord_and_montreal,rrmma_1840_1870,boston_concord_and_montreal__c0,"Node (43.847,-71.881)",0,boston_concord_and_montreal__c0,rrmma-lines
+boston_concord_and_montreal,rrmma_1840_1870,boston_concord_and_montreal__c1,"Node (42.982,-71.465)",0,boston_concord_and_montreal__c1,rrmma-lines
+unnamed_line_1845_503,rrmma_1840_1870,unnamed_line_1845_503__c0,"Node (42.583,-71.802)",0,unnamed_line_1845_503__c0,rrmma-lines
+unnamed_line_1845_504,rrmma_1840_1870,unnamed_line_1845_504__c0,"Node (42.604,-70.875)",0,unnamed_line_1845_504__c0,rrmma-lines
+unnamed_line_1845_505,rrmma_1840_1870,unnamed_line_1845_505__c0,"Node (42.008,-71.238)",0,unnamed_line_1845_505__c0,rrmma-lines
+new_london_willimantic_and_palmer,rrmma_1840_1870,new_london_willimantic_and_palmer__c0,"Node (41.362,-72.096)",0,new_london_willimantic_and_palmer__c0,rrmma-lines
+unnamed_line_1845_510,rrmma_1840_1870,unnamed_line_1845_510__c0,"Node (41.043,-73.919)",0,unnamed_line_1845_510__c0,rrmma-lines
+unnamed_line_1845_511,rrmma_1840_1870,unnamed_line_1845_511__c0,"Node (41.436,-74.375)",0,unnamed_line_1845_511__c0,rrmma-lines
+unnamed_line_1845_514,rrmma_1840_1870,unnamed_line_1845_514__c0,"Node (42.342,-73.595)",0,unnamed_line_1845_514__c0,rrmma-lines
+unnamed_line_1845_515,rrmma_1840_1870,unnamed_line_1845_515__c0,"Node (43.000,-73.838)",0,unnamed_line_1845_515__c0,rrmma-lines
+unnamed_line_1845_516,rrmma_1840_1870,unnamed_line_1845_516__c0,"Node (42.817,-73.940)",0,unnamed_line_1845_516__c0,rrmma-lines
+unnamed_line_1845_519,rrmma_1840_1870,unnamed_line_1845_519__c0,"Node (42.887,-77.284)",0,unnamed_line_1845_519__c0,rrmma-lines
+potsdam_and_watertown,rrmma_1840_1870,potsdam_and_watertown__c0,"Node (44.151,-75.709)",0,potsdam_and_watertown__c0,rrmma-lines
+western_vermont,rrmma_1840_1870,western_vermont__c0,"Node (42.932,-73.242)",0,western_vermont__c0,rrmma-lines
+fitchburg_and_worcester,rrmma_1840_1870,fitchburg_and_worcester__c0,"Node (42.260,-71.797)",0,fitchburg_and_worcester__c0,rrmma-lines
+south_shore,rrmma_1840_1870,south_shore__c0,"Node (42.221,-71.002)",0,south_shore__c0,rrmma-lines
+oswego_and_syracuse,rrmma_1840_1870,oswego_and_syracuse__c0,"Node (43.073,-76.174)",0,oswego_and_syracuse__c0,rrmma-lines
+cape_cod,rrmma_1840_1870,cape_cod__c0,"Node (41.887,-70.924)",0,cape_cod__c0,rrmma-lines
+amherst_belchertown_and_palmer,rrmma_1840_1870,amherst_belchertown_and_palmer__c0,"Node (42.156,-72.330)",0,amherst_belchertown_and_palmer__c0,rrmma-lines
+hudson_river,rrmma_1840_1870,hudson_river__c0,"Node (42.642,-73.742)",0,hudson_river__c0,rrmma-lines
+waterbury_and_hartford,rrmma_1840_1870,waterbury_and_hartford__c0,"Node (41.549,-73.045)",0,waterbury_and_hartford__c0,rrmma-lines
+elmira_jefferson_and_canandaigua,rrmma_1840_1870,elmira_jefferson_and_canandaigua__c0,"Node (42.756,-77.044)",0,elmira_jefferson_and_canandaigua__c0,rrmma-lines
+new_haven_and_northampton,rrmma_1840_1870,new_haven_and_northampton__c0,"Node (41.597,-72.886)",0,new_haven_and_northampton__c0,rrmma-lines
+waterbury_and_windstead,rrmma_1840_1870,waterbury_and_windstead__c0,"Node (41.579,-73.050)",0,waterbury_and_windstead__c0,rrmma-lines
+buffalo_corning_and_new_york,rrmma_1840_1870,buffalo_corning_and_new_york__c0,"Node (42.155,-77.085)",0,buffalo_corning_and_new_york__c0,rrmma-lines
+new_haven_new_london_and_stonington,rrmma_1840_1870,new_haven_new_london_and_stonington__c0,"Node (41.362,-72.096)",0,new_haven_new_london_and_stonington__c0,rrmma-lines
+naugatuck,rrmma_1840_1870,naugatuck__c0,"Node (41.206,-73.107)",0,naugatuck__c0,rrmma-lines
+delaware_lackawanna_and_western,rrmma_1840_1870,delaware_lackawanna_and_western__c0,"Node (41.328,-75.746)",0,delaware_lackawanna_and_western__c0,rrmma-lines
+delaware_lackawanna_and_western,rrmma_1840_1870,delaware_lackawanna_and_western__c1,"Node (40.707,-74.958)",0,delaware_lackawanna_and_western__c1,rrmma-lines
+lackawanna_and_bloomsburg,rrmma_1840_1870,lackawanna_and_bloomsburg__c0,"Node (41.343,-75.784)",0,lackawanna_and_bloomsburg__c0,rrmma-lines
+milwaukee_and_prairie_du_chien,rrmma_1840_1870,milwaukee_and_prairie_du_chien__c0,"Node (43.024,-87.994)",0,milwaukee_and_prairie_du_chien__c0,rrmma-lines
+milwaukee_and_prairie_du_chien,rrmma_1840_1870,milwaukee_and_prairie_du_chien__c1,"Node (42.673,-89.038)",0,milwaukee_and_prairie_du_chien__c1,rrmma-lines
+lehigh_valley,rrmma_1840_1870,lehigh_valley__c0,"Node (40.859,-75.717)",0,lehigh_valley__c0,rrmma-lines
+east_pennsylvania,rrmma_1840_1870,east_pennsylvania__c0,"Node (40.615,-75.375)",0,east_pennsylvania__c0,rrmma-lines
+racine_and_mississippi,rrmma_1840_1870,racine_and_mississippi__c0,"Node (42.701,-87.906)",0,racine_and_mississippi__c0,rrmma-lines
+racine_and_mississippi,rrmma_1840_1870,racine_and_mississippi__c1,"Node (42.491,-89.043)",0,racine_and_mississippi__c1,rrmma-lines
+cleveland_and_mahoning,rrmma_1840_1870,cleveland_and_mahoning__c0,"Node (41.089,-80.635)",0,cleveland_and_mahoning__c0,rrmma-lines
+cleveland_and_pittsburgh,rrmma_1840_1870,cleveland_and_pittsburgh__c0,"Node (40.724,-81.110)",0,cleveland_and_pittsburgh__c0,rrmma-lines
+cleveland_columbus_and_cincinnati,rrmma_1840_1870,cleveland_columbus_and_cincinnati__c0,"Node (41.461,-81.740)",0,cleveland_columbus_and_cincinnati__c0,rrmma-lines
+cleveland_columbus_and_cincinnati,rrmma_1840_1870,cleveland_columbus_and_cincinnati__c1,"Node (39.963,-83.012)",0,cleveland_columbus_and_cincinnati__c1,rrmma-lines
+north_pennsylvania,rrmma_1840_1870,north_pennsylvania__c0,"Node (40.023,-75.159)",0,north_pennsylvania__c0,rrmma-lines
+galena_and_chicago_union,rrmma_1840_1870,galena_and_chicago_union__c0,"Node (41.883,-88.209)",0,galena_and_chicago_union__c0,rrmma-lines
+galena_and_chicago_union,rrmma_1840_1870,galena_and_chicago_union__c1,"Node (41.861,-87.637)",0,galena_and_chicago_union__c1,rrmma-lines
+galena_and_chicago_union,rrmma_1840_1870,galena_and_chicago_union__c2,"Node (41.989,-88.687)",0,galena_and_chicago_union__c2,rrmma-lines
+cleveland_zanesville_and_cincinnati,rrmma_1840_1870,cleveland_zanesville_and_cincinnati__c0,"Node (40.901,-81.728)",0,cleveland_zanesville_and_cincinnati__c0,rrmma-lines
+cleveland_zanesville_and_cincinnati,rrmma_1840_1870,cleveland_zanesville_and_cincinnati__c1,"Node (40.834,-81.779)",0,cleveland_zanesville_and_cincinnati__c1,rrmma-lines
+joliet_and_northern_indiana,rrmma_1840_1870,joliet_and_northern_indiana__c0,"Node (41.509,-87.466)",0,joliet_and_northern_indiana__c0,rrmma-lines
+sandusky_mansfield_and_newark,rrmma_1840_1870,sandusky_mansfield_and_newark__c0,"Node (40.812,-82.584)",0,sandusky_mansfield_and_newark__c0,rrmma-lines
+sandusky_mansfield_and_newark,rrmma_1840_1870,sandusky_mansfield_and_newark__c1,"Node (40.056,-82.398)",0,sandusky_mansfield_and_newark__c1,rrmma-lines
+sandusky_mansfield_and_newark,rrmma_1840_1870,sandusky_mansfield_and_newark__c2,"Node (41.388,-82.549)",0,sandusky_mansfield_and_newark__c2,rrmma-lines
+carrollton_and_oneida,rrmma_1840_1870,carrollton_and_oneida__c0,"Node (40.567,-81.093)",0,carrollton_and_oneida__c0,rrmma-lines
+toledo_and_western,rrmma_1840_1870,toledo_and_western__c0,"Node (41.500,-83.725)",0,toledo_and_western__c0,rrmma-lines
+toledo_and_western,rrmma_1840_1870,toledo_and_western__c1,"Node (41.072,-85.075)",0,toledo_and_western__c1,rrmma-lines
+toledo_and_western,rrmma_1840_1870,toledo_and_western__c2,"Node (40.198,-87.531)",0,toledo_and_western__c2,rrmma-lines
+central_ohio,rrmma_1840_1870,central_ohio__c0,Benwood,0,central_ohio__c0,rrmma-lines
+peru_and_indianapolis,rrmma_1840_1870,peru_and_indianapolis__c0,"Node (40.750,-86.087)",0,peru_and_indianapolis__c0,rrmma-lines
+cincinnati_and_chicago,rrmma_1840_1870,cincinnati_and_chicago__c0,"Node (41.320,-86.890)",0,cincinnati_and_chicago__c0,rrmma-lines
+columbus_piqua_and_indiana,rrmma_1840_1870,columbus_piqua_and_indiana__c0,"Node (39.962,-83.025)",0,columbus_piqua_and_indiana__c0,rrmma-lines
+springfield_mount_vernon_and_pittsburgh,rrmma_1840_1870,springfield_mount_vernon_and_pittsburgh__c0,"Node (39.935,-83.775)",0,springfield_mount_vernon_and_pittsburgh__c0,rrmma-lines
+north_western_of_virginia,rrmma_1840_1870,north_western_of_virginia__c0,Grafton,0,north_western_of_virginia__c0,rrmma-lines
+north_western_of_virginia,rrmma_1840_1870,north_western_of_virginia__c1,Parkersburg,0,north_western_of_virginia__c1,rrmma-lines
+orange_and_alexandria,rrmma_1840_1870,orange_and_alexandria__c0,Lynchburg,0,orange_and_alexandria__c0,rrmma-lines
+manassas_gap,rrmma_1840_1870,manassas_gap__c0,Mt. Jackson,0,manassas_gap__c0,rrmma-lines
+lafayette_and_indianapolis,rrmma_1840_1870,lafayette_and_indianapolis__c0,"Node (39.764,-86.177)",0,lafayette_and_indianapolis__c0,rrmma-lines
+cincinnati_hamilton_and_dayton,rrmma_1840_1870,cincinnati_hamilton_and_dayton__c0,"Node (39.763,-84.179)",0,cincinnati_hamilton_and_dayton__c0,rrmma-lines
+terre_haute_and_richmond,rrmma_1840_1870,terre_haute_and_richmond__c0,"Node (39.741,-86.153)",0,terre_haute_and_richmond__c0,rrmma-lines
+marietta_and_cincinnati,rrmma_1840_1870,marietta_and_cincinnati__c0,"Node (39.300,-82.916)",0,marietta_and_cincinnati__c0,rrmma-lines
+marietta_and_cincinnati,rrmma_1840_1870,marietta_and_cincinnati__c1,"Node (39.202,-83.612)",0,marietta_and_cincinnati__c1,rrmma-lines
+cincinnati_eaton_and_richmond,rrmma_1840_1870,cincinnati_eaton_and_richmond__c0,"Node (39.161,-84.443)",0,cincinnati_eaton_and_richmond__c0,rrmma-lines
+little_miami,rrmma_1840_1870,little_miami__c0,"Node (39.156,-84.408)",0,little_miami__c0,rrmma-lines
+sciota_and_hocking_valley,rrmma_1840_1870,sciota_and_hocking_valley__c0,"Node (38.738,-82.989)",0,sciota_and_hocking_valley__c0,rrmma-lines
+kentucky_central,rrmma_1840_1870,kentucky_central__c0,Covington,0,kentucky_central__c0,rrmma-lines
+richmond,rrmma_1840_1870,richmond__c0,Richmond,0,richmond__c0,rrmma-lines
+richmond_and_danville,rrmma_1840_1870,richmond_and_danville__c0,Danville,0,richmond_and_danville__c0,rrmma-lines
+louisville_and_nashville,rrmma_1840_1870,louisville_and_nashville__c0,Louisville,0,louisville_and_nashville__c0,rrmma-lines
+louisville_and_nashville,rrmma_1840_1870,louisville_and_nashville__c1,Lebanon,0,louisville_and_nashville__c1,rrmma-lines
+nashville_and_chattanooga,rrmma_1840_1870,nashville_and_chattanooga__c0,Shelbyville,0,nashville_and_chattanooga__c0,rrmma-lines
+nashville_and_chattanooga,rrmma_1840_1870,nashville_and_chattanooga__c1,Tracy City,0,nashville_and_chattanooga__c1,rrmma-lines
+mississippi_and_tennessee,rrmma_1840_1870,mississippi_and_tennessee__c0,Memphis,0,mississippi_and_tennessee__c0,rrmma-lines
+mobile_and_ohio,rrmma_1840_1870,mobile_and_ohio__c0,West Point,0,mobile_and_ohio__c0,rrmma-lines
+lebanon_valley,rrmma_1840_1870,lebanon_valley__c0,"Node (40.615,-75.375)",0,lebanon_valley__c0,rrmma-lines
+cincinnati_and_indianapolis_junction,rrmma_1840_1870,cincinnati_and_indianapolis_junction__c0,"Node (39.597,-84.862)",0,cincinnati_and_indianapolis_junction__c0,rrmma-lines
+portland_and_oxford_central,rrmma_1840_1870,portland_and_oxford_central__c0,"Node (44.290,-70.365)",0,portland_and_oxford_central__c0,rrmma-lines
+androscoggin,rrmma_1840_1870,androscoggin__c0,"Node (44.208,-70.077)",0,androscoggin__c0,rrmma-lines
+york_and_cumberland,rrmma_1840_1870,york_and_cumberland__c0,"Node (43.679,-70.349)",0,york_and_cumberland__c0,rrmma-lines
+somerset_and_kennebec,rrmma_1840_1870,somerset_and_kennebec__c0,"Node (44.588,-69.596)",0,somerset_and_kennebec__c0,rrmma-lines
+kennebec_and_portland,rrmma_1840_1870,kennebec_and_portland__c0,"Node (43.814,-70.194)",0,kennebec_and_portland__c0,rrmma-lines
+concord_and_portsmouth,rrmma_1840_1870,concord_and_portsmouth__c0,"Node (43.066,-70.778)",0,concord_and_portsmouth__c0,rrmma-lines
+concord,rrmma_1840_1870,concord__c0,"Node (43.200,-70.874)",0,concord__c0,rrmma-lines
+vermont_central,rrmma_1840_1870,vermont_central__c0,"Node (44.487,-73.111)",0,vermont_central__c0,rrmma-lines
+troy_and_boston,rrmma_1840_1870,troy_and_boston__c0,"Node (42.851,-72.557)",0,troy_and_boston__c0,rrmma-lines
+ashuelot,rrmma_1840_1870,ashuelot__c0,"Node (42.774,-72.382)",0,ashuelot__c0,rrmma-lines
+great_falls_and_conway,rrmma_1840_1870,great_falls_and_conway__c0,"Node (43.227,-70.846)",0,great_falls_and_conway__c0,rrmma-lines
+pittsfield_and_north_adams,rrmma_1840_1870,pittsfield_and_north_adams__c0,"Node (42.454,-73.235)",0,pittsfield_and_north_adams__c0,rrmma-lines
+rome,rrmma_1840_1870,rome__c0,Kingston,0,rome__c0,rrmma-lines
+atlanta_and_west_point,rrmma_1840_1870,atlanta_and_west_point__c0,Westpoint,0,atlanta_and_west_point__c0,rrmma-lines
+milledgeville_and_eatonton,rrmma_1840_1870,milledgeville_and_eatonton__c0,Eatonton,0,milledgeville_and_eatonton__c0,rrmma-lines
+macon_and_western,rrmma_1840_1870,macon_and_western__c0,Macon,0,macon_and_western__c0,rrmma-lines
+kings_mountain,rrmma_1840_1870,kings_mountain__c0,Yorkville,0,kings_mountain__c0,rrmma-lines
+blue_ridge,rrmma_1840_1870,blue_ridge__c0,Belton,0,blue_ridge__c0,rrmma-lines
+greensville_and_columbia,rrmma_1840_1870,greensville_and_columbia__c0,Abbeville,0,greensville_and_columbia__c0,rrmma-lines
+laurens,rrmma_1840_1870,laurens__c0,Newberry,0,laurens__c0,rrmma-lines
+spartanburg_and_union,rrmma_1840_1870,spartanburg_and_union__c0,Alston,0,spartanburg_and_union__c0,rrmma-lines
+north_carolina,rrmma_1840_1870,north_carolina__c0,Charlotte,0,north_carolina__c0,rrmma-lines
+muscogee,rrmma_1840_1870,muscogee__c0,Columbus,0,muscogee__c0,rrmma-lines
+unnamed_line_1850_1000_masachusetts,rrmma_1840_1870,unnamed_line_1850_1000_masachusetts__c0,"Node (42.813,-70.877)",0,unnamed_line_1850_1000_masachusetts__c0,rrmma-lines
+south_western,rrmma_1840_1870,south_western__c0,Georgetown,0,south_western__c0,rrmma-lines
+nashville_and_decatur,rrmma_1840_1870,nashville_and_decatur__c0,"Node (35.587,-87.129)",0,nashville_and_decatur__c0,rrmma-lines
+new_haven_and_northampden,rrmma_1840_1870,new_haven_and_northampden__c0,"Node (41.673,-72.867)",0,new_haven_and_northampden__c0,rrmma-lines
+new_haven_and_northampden,rrmma_1840_1870,new_haven_and_northampden__c1,"Node (41.597,-72.886)",0,new_haven_and_northampden__c1,rrmma-lines
+beloit_and_madison,rrmma_1840_1870,beloit_and_madison__c0,"Node (42.260,-88.851)",0,beloit_and_madison__c0,rrmma-lines
+unnamed_line_1850_1049_wisconsin,rrmma_1840_1870,unnamed_line_1850_1049_wisconsin__c0,"Node (42.498,-88.328)",0,unnamed_line_1850_1049_wisconsin__c0,rrmma-lines
+unnamed_line_1850_1053_iowa,rrmma_1840_1870,unnamed_line_1850_1053_iowa__c0,"Node (41.521,-90.568)",0,unnamed_line_1850_1053_iowa__c0,rrmma-lines
+unnamed_line_1850_1054_illinois,rrmma_1840_1870,unnamed_line_1850_1054_illinois__c0,"Node (41.516,-90.572)",0,unnamed_line_1850_1054_illinois__c0,rrmma-lines
+indiana_central,rrmma_1840_1870,indiana_central__c0,"Node (39.835,-84.895)",0,indiana_central__c0,rrmma-lines
+indiana_central,rrmma_1840_1870,indiana_central__c1,"Node (39.750,-84.207)",0,indiana_central__c1,rrmma-lines
+cincinnati_and_martinsville,rrmma_1840_1870,cincinnati_and_martinsville__c0,"Node (39.482,-86.052)",0,cincinnati_and_martinsville__c0,rrmma-lines
+shelbyville_lateral_and_rushville,rrmma_1840_1870,shelbyville_lateral_and_rushville__c0,"Node (39.610,-85.450)",0,shelbyville_lateral_and_rushville__c0,rrmma-lines
+unnamed_line_1850_1074_michigan,rrmma_1840_1870,unnamed_line_1850_1074_michigan__c0,"Node (41.725,-83.720)",0,unnamed_line_1850_1074_michigan__c0,rrmma-lines
+unnamed_line_1850_1075_ohio,rrmma_1840_1870,unnamed_line_1850_1075_ohio__c0,"Node (41.712,-83.704)",0,unnamed_line_1850_1075_ohio__c0,rrmma-lines
+unnamed_line_1850_1078_ohio,rrmma_1840_1870,unnamed_line_1850_1078_ohio__c0,"Node (40.956,-83.378)",0,unnamed_line_1850_1078_ohio__c0,rrmma-lines
+greenville_and_miami,rrmma_1840_1870,greenville_and_miami__c0,"Node (39.846,-84.540)",0,greenville_and_miami__c0,rrmma-lines
+cincinnati_wilmington_and_zanesville,rrmma_1840_1870,cincinnati_wilmington_and_zanesville__c0,"Node (39.450,-83.815)",0,cincinnati_wilmington_and_zanesville__c0,rrmma-lines
+iron_railroad,rrmma_1840_1870,iron_railroad__c0,"Node (38.617,-82.572)",0,iron_railroad__c0,rrmma-lines
+unnamed_line_1850_1103_west_virginia,rrmma_1840_1870,unnamed_line_1850_1103_west_virginia__c0,"Node (40.102,-80.519)",0,unnamed_line_1850_1103_west_virginia__c0,rrmma-lines
+unnamed_line_1850_1104_pennsylvania,rrmma_1840_1870,unnamed_line_1850_1104_pennsylvania__c0,"Node (40.167,-80.242)",0,unnamed_line_1850_1104_pennsylvania__c0,rrmma-lines
+unnamed_line_1850_1105_pennsylvania,rrmma_1840_1870,unnamed_line_1850_1105_pennsylvania__c0,"Node (40.035,-76.512)",0,unnamed_line_1850_1105_pennsylvania__c0,rrmma-lines
+catawissa_williamsport_and_elmira,rrmma_1840_1870,catawissa_williamsport_and_elmira__c0,"Node (40.935,-75.990)",0,catawissa_williamsport_and_elmira__c0,rrmma-lines
+catawissa_williamsport_and_elmira,rrmma_1840_1870,catawissa_williamsport_and_elmira__c1,"Node (40.959,-76.647)",0,catawissa_williamsport_and_elmira__c1,rrmma-lines
+western_maryland,rrmma_1840_1870,western_maryland__c0,Owington,0,western_maryland__c0,rrmma-lines
+unnamed_line_1850_1122_new_york,rrmma_1840_1870,unnamed_line_1850_1122_new_york__c0,"Node (42.863,-78.281)",0,unnamed_line_1850_1122_new_york__c0,rrmma-lines
+watertown_and_rome,rrmma_1840_1870,watertown_and_rome__c0,"Node (43.200,-75.457)",0,watertown_and_rome__c0,rrmma-lines
+unnamed_line_1850_1129_new_york,rrmma_1840_1870,unnamed_line_1850_1129_new_york__c0,"Node (44.130,-76.336)",0,unnamed_line_1850_1129_new_york__c0,rrmma-lines
+ogdensburgh,rrmma_1840_1870,ogdensburgh__c0,"Node (44.998,-73.372)",0,ogdensburgh__c0,rrmma-lines
+plattsburgh_and_montreal,rrmma_1840_1870,plattsburgh_and_montreal__c0,"Node (44.699,-73.450)",0,plattsburgh_and_montreal__c0,rrmma-lines
+troy_and_bennington,rrmma_1840_1870,troy_and_bennington__c0,"Node (42.949,-73.400)",0,troy_and_bennington__c0,rrmma-lines
+chemung,rrmma_1840_1870,chemung__c0,"Node (42.096,-76.810)",0,chemung__c0,rrmma-lines
+unnamed_line_1850_1153_masachusetts,rrmma_1840_1870,unnamed_line_1850_1153_masachusetts__c0,"Node (42.618,-70.665)",0,unnamed_line_1850_1153_masachusetts__c0,rrmma-lines
+unnamed_line_1850_1165,rrmma_1840_1870,unnamed_line_1850_1165__c0,Stevenson,0,unnamed_line_1850_1165__c0,rrmma-lines
+wilmington_charlotte_and_rutherford,rrmma_1840_1870,wilmington_charlotte_and_rutherford__c0,Charlotte,0,wilmington_charlotte_and_rutherford__c0,rrmma-lines
+wilmington_charlotte_and_rutherford,rrmma_1840_1870,wilmington_charlotte_and_rutherford__c1,Register,0,wilmington_charlotte_and_rutherford__c1,rrmma-lines
+unnamed_line_1850_1170,rrmma_1840_1870,unnamed_line_1850_1170__c0,Charlestown,0,unnamed_line_1850_1170__c0,rrmma-lines
+concord_and_claremont,rrmma_1840_1870,concord_and_claremont__c0,"Node (43.210,-71.536)",0,concord_and_claremont__c0,rrmma-lines
+unnamed_line_1850_1182,rrmma_1840_1870,unnamed_line_1850_1182__c0,"Node (43.096,-71.731)",0,unnamed_line_1850_1182__c0,rrmma-lines
+unnamed_line_1850_1183,rrmma_1840_1870,unnamed_line_1850_1183__c0,"Node (43.616,-71.473)",0,unnamed_line_1850_1183__c0,rrmma-lines
+unnamed_line_1850_1184,rrmma_1840_1870,unnamed_line_1850_1184__c0,"Node (42.548,-72.537)",0,unnamed_line_1850_1184__c0,rrmma-lines
+unnamed_line_1850_1187,rrmma_1840_1870,unnamed_line_1850_1187__c0,"Node (40.164,-80.235)",0,unnamed_line_1850_1187__c0,rrmma-lines
+unnamed_line_1850_1188,rrmma_1840_1870,unnamed_line_1850_1188__c0,"Node (40.402,-78.508)",0,unnamed_line_1850_1188__c0,rrmma-lines
+unnamed_line_1850_1189,rrmma_1840_1870,unnamed_line_1850_1189__c0,"Node (39.756,-77.611)",0,unnamed_line_1850_1189__c0,rrmma-lines
+unnamed_line_1850_1192,rrmma_1840_1870,unnamed_line_1850_1192__c0,"Node (40.035,-76.512)",0,unnamed_line_1850_1192__c0,rrmma-lines
+unnamed_line_1850_1193,rrmma_1840_1870,unnamed_line_1850_1193__c0,"Node (40.329,-83.685)",0,unnamed_line_1850_1193__c0,rrmma-lines
+unnamed_line_1850_1194,rrmma_1840_1870,unnamed_line_1850_1194__c0,"Node (39.326,-83.228)",0,unnamed_line_1850_1194__c0,rrmma-lines
+unnamed_line_1850_1195,rrmma_1840_1870,unnamed_line_1850_1195__c0,"Node (39.331,-83.214)",0,unnamed_line_1850_1195__c0,rrmma-lines
+unnamed_line_1850_1196,rrmma_1840_1870,unnamed_line_1850_1196__c0,"Node (38.638,-82.575)",0,unnamed_line_1850_1196__c0,rrmma-lines
+unnamed_line_1850_1197,rrmma_1840_1870,unnamed_line_1850_1197__c0,"Node (38.835,-82.648)",0,unnamed_line_1850_1197__c0,rrmma-lines
+unnamed_line_1850_1198,rrmma_1840_1870,unnamed_line_1850_1198__c0,"Node (38.639,-82.574)",0,unnamed_line_1850_1198__c0,rrmma-lines
+unnamed_line_1850_1199,rrmma_1840_1870,unnamed_line_1850_1199__c0,"Node (38.617,-82.572)",0,unnamed_line_1850_1199__c0,rrmma-lines
+unnamed_line_1850_1201,rrmma_1840_1870,unnamed_line_1850_1201__c0,"Node (40.164,-80.234)",0,unnamed_line_1850_1201__c0,rrmma-lines
+unnamed_line_1850_1202,rrmma_1840_1870,unnamed_line_1850_1202__c0,"Node (39.642,-84.937)",0,unnamed_line_1850_1202__c0,rrmma-lines
+unnamed_line_1850_1203_michigan,rrmma_1840_1870,unnamed_line_1850_1203_michigan__c0,"Node (41.892,-84.016)",0,unnamed_line_1850_1203_michigan__c0,rrmma-lines
+unnamed_line_1850_1206,rrmma_1840_1870,unnamed_line_1850_1206__c0,Proctorsville,0,unnamed_line_1850_1206__c0,rrmma-lines
+unnamed_line_1850_1207,rrmma_1840_1870,unnamed_line_1850_1207__c0,Algiers,0,unnamed_line_1850_1207__c0,rrmma-lines
+unnamed_line_1850_1212,rrmma_1840_1870,unnamed_line_1850_1212__c0,Fairgrounds,0,unnamed_line_1850_1212__c0,rrmma-lines
+unnamed_line_1850_1216,rrmma_1840_1870,unnamed_line_1850_1216__c0,"Node (43.774,-88.449)",0,unnamed_line_1850_1216__c0,rrmma-lines
+unnamed_line_1850_1217,rrmma_1840_1870,unnamed_line_1850_1217__c0,"Node (42.639,-83.291)",0,unnamed_line_1850_1217__c0,rrmma-lines
+unnamed_line_1850_1218,rrmma_1840_1870,unnamed_line_1850_1218__c0,"Node (41.684,-85.943)",0,unnamed_line_1850_1218__c0,rrmma-lines
+unnamed_line_1850_1219,rrmma_1840_1870,unnamed_line_1850_1219__c0,"Node (40.649,-83.609)",0,unnamed_line_1850_1219__c0,rrmma-lines
+unnamed_line_1850_1221,rrmma_1840_1870,unnamed_line_1850_1221__c0,"Node (40.301,-79.540)",0,unnamed_line_1850_1221__c0,rrmma-lines
+unnamed_line_1850_1222,rrmma_1840_1870,unnamed_line_1850_1222__c0,"Node (40.305,-79.542)",0,unnamed_line_1850_1222__c0,rrmma-lines
+unnamed_line_1850_1223,rrmma_1840_1870,unnamed_line_1850_1223__c0,"Node (40.326,-78.922)",0,unnamed_line_1850_1223__c0,rrmma-lines
+unnamed_line_1850_1224,rrmma_1840_1870,unnamed_line_1850_1224__c0,"Node (40.302,-79.535)",0,unnamed_line_1850_1224__c0,rrmma-lines
+unnamed_line_1850_1225,rrmma_1840_1870,unnamed_line_1850_1225__c0,"Node (40.517,-78.315)",0,unnamed_line_1850_1225__c0,rrmma-lines
+unnamed_line_1850_1226,rrmma_1840_1870,unnamed_line_1850_1226__c0,"Node (40.520,-78.310)",0,unnamed_line_1850_1226__c0,rrmma-lines
+unnamed_line_1850_1227,rrmma_1840_1870,unnamed_line_1850_1227__c0,"Node (40.655,-76.284)",0,unnamed_line_1850_1227__c0,rrmma-lines
+unnamed_line_1850_1228,rrmma_1840_1870,unnamed_line_1850_1228__c0,"Node (41.670,-75.246)",0,unnamed_line_1850_1228__c0,rrmma-lines
+unnamed_line_1850_1229,rrmma_1840_1870,unnamed_line_1850_1229__c0,Strasburg,0,unnamed_line_1850_1229__c0,rrmma-lines
+unnamed_line_1850_1231,rrmma_1840_1870,unnamed_line_1850_1231__c0,"Node (43.168,-77.606)",0,unnamed_line_1850_1231__c0,rrmma-lines
+unnamed_line_1850_1232,rrmma_1840_1870,unnamed_line_1850_1232__c0,"Node (40.478,-74.291)",0,unnamed_line_1850_1232__c0,rrmma-lines
+bangor_old_town_and_milford,rrmma_1840_1870,bangor_old_town_and_milford__c0,"Node (44.801,-68.764)",0,bangor_old_town_and_milford__c0,rrmma-lines
+boston_and_worchester,rrmma_1840_1870,boston_and_worchester__c0,"Node (42.277,-71.418)",0,boston_and_worchester__c0,rrmma-lines
+newark_and_bloomfield,rrmma_1840_1870,newark_and_bloomfield__c0,"Node (40.755,-74.192)",0,newark_and_bloomfield__c0,rrmma-lines
+newark_and_bloomfield,rrmma_1840_1870,newark_and_bloomfield__c1,"Node (40.810,-74.207)",0,newark_and_bloomfield__c1,rrmma-lines
+milwaukee_and_chicago,rrmma_1840_1870,milwaukee_and_chicago__c0,"Node (43.006,-87.897)",0,milwaukee_and_chicago__c0,rrmma-lines
+shamokin_valley_and_pottsville,rrmma_1840_1870,shamokin_valley_and_pottsville__c0,"Node (40.681,-76.188)",0,shamokin_valley_and_pottsville__c0,rrmma-lines
+flemington,rrmma_1840_1870,flemington__c0,"Node (40.375,-74.950)",0,flemington__c0,rrmma-lines
+belvidere_and_delaware,rrmma_1840_1870,belvidere_and_delaware__c0,"Node (40.688,-75.201)",0,belvidere_and_delaware__c0,rrmma-lines
+philadelphia_and_baltimore_central,rrmma_1840_1870,philadelphia_and_baltimore_central__c0,"Node (39.944,-75.205)",0,philadelphia_and_baltimore_central__c0,rrmma-lines
+philadelphia_and_baltimore_central,rrmma_1840_1870,philadelphia_and_baltimore_central__c1,"Node (39.915,-75.400)",0,philadelphia_and_baltimore_central__c1,rrmma-lines
+allegheny_valley,rrmma_1840_1870,allegheny_valley__c0,"Node (40.431,-80.000)",0,allegheny_valley__c0,rrmma-lines
+mississippi_and_missouri,rrmma_1840_1870,mississippi_and_missouri__c0,"Node (41.792,-92.070)",0,mississippi_and_missouri__c0,rrmma-lines
+rock_island_and_peoria,rrmma_1840_1870,rock_island_and_peoria__c0,"Node (41.508,-90.591)",0,rock_island_and_peoria__c0,rrmma-lines
+springfield_and_columbus,rrmma_1840_1870,springfield_and_columbus__c0,"Node (39.885,-83.442)",0,springfield_and_columbus__c0,rrmma-lines
+keokuk_mt_pleasant_and_muscatine,rrmma_1840_1870,keokuk_mt_pleasant_and_muscatine__c0,"Node (40.392,-91.379)",0,keokuk_mt_pleasant_and_muscatine__c0,rrmma-lines
+virginia_and_tennessee,rrmma_1840_1870,virginia_and_tennessee__c0,Gish's Mill,0,virginia_and_tennessee__c0,rrmma-lines
+alton_and_east_st_louis,rrmma_1840_1870,alton_and_east_st_louis__c0,St Louis,0,alton_and_east_st_louis__c0,rrmma-lines
+pacific,rrmma_1840_1870,pacific__c0,St Louis,0,pacific__c0,rrmma-lines
+clinton_and_port_hudson,rrmma_1840_1870,clinton_and_port_hudson__c0,Port Hudson,0,clinton_and_port_hudson__c0,rrmma-lines
+rockford_and_beloit,rrmma_1840_1870,rockford_and_beloit__c0,"Node (42.254,-89.090)",0,rockford_and_beloit__c0,rrmma-lines
+lewys_island,rrmma_1840_1870,lewys_island__c0,"Node (45.154,-67.408)",0,lewys_island__c0,rrmma-lines
+calais_and_baring,rrmma_1840_1870,calais_and_baring__c0,"Node (45.190,-67.278)",0,calais_and_baring__c0,rrmma-lines
+calais_and_baring,rrmma_1840_1870,calais_and_baring__c1,"Node (45.174,-67.292)",0,calais_and_baring__c1,rrmma-lines
+contoocook,rrmma_1840_1870,contoocook__c0,"Node (43.224,-71.715)",0,contoocook__c0,rrmma-lines
+white_mountains,rrmma_1840_1870,white_mountains__c0,"Node (44.146,-72.037)",0,white_mountains__c0,rrmma-lines
+quincy_and_toledo,rrmma_1840_1870,quincy_and_toledo__c0,"Node (39.822,-90.561)",0,quincy_and_toledo__c0,rrmma-lines
+unnamed_line_1855_1244_wisconsin,rrmma_1840_1870,unnamed_line_1855_1244_wisconsin__c0,"Node (42.498,-88.328)",0,unnamed_line_1855_1244_wisconsin__c0,rrmma-lines
+chicago_and_milwaukee,rrmma_1840_1870,chicago_and_milwaukee__c0,"Node (42.325,-87.839)",0,chicago_and_milwaukee__c0,rrmma-lines
+mineral_point,rrmma_1840_1870,mineral_point__c0,"Node (42.860,-90.180)",0,mineral_point__c0,rrmma-lines
+unnamed_line_1855_1254_iowa,rrmma_1840_1870,unnamed_line_1855_1254_iowa__c0,"Node (41.521,-90.568)",0,unnamed_line_1855_1254_iowa__c0,rrmma-lines
+unnamed_line_1855_1255_illinois,rrmma_1840_1870,unnamed_line_1855_1255_illinois__c0,"Node (41.516,-90.572)",0,unnamed_line_1855_1255_illinois__c0,rrmma-lines
+unnamed_line_1855_1273_michigan,rrmma_1840_1870,unnamed_line_1855_1273_michigan__c0,"Node (41.725,-83.720)",0,unnamed_line_1855_1273_michigan__c0,rrmma-lines
+unnamed_line_1855_1274_ohio,rrmma_1840_1870,unnamed_line_1855_1274_ohio__c0,"Node (41.712,-83.704)",0,unnamed_line_1855_1274_ohio__c0,rrmma-lines
+unnamed_line_1855_1278_ohio,rrmma_1840_1870,unnamed_line_1855_1278_ohio__c0,"Node (40.956,-83.378)",0,unnamed_line_1855_1278_ohio__c0,rrmma-lines
+dayton_xenia_and_belpre,rrmma_1840_1870,dayton_xenia_and_belpre__c0,"Node (39.685,-83.929)",0,dayton_xenia_and_belpre__c0,rrmma-lines
+unnamed_line_1855_1306_west_virginia,rrmma_1840_1870,unnamed_line_1855_1306_west_virginia__c0,"Node (40.102,-80.519)",0,unnamed_line_1855_1306_west_virginia__c0,rrmma-lines
+unnamed_line_1855_1307_pennsylvania,rrmma_1840_1870,unnamed_line_1855_1307_pennsylvania__c0,"Node (40.167,-80.242)",0,unnamed_line_1855_1307_pennsylvania__c0,rrmma-lines
+huntington_and_bread_top_mountain,rrmma_1840_1870,huntington_and_bread_top_mountain__c0,"Node (40.483,-78.011)",0,huntington_and_bread_top_mountain__c0,rrmma-lines
+unnamed_line_1855_1311_pennsylvania,rrmma_1840_1870,unnamed_line_1855_1311_pennsylvania__c0,"Node (40.035,-76.512)",0,unnamed_line_1855_1311_pennsylvania__c0,rrmma-lines
+beaver_meadow,rrmma_1840_1870,beaver_meadow__c0,"Node (40.875,-75.754)",0,beaver_meadow__c0,rrmma-lines
+schuylkill_and_susquehanna,rrmma_1840_1870,schuylkill_and_susquehanna__c0,"Node (40.633,-76.181)",0,schuylkill_and_susquehanna__c0,rrmma-lines
+cumberland_and_pennsylvania,rrmma_1840_1870,cumberland_and_pennsylvania__c0,Lonaconing,0,cumberland_and_pennsylvania__c0,rrmma-lines
+unnamed_line_1855_1336_new_york,rrmma_1840_1870,unnamed_line_1855_1336_new_york__c0,"Node (42.863,-78.281)",0,unnamed_line_1855_1336_new_york__c0,rrmma-lines
+unnamed_line_1855_1345_new_york,rrmma_1840_1870,unnamed_line_1855_1345_new_york__c0,"Node (44.130,-76.336)",0,unnamed_line_1855_1345_new_york__c0,rrmma-lines
+unnamed_line_1855_1376_masachusetts,rrmma_1840_1870,unnamed_line_1855_1376_masachusetts__c0,"Node (42.618,-70.665)",0,unnamed_line_1855_1376_masachusetts__c0,rrmma-lines
+unnamed_line_1855_1378_masachusetts,rrmma_1840_1870,unnamed_line_1855_1378_masachusetts__c0,"Node (42.571,-71.162)",0,unnamed_line_1855_1378_masachusetts__c0,rrmma-lines
+unnamed_line_1855_1385,rrmma_1840_1870,unnamed_line_1855_1385__c0,Proctorsville,0,unnamed_line_1855_1385__c0,rrmma-lines
+unnamed_line_1855_1388,rrmma_1840_1870,unnamed_line_1855_1388__c0,"Node (43.773,-88.442)",0,unnamed_line_1855_1388__c0,rrmma-lines
+unnamed_line_1855_1389,rrmma_1840_1870,unnamed_line_1855_1389__c0,"Node (43.069,-89.401)",0,unnamed_line_1855_1389__c0,rrmma-lines
+unnamed_line_1855_1390,rrmma_1840_1870,unnamed_line_1855_1390__c0,"Node (43.068,-89.403)",0,unnamed_line_1855_1390__c0,rrmma-lines
+unnamed_line_1855_1391,rrmma_1840_1870,unnamed_line_1855_1391__c0,"Node (42.505,-89.009)",0,unnamed_line_1855_1391__c0,rrmma-lines
+unnamed_line_1855_1392,rrmma_1840_1870,unnamed_line_1855_1392__c0,"Node (42.242,-83.610)",0,unnamed_line_1855_1392__c0,rrmma-lines
+unnamed_line_1855_1393_michigan,rrmma_1840_1870,unnamed_line_1855_1393_michigan__c0,"Node (41.892,-84.016)",0,unnamed_line_1855_1393_michigan__c0,rrmma-lines
+unnamed_line_1855_1394,rrmma_1840_1870,unnamed_line_1855_1394__c0,"Node (39.507,-87.370)",0,unnamed_line_1855_1394__c0,rrmma-lines
+unnamed_line_1855_1395,rrmma_1840_1870,unnamed_line_1855_1395__c0,"Node (41.237,-85.851)",0,unnamed_line_1855_1395__c0,rrmma-lines
+unnamed_line_1855_1396,rrmma_1840_1870,unnamed_line_1855_1396__c0,"Node (41.236,-85.856)",0,unnamed_line_1855_1396__c0,rrmma-lines
+unnamed_line_1855_1397,rrmma_1840_1870,unnamed_line_1855_1397__c0,"Node (40.738,-85.171)",0,unnamed_line_1855_1397__c0,rrmma-lines
+unnamed_line_1855_1398,rrmma_1840_1870,unnamed_line_1855_1398__c0,"Node (39.638,-84.935)",0,unnamed_line_1855_1398__c0,rrmma-lines
+unnamed_line_1855_1401,rrmma_1840_1870,unnamed_line_1855_1401__c0,Rienzi,0,unnamed_line_1855_1401__c0,rrmma-lines
+unnamed_line_1855_1402,rrmma_1840_1870,unnamed_line_1855_1402__c0,"Node (34.982,-85.655)",0,unnamed_line_1855_1402__c0,rrmma-lines
+unnamed_line_1855_1412,rrmma_1840_1870,unnamed_line_1855_1412__c0,Cuthbert,0,unnamed_line_1855_1412__c0,rrmma-lines
+unnamed_line_1855_1416,rrmma_1840_1870,unnamed_line_1855_1416__c0,Henderson,0,unnamed_line_1855_1416__c0,rrmma-lines
+unnamed_line_1855_1417,rrmma_1840_1870,unnamed_line_1855_1417__c0,Waynesboro,0,unnamed_line_1855_1417__c0,rrmma-lines
+unnamed_line_1855_1418,rrmma_1840_1870,unnamed_line_1855_1418__c0,"Node (40.375,-80.602)",0,unnamed_line_1855_1418__c0,rrmma-lines
+unnamed_line_1855_1419,rrmma_1840_1870,unnamed_line_1855_1419__c0,Monocacy,0,unnamed_line_1855_1419__c0,rrmma-lines
+unnamed_line_1855_1420,rrmma_1840_1870,unnamed_line_1855_1420__c0,Charlestown,0,unnamed_line_1855_1420__c0,rrmma-lines
+unnamed_line_1855_1421,rrmma_1840_1870,unnamed_line_1855_1421__c0,"Node (40.852,-74.835)",0,unnamed_line_1855_1421__c0,rrmma-lines
+unnamed_line_1855_1422,rrmma_1840_1870,unnamed_line_1855_1422__c0,"Node (40.912,-74.756)",0,unnamed_line_1855_1422__c0,rrmma-lines
+unnamed_line_1855_1423,rrmma_1840_1870,unnamed_line_1855_1423__c0,"Node (40.884,-74.482)",0,unnamed_line_1855_1423__c0,rrmma-lines
+unnamed_line_1855_1424,rrmma_1840_1870,unnamed_line_1855_1424__c0,"Node (40.875,-74.191)",0,unnamed_line_1855_1424__c0,rrmma-lines
+unnamed_line_1855_1425,rrmma_1840_1870,unnamed_line_1855_1425__c0,"Node (41.044,-73.923)",0,unnamed_line_1855_1425__c0,rrmma-lines
+unnamed_line_1855_1427,rrmma_1840_1870,unnamed_line_1855_1427__c0,"Node (42.889,-77.275)",0,unnamed_line_1855_1427__c0,rrmma-lines
+unnamed_line_1855_1432,rrmma_1840_1870,unnamed_line_1855_1432__c0,"Node (43.566,-71.465)",0,unnamed_line_1855_1432__c0,rrmma-lines
+unnamed_line_1855_1433,rrmma_1840_1870,unnamed_line_1855_1433__c0,"Node (43.773,-71.705)",0,unnamed_line_1855_1433__c0,rrmma-lines
+unnamed_line_1855_1436,rrmma_1840_1870,unnamed_line_1855_1436__c0,"Node (40.211,-79.767)",0,unnamed_line_1855_1436__c0,rrmma-lines
+unnamed_line_1855_1437,rrmma_1840_1870,unnamed_line_1855_1437__c0,"Node (40.304,-79.535)",0,unnamed_line_1855_1437__c0,rrmma-lines
+unnamed_line_1855_1438,rrmma_1840_1870,unnamed_line_1855_1438__c0,"Node (40.402,-78.508)",0,unnamed_line_1855_1438__c0,rrmma-lines
+unnamed_line_1855_1439,rrmma_1840_1870,unnamed_line_1855_1439__c0,"Node (40.326,-78.922)",0,unnamed_line_1855_1439__c0,rrmma-lines
+unnamed_line_1855_1440,rrmma_1840_1870,unnamed_line_1855_1440__c0,"Node (40.135,-78.269)",0,unnamed_line_1855_1440__c0,rrmma-lines
+unnamed_line_1855_1441,rrmma_1840_1870,unnamed_line_1855_1441__c0,"Node (41.592,-83.262)",0,unnamed_line_1855_1441__c0,rrmma-lines
+unnamed_line_1855_1442,rrmma_1840_1870,unnamed_line_1855_1442__c0,"Node (41.443,-82.740)",0,unnamed_line_1855_1442__c0,rrmma-lines
+unnamed_line_1855_1443,rrmma_1840_1870,unnamed_line_1855_1443__c0,"Node (39.948,-82.015)",0,unnamed_line_1855_1443__c0,rrmma-lines
+unnamed_line_1855_1444,rrmma_1840_1870,unnamed_line_1855_1444__c0,"Node (39.203,-83.607)",0,unnamed_line_1855_1444__c0,rrmma-lines
+unnamed_line_1855_1445,rrmma_1840_1870,unnamed_line_1855_1445__c0,"Node (39.941,-82.016)",0,unnamed_line_1855_1445__c0,rrmma-lines
+unnamed_line_1855_1447,rrmma_1840_1870,unnamed_line_1855_1447__c0,"Node (39.842,-84.841)",0,unnamed_line_1855_1447__c0,rrmma-lines
+unnamed_line_1855_1448,rrmma_1840_1870,unnamed_line_1855_1448__c0,"Node (39.922,-83.805)",0,unnamed_line_1855_1448__c0,rrmma-lines
+unnamed_line_1855_1449,rrmma_1840_1870,unnamed_line_1855_1449__c0,"Node (39.961,-83.010)",0,unnamed_line_1855_1449__c0,rrmma-lines
+unnamed_line_1855_1451,rrmma_1840_1870,unnamed_line_1855_1451__c0,"Node (41.563,-83.359)",0,unnamed_line_1855_1451__c0,rrmma-lines
+unnamed_line_1855_1452,rrmma_1840_1870,unnamed_line_1855_1452__c0,"Node (41.641,-83.588)",0,unnamed_line_1855_1452__c0,rrmma-lines
+unnamed_line_1855_1453,rrmma_1840_1870,unnamed_line_1855_1453__c0,"Node (41.562,-83.367)",0,unnamed_line_1855_1453__c0,rrmma-lines
+thomaston_and_barnesville,rrmma_1840_1870,thomaston_and_barnesville__c0,Thomaston,0,thomaston_and_barnesville__c0,rrmma-lines
+marlborough_branch,rrmma_1840_1870,marlborough_branch__c0,"Node (42.302,-71.517)",0,marlborough_branch__c0,rrmma-lines
+fairhaven_branch,rrmma_1840_1870,fairhaven_branch__c0,"Node (41.643,-70.902)",0,fairhaven_branch__c0,rrmma-lines
+hampshire_and_hampden,rrmma_1840_1870,hampshire_and_hampden__c0,"Node (42.330,-72.633)",0,hampshire_and_hampden__c0,rrmma-lines
+rochester_and_lake_ontario,rrmma_1840_1870,rochester_and_lake_ontario__c0,"Node (43.254,-77.609)",0,rochester_and_lake_ontario__c0,rrmma-lines
+milwaukee_and_minnesota,rrmma_1840_1870,milwaukee_and_minnesota__c0,"Node (43.835,-91.277)",0,milwaukee_and_minnesota__c0,rrmma-lines
+milwaukee_and_minnesota,rrmma_1840_1870,milwaukee_and_minnesota__c1,"Node (43.106,-87.955)",0,milwaukee_and_minnesota__c1,rrmma-lines
+sheboygan_and_fond_du_lac,rrmma_1840_1870,sheboygan_and_fond_du_lac__c0,"Node (43.746,-87.979)",0,sheboygan_and_fond_du_lac__c0,rrmma-lines
+grand_trunk_toledo_and_detroit_branch,rrmma_1840_1870,grand_trunk_toledo_and_detroit_branch__c0,"Node (42.962,-82.464)",0,grand_trunk_toledo_and_detroit_branch__c0,rrmma-lines
+barclay,rrmma_1840_1870,barclay__c0,"Node (41.661,-76.654)",0,barclay__c0,rrmma-lines
+atlantic_and_great_western,rrmma_1840_1870,atlantic_and_great_western__c0,"Node (42.165,-78.740)",0,atlantic_and_great_western__c0,rrmma-lines
+hackensack_and_new_york,rrmma_1840_1870,hackensack_and_new_york__c0,"Node (40.886,-74.049)",0,hackensack_and_new_york__c0,rrmma-lines
+flushing_and_new_york,rrmma_1840_1870,flushing_and_new_york__c0,"Node (40.735,-73.889)",0,flushing_and_new_york__c0,rrmma-lines
+milwaukee_and_western,rrmma_1840_1870,milwaukee_and_western__c0,"Node (43.021,-88.220)",0,milwaukee_and_western__c0,rrmma-lines
+erie_and_pittsburgh,rrmma_1840_1870,erie_and_pittsburgh__c0,"Node (41.439,-80.367)",0,erie_and_pittsburgh__c0,rrmma-lines
+agricultural,rrmma_1840_1870,agricultural__c0,"Node (40.258,-74.273)",0,agricultural__c0,rrmma-lines
+kenosha_rockford_and_rock_island,rrmma_1840_1870,kenosha_rockford_and_rock_island__c0,"Node (42.585,-87.826)",0,kenosha_rockford_and_rock_island__c0,rrmma-lines
+rockford,rrmma_1840_1870,rockford__c0,"Node (42.421,-88.620)",0,rockford__c0,rrmma-lines
+dubuque_and_pacific,rrmma_1840_1870,dubuque_and_pacific__c0,"Node (42.500,-90.661)",0,dubuque_and_pacific__c0,rrmma-lines
+union_pacific_railroad_company,rrmma_1840_1870,union_pacific_railroad_company__c0,"Node (42.242,-88.315)",0,union_pacific_railroad_company__c0,rrmma-lines
+union_pacific_railroad_company,rrmma_1840_1870,union_pacific_railroad_company__c1,"Node (40.026,-95.468)",0,union_pacific_railroad_company__c1,rrmma-lines
+union_pacific_railroad_company,rrmma_1840_1870,union_pacific_railroad_company__c2,"Node (39.853,-95.538)",0,union_pacific_railroad_company__c2,rrmma-lines
+union_pacific_railroad_company,rrmma_1840_1870,union_pacific_railroad_company__c3,"Node (39.113,-94.632)",0,union_pacific_railroad_company__c3,rrmma-lines
+union_pacific_railroad_company,rrmma_1840_1870,union_pacific_railroad_company__c4,"Node (42.032,-94.243)",0,union_pacific_railroad_company__c4,rrmma-lines
+union_pacific_railroad_company,rrmma_1840_1870,union_pacific_railroad_company__c5,"Node (40.713,-99.288)",0,union_pacific_railroad_company__c5,rrmma-lines
+union_pacific_railroad_company,rrmma_1840_1870,union_pacific_railroad_company__c6,"Node (42.501,-96.405)",0,union_pacific_railroad_company__c6,rrmma-lines
+union_pacific_railroad_company,rrmma_1840_1870,union_pacific_railroad_company__c7,"Node (38.244,-122.043)",0,union_pacific_railroad_company__c7,rrmma-lines
+union_pacific_railroad_company,rrmma_1840_1870,union_pacific_railroad_company__c8,"Node (39.515,-121.555)",0,union_pacific_railroad_company__c8,rrmma-lines
+union_pacific_railroad_company,rrmma_1840_1870,union_pacific_railroad_company__c9,"Node (39.714,-121.859)",0,union_pacific_railroad_company__c9,rrmma-lines
+union_pacific_railroad_company,rrmma_1840_1870,union_pacific_railroad_company__c10,"Node (37.005,-121.571)",0,union_pacific_railroad_company__c10,rrmma-lines
+union_pacific_railroad_company,rrmma_1840_1870,union_pacific_railroad_company__c11,"Node (44.944,-123.035)",0,union_pacific_railroad_company__c11,rrmma-lines
+fremont_and_indiana,rrmma_1840_1870,fremont_and_indiana__c0,"Node (41.047,-83.645)",0,fremont_and_indiana__c0,rrmma-lines
+burlington_northern_and_santa_fe_railway_company,rrmma_1840_1870,burlington_northern_and_santa_fe_railway_company__c0,"Node (41.553,-88.074)",0,burlington_northern_and_santa_fe_railway_company__c0,rrmma-lines
+burlington_northern_and_santa_fe_railway_company,rrmma_1840_1870,burlington_northern_and_santa_fe_railway_company__c1,"Node (40.121,-90.564)",0,burlington_northern_and_santa_fe_railway_company__c1,rrmma-lines
+burlington_northern_and_santa_fe_railway_company,rrmma_1840_1870,burlington_northern_and_santa_fe_railway_company__c2,"Node (40.775,-90.016)",0,burlington_northern_and_santa_fe_railway_company__c2,rrmma-lines
+burlington_northern_and_santa_fe_railway_company,rrmma_1840_1870,burlington_northern_and_santa_fe_railway_company__c3,"Node (40.690,-89.587)",0,burlington_northern_and_santa_fe_railway_company__c3,rrmma-lines
+burlington_northern_and_santa_fe_railway_company,rrmma_1840_1870,burlington_northern_and_santa_fe_railway_company__c4,Cameron,0,burlington_northern_and_santa_fe_railway_company__c4,rrmma-lines
+burlington_northern_and_santa_fe_railway_company,rrmma_1840_1870,burlington_northern_and_santa_fe_railway_company__c5,St. Joseph,0,burlington_northern_and_santa_fe_railway_company__c5,rrmma-lines
+burlington_northern_and_santa_fe_railway_company,rrmma_1840_1870,burlington_northern_and_santa_fe_railway_company__c6,"Node (39.098,-94.579)",0,burlington_northern_and_santa_fe_railway_company__c6,rrmma-lines
+burlington_northern_and_santa_fe_railway_company,rrmma_1840_1870,burlington_northern_and_santa_fe_railway_company__c7,"Node (39.180,-94.446)",0,burlington_northern_and_santa_fe_railway_company__c7,rrmma-lines
+burlington_northern_and_santa_fe_railway_company,rrmma_1840_1870,burlington_northern_and_santa_fe_railway_company__c8,"Node (40.573,-94.807)",0,burlington_northern_and_santa_fe_railway_company__c8,rrmma-lines
+burlington_northern_and_santa_fe_railway_company,rrmma_1840_1870,burlington_northern_and_santa_fe_railway_company__c9,"Node (41.035,-93.770)",0,burlington_northern_and_santa_fe_railway_company__c9,rrmma-lines
+burlington_northern_and_santa_fe_railway_company,rrmma_1840_1870,burlington_northern_and_santa_fe_railway_company__c10,"Node (41.558,-95.887)",0,burlington_northern_and_santa_fe_railway_company__c10,rrmma-lines
+burlington_northern_and_santa_fe_railway_company,rrmma_1840_1870,burlington_northern_and_santa_fe_railway_company__c11,"Node (41.013,-95.880)",0,burlington_northern_and_santa_fe_railway_company__c11,rrmma-lines
+burlington_northern_and_santa_fe_railway_company,rrmma_1840_1870,burlington_northern_and_santa_fe_railway_company__c12,"Node (41.075,-95.930)",0,burlington_northern_and_santa_fe_railway_company__c12,rrmma-lines
+burlington_northern_and_santa_fe_railway_company,rrmma_1840_1870,burlington_northern_and_santa_fe_railway_company__c13,"Node (41.608,-96.505)",0,burlington_northern_and_santa_fe_railway_company__c13,rrmma-lines
+burlington_northern_and_santa_fe_railway_company,rrmma_1840_1870,burlington_northern_and_santa_fe_railway_company__c14,"Node (41.606,-90.336)",0,burlington_northern_and_santa_fe_railway_company__c14,rrmma-lines
+burlington_northern_and_santa_fe_railway_company,rrmma_1840_1870,burlington_northern_and_santa_fe_railway_company__c15,"Node (39.566,-95.127)",0,burlington_northern_and_santa_fe_railway_company__c15,rrmma-lines
+burlington_northern_and_santa_fe_railway_company,rrmma_1840_1870,burlington_northern_and_santa_fe_railway_company__c16,"Node (39.103,-94.597)",0,burlington_northern_and_santa_fe_railway_company__c16,rrmma-lines
+cincinnati_peru_and_chicago,rrmma_1840_1870,cincinnati_peru_and_chicago__c0,"Node (41.532,-86.575)",0,cincinnati_peru_and_chicago__c0,rrmma-lines
+dubuque_marion_and_western,rrmma_1840_1870,dubuque_marion_and_western__c0,"Node (42.032,-91.587)",0,dubuque_marion_and_western__c0,rrmma-lines
+chicago_iowa_and_nebraska,rrmma_1840_1870,chicago_iowa_and_nebraska__c0,"Node (41.836,-90.189)",0,chicago_iowa_and_nebraska__c0,rrmma-lines
+gettysburg,rrmma_1840_1870,gettysburg__c0,"Node (39.832,-77.237)",0,gettysburg__c0,rrmma-lines
+pittsburgh_and_connellsville,rrmma_1840_1870,pittsburgh_and_connellsville__c0,"Node (40.019,-79.593)",0,pittsburgh_and_connellsville__c0,rrmma-lines
+fayette_county,rrmma_1840_1870,fayette_county__c0,"Node (40.019,-79.593)",0,fayette_county__c0,rrmma-lines
+logansport_peoria_and_burlington,rrmma_1840_1870,logansport_peoria_and_burlington__c0,"Node (40.753,-86.385)",0,logansport_peoria_and_burlington__c0,rrmma-lines
+burlington_and_missouri,rrmma_1840_1870,burlington_and_missouri__c0,"Node (41.027,-92.426)",0,burlington_and_missouri__c0,rrmma-lines
+quincy_and_palmyra,rrmma_1840_1870,quincy_and_palmyra__c0,Palmyra,0,quincy_and_palmyra__c0,rrmma-lines
+hannibal_and_st_joseph,rrmma_1840_1870,hannibal_and_st_joseph__c0,"Node (39.657,-93.246)",0,hannibal_and_st_joseph__c0,rrmma-lines
+hannibal_and_st_joseph,rrmma_1840_1870,hannibal_and_st_joseph__c1,Laclede,0,hannibal_and_st_joseph__c1,rrmma-lines
+lexington_and_big_sandy,rrmma_1840_1870,lexington_and_big_sandy__c0,Buena Vista Furnace,0,lexington_and_big_sandy__c0,rrmma-lines
+norfolk_and_petersburg,rrmma_1840_1870,norfolk_and_petersburg__c0,Norfolk,0,norfolk_and_petersburg__c0,rrmma-lines
+north_missouri,rrmma_1840_1870,north_missouri__c0,"Node (39.282,-92.343)",0,north_missouri__c0,rrmma-lines
+belleville_and_illinoistown,rrmma_1840_1870,belleville_and_illinoistown__c0,St Louis,0,belleville_and_illinoistown__c0,rrmma-lines
+st_louis_and_iron_mountain,rrmma_1840_1870,st_louis_and_iron_mountain__c0,Horine,0,st_louis_and_iron_mountain__c0,rrmma-lines
+east_tennessee_and_virginia,rrmma_1840_1870,east_tennessee_and_virginia__c0,Bristol,0,east_tennessee_and_virginia__c0,rrmma-lines
+east_tennessee_and_virginia,rrmma_1840_1870,east_tennessee_and_virginia__c1,Russellville,0,east_tennessee_and_virginia__c1,rrmma-lines
+nashville_and_northwestern,rrmma_1840_1870,nashville_and_northwestern__c0,Hickman,0,nashville_and_northwestern__c0,rrmma-lines
+mississippi_central,rrmma_1840_1870,mississippi_central__c0,Grenada,0,mississippi_central__c0,rrmma-lines
+alabama_and_tennessee_river,rrmma_1840_1870,alabama_and_tennessee_river__c0,Maplesville,0,alabama_and_tennessee_river__c0,rrmma-lines
+alabama_and_tennesee_rivers,rrmma_1840_1870,alabama_and_tennesee_rivers__c0,Selma,0,alabama_and_tennesee_rivers__c0,rrmma-lines
+alabama_and_mississippi_rivers,rrmma_1840_1870,alabama_and_mississippi_rivers__c0,Selma,0,alabama_and_mississippi_rivers__c0,rrmma-lines
+florida,rrmma_1840_1870,florida__c0,"Node (30.508,-81.880)",0,florida__c0,rrmma-lines
+florida,rrmma_1840_1870,florida__c1,Cedar Key,0,florida__c1,rrmma-lines
+florida,rrmma_1840_1870,florida__c2,Cedar Key,0,florida__c2,rrmma-lines
+florida_atlantic_and_georgia,rrmma_1840_1870,florida_atlantic_and_georgia__c0,Lake City,0,florida_atlantic_and_georgia__c0,rrmma-lines
+pensacola_and_georgia,rrmma_1840_1870,pensacola_and_georgia__c0,"Node (30.438,-84.347)",0,pensacola_and_georgia__c0,rrmma-lines
+florida_and_alabama,rrmma_1840_1870,florida_and_alabama__c0,Pensacola,0,florida_and_alabama__c0,rrmma-lines
+mexican_gulf,rrmma_1840_1870,mexican_gulf__c0,"Node (29.584,-89.826)",0,mexican_gulf__c0,rrmma-lines
+new_orleans_opelousas_and_great_western,rrmma_1840_1870,new_orleans_opelousas_and_great_western__c0,Algiers,0,new_orleans_opelousas_and_great_western__c0,rrmma-lines
+texas_and_new_orleans,rrmma_1840_1870,texas_and_new_orleans__c0,Beaumont,0,texas_and_new_orleans__c0,rrmma-lines
+houston_and_texas_central,rrmma_1840_1870,houston_and_texas_central__c0,Houston,0,houston_and_texas_central__c0,rrmma-lines
+galveston_houston_and_henderson,rrmma_1840_1870,galveston_houston_and_henderson__c0,Houston,0,galveston_houston_and_henderson__c0,rrmma-lines
+buffalo_bayou_brazos_and_colorado,rrmma_1840_1870,buffalo_bayou_brazos_and_colorado__c0,Harrisburg,0,buffalo_bayou_brazos_and_colorado__c0,rrmma-lines
+houston_tap_and_brazoria,rrmma_1840_1870,houston_tap_and_brazoria__c0,Houston Junction,0,houston_tap_and_brazoria__c0,rrmma-lines
+keokuk_fort_des_moines_and_minnesota,rrmma_1840_1870,keokuk_fort_des_moines_and_minnesota__c0,"Node (41.005,-92.376)",0,keokuk_fort_des_moines_and_minnesota__c0,rrmma-lines
+southern_pacific,rrmma_1840_1870,southern_pacific__c0,Jonesville,0,southern_pacific__c0,rrmma-lines
+southern_pacific,rrmma_1840_1870,southern_pacific__c1,Jonesville,0,southern_pacific__c1,rrmma-lines
+franklin,rrmma_1840_1870,franklin__c0,"Node (44.715,-67.460)",0,franklin__c0,rrmma-lines
+vicksburg_shreveport_and_texas,rrmma_1840_1870,vicksburg_shreveport_and_texas__c0,De Soto,0,vicksburg_shreveport_and_texas__c0,rrmma-lines
+etowah,rrmma_1840_1870,etowah__c0,Cartersville,0,etowah__c0,rrmma-lines
+brunswick_and_florida,rrmma_1840_1870,brunswick_and_florida__c0,Brunswick,0,brunswick_and_florida__c0,rrmma-lines
+savannah_albany_and_gulf,rrmma_1840_1870,savannah_albany_and_gulf__c0,Boston,0,savannah_albany_and_gulf__c0,rrmma-lines
+cheraw_and_darlington,rrmma_1840_1870,cheraw_and_darlington__c0,Cheraw,0,cheraw_and_darlington__c0,rrmma-lines
+western_north_carolina,rrmma_1840_1870,western_north_carolina__c0,Salisbury,0,western_north_carolina__c0,rrmma-lines
+western_railroad_of_north_carolina,rrmma_1840_1870,western_railroad_of_north_carolina__c0,Fayetteville,0,western_railroad_of_north_carolina__c0,rrmma-lines
+atlantic_and_north_carolina,rrmma_1840_1870,atlantic_and_north_carolina__c0,Morehead City,0,atlantic_and_north_carolina__c0,rrmma-lines
+north_eastern,rrmma_1840_1870,north_eastern__c0,Five Mile Turn Out,0,north_eastern__c0,rrmma-lines
+macon_and_brunswick,rrmma_1840_1870,macon_and_brunswick__c0,Hawksville,0,macon_and_brunswick__c0,rrmma-lines
+unnamed_line_1861_1671_masachusetts,rrmma_1840_1870,unnamed_line_1861_1671_masachusetts__c0,"Node (42.813,-70.877)",0,unnamed_line_1861_1671_masachusetts__c0,rrmma-lines
+eastern,rrmma_1840_1870,eastern__c0,"Node (42.571,-71.162)",0,eastern__c0,rrmma-lines
+marion_and_cahaba,rrmma_1840_1870,marion_and_cahaba__c0,Junction,0,marion_and_cahaba__c0,rrmma-lines
+winchester_and_alabama,rrmma_1840_1870,winchester_and_alabama__c0,Fayetteville,0,winchester_and_alabama__c0,rrmma-lines
+mcminnville_and_manchester,rrmma_1840_1870,mcminnville_and_manchester__c0,McMinnville,0,mcminnville_and_manchester__c0,rrmma-lines
+alexandria_and_leesburg,rrmma_1840_1870,alexandria_and_leesburg__c0,Leesburg,0,alexandria_and_leesburg__c0,rrmma-lines
+washington_county,rrmma_1840_1870,washington_county__c0,Brenham,0,washington_county__c0,rrmma-lines
+san_antonio_and_mexican_gulf,rrmma_1840_1870,san_antonio_and_mexican_gulf__c0,Victoria,0,san_antonio_and_mexican_gulf__c0,rrmma-lines
+cairo_and_fulton,rrmma_1840_1870,cairo_and_fulton__c0,"Node (37.022,-89.180)",0,cairo_and_fulton__c0,rrmma-lines
+mississippi_and_wabash,rrmma_1840_1870,mississippi_and_wabash__c0,"Node (40.417,-91.136)",0,mississippi_and_wabash__c0,rrmma-lines
+rock_island_and_sterling,rrmma_1840_1870,rock_island_and_sterling__c0,"Node (41.517,-90.445)",0,rock_island_and_sterling__c0,rrmma-lines
+unnamed_line_1861_1802_illinois,rrmma_1840_1870,unnamed_line_1861_1802_illinois__c0,"Node (42.495,-88.324)",0,unnamed_line_1861_1802_illinois__c0,rrmma-lines
+unnamed_line_1861_1803_wisconsin,rrmma_1840_1870,unnamed_line_1861_1803_wisconsin__c0,"Node (42.498,-88.328)",0,unnamed_line_1861_1803_wisconsin__c0,rrmma-lines
+unnamed_line_1861_1804_illinois,rrmma_1840_1870,unnamed_line_1861_1804_illinois__c0,"Node (42.242,-88.315)",0,unnamed_line_1861_1804_illinois__c0,rrmma-lines
+burlingon_and_missouri,rrmma_1840_1870,burlingon_and_missouri__c0,"Node (41.027,-92.426)",0,burlingon_and_missouri__c0,rrmma-lines
+burlingon_and_missouri,rrmma_1840_1870,burlingon_and_missouri__c1,"Node (41.159,-92.635)",0,burlingon_and_missouri__c1,rrmma-lines
+unnamed_line_1861_1813_iowa,rrmma_1840_1870,unnamed_line_1861_1813_iowa__c0,"Node (41.586,-91.023)",0,unnamed_line_1861_1813_iowa__c0,rrmma-lines
+unnamed_line_1861_1826_wisconsin,rrmma_1840_1870,unnamed_line_1861_1826_wisconsin__c0,"Node (42.622,-88.467)",0,unnamed_line_1861_1826_wisconsin__c0,rrmma-lines
+unnamed_line_1861_1827_wisconsin,rrmma_1840_1870,unnamed_line_1861_1827_wisconsin__c0,"Node (42.880,-88.472)",0,unnamed_line_1861_1827_wisconsin__c0,rrmma-lines
+canadian_pacific_railway,rrmma_1840_1870,canadian_pacific_railway__c0,"Node (43.180,-89.212)",0,canadian_pacific_railway__c0,rrmma-lines
+unnamed_line_1861_1830_wisconsin,rrmma_1840_1870,unnamed_line_1861_1830_wisconsin__c0,"Node (43.458,-88.838)",0,unnamed_line_1861_1830_wisconsin__c0,rrmma-lines
+unnamed_line_1861_1831_iowa,rrmma_1840_1870,unnamed_line_1861_1831_iowa__c0,"Node (41.521,-90.568)",0,unnamed_line_1861_1831_iowa__c0,rrmma-lines
+unnamed_line_1861_1832_illinois,rrmma_1840_1870,unnamed_line_1861_1832_illinois__c0,"Node (41.516,-90.572)",0,unnamed_line_1861_1832_illinois__c0,rrmma-lines
+horicon_and_milwaukee,rrmma_1840_1870,horicon_and_milwaukee__c0,"Node (43.533,-88.734)",0,horicon_and_milwaukee__c0,rrmma-lines
+unnamed_line_1861_1871_michigan,rrmma_1840_1870,unnamed_line_1861_1871_michigan__c0,"Node (41.892,-84.016)",0,unnamed_line_1861_1871_michigan__c0,rrmma-lines
+unnamed_line_1861_1872_michigan,rrmma_1840_1870,unnamed_line_1861_1872_michigan__c0,"Node (41.725,-83.720)",0,unnamed_line_1861_1872_michigan__c0,rrmma-lines
+unnamed_line_1861_1873_ohio,rrmma_1840_1870,unnamed_line_1861_1873_ohio__c0,"Node (41.712,-83.704)",0,unnamed_line_1861_1873_ohio__c0,rrmma-lines
+new_orleans_and_ohio,rrmma_1840_1870,new_orleans_and_ohio__c0,Paducah,0,new_orleans_and_ohio__c0,rrmma-lines
+unnamed_line_1861_1880_ohio,rrmma_1840_1870,unnamed_line_1861_1880_ohio__c0,"Node (40.956,-83.378)",0,unnamed_line_1861_1880_ohio__c0,rrmma-lines
+hempfield,rrmma_1840_1870,hempfield__c0,"Node (40.167,-80.242)",0,hempfield__c0,rrmma-lines
+lockhaven_and_tyrone,rrmma_1840_1870,lockhaven_and_tyrone__c0,"Node (40.890,-78.224)",0,lockhaven_and_tyrone__c0,rrmma-lines
+bellefonte_and_snow_shoe,rrmma_1840_1870,bellefonte_and_snow_shoe__c0,"Node (40.944,-77.795)",0,bellefonte_and_snow_shoe__c0,rrmma-lines
+littlestown,rrmma_1840_1870,littlestown__c0,"Node (39.744,-77.089)",0,littlestown__c0,rrmma-lines
+unnamed_line_1861_1931_pennsylvania,rrmma_1840_1870,unnamed_line_1861_1931_pennsylvania__c0,"Node (40.035,-76.512)",0,unnamed_line_1861_1931_pennsylvania__c0,rrmma-lines
+tioga,rrmma_1840_1870,tioga__c0,"Node (41.749,-76.980)",0,tioga__c0,rrmma-lines
+quakake,rrmma_1840_1870,quakake__c0,"Node (41.061,-75.774)",0,quakake__c0,rrmma-lines
+quakake,rrmma_1840_1870,quakake__c1,"Node (41.015,-75.894)",0,quakake__c1,rrmma-lines
+unnamed_line_1861_1955_pennsylvania,rrmma_1840_1870,unnamed_line_1861_1955_pennsylvania__c0,"Node (40.682,-75.494)",0,unnamed_line_1861_1955_pennsylvania__c0,rrmma-lines
+blairsville_and_indiana,rrmma_1840_1870,blairsville_and_indiana__c0,"Node (40.431,-79.261)",0,blairsville_and_indiana__c0,rrmma-lines
+delaware,rrmma_1840_1870,delaware__c0,"Node (38.909,-75.431)",0,delaware__c0,rrmma-lines
+unnamed_line_1861_1970_new_york,rrmma_1840_1870,unnamed_line_1861_1970_new_york__c0,"Node (42.863,-78.282)",0,unnamed_line_1861_1970_new_york__c0,rrmma-lines
+unnamed_line_1861_1971_new_york,rrmma_1840_1870,unnamed_line_1861_1971_new_york__c0,"Node (42.863,-78.281)",0,unnamed_line_1861_1971_new_york__c0,rrmma-lines
+unnamed_line_1861_1983_new_york,rrmma_1840_1870,unnamed_line_1861_1983_new_york__c0,"Node (43.946,-76.120)",0,unnamed_line_1861_1983_new_york__c0,rrmma-lines
+unnamed_line_1861_1984_new_york,rrmma_1840_1870,unnamed_line_1861_1984_new_york__c0,"Node (44.130,-76.336)",0,unnamed_line_1861_1984_new_york__c0,rrmma-lines
+black_river_and_utica,rrmma_1840_1870,black_river_and_utica__c0,"Node (43.107,-75.234)",0,black_river_and_utica__c0,rrmma-lines
+sussex,rrmma_1840_1870,sussex__c0,"Node (41.060,-74.752)",0,sussex__c0,rrmma-lines
+raritan_and_delaware_bay,rrmma_1840_1870,raritan_and_delaware_bay__c0,"Node (40.432,-74.109)",0,raritan_and_delaware_bay__c0,rrmma-lines
+unnamed_line_1861_2026_masachusetts,rrmma_1840_1870,unnamed_line_1861_2026_masachusetts__c0,"Node (42.618,-70.665)",0,unnamed_line_1861_2026_masachusetts__c0,rrmma-lines
+unnamed_line_1861_2028_masachusetts,rrmma_1840_1870,unnamed_line_1861_2028_masachusetts__c0,"Node (42.571,-71.162)",0,unnamed_line_1861_2028_masachusetts__c0,rrmma-lines
+beloit_and_madison_railroad,rrmma_1840_1870,beloit_and_madison_railroad__c0,"Node (42.502,-89.010)",0,beloit_and_madison_railroad__c0,rrmma-lines
+remove,rrmma_1840_1870,remove__c0,Gish's Mill,0,remove__c0,rrmma-lines
+remove,rrmma_1840_1870,remove__c1,Big Lick,0,remove__c1,rrmma-lines
+remove,rrmma_1840_1870,remove__c2,Danville,0,remove__c2,rrmma-lines
+baton_rouge_grosse_tete_and_opelousas,rrmma_1840_1870,baton_rouge_grosse_tete_and_opelousas__c0,"Node (30.464,-91.496)",0,baton_rouge_grosse_tete_and_opelousas__c0,rrmma-lines
+unnamed_line_1870_1687_masachusetts,rrmma_1840_1870,unnamed_line_1870_1687_masachusetts__c0,"Node (42.813,-70.877)",0,unnamed_line_1870_1687_masachusetts__c0,rrmma-lines
+chicago_and_north_western_railway,rrmma_1840_1870,chicago_and_north_western_railway__c0,"Node (42.670,-88.531)",0,chicago_and_north_western_railway__c0,rrmma-lines
+unnamed_line_1870_1820_illinois,rrmma_1840_1870,unnamed_line_1870_1820_illinois__c0,"Node (42.242,-88.315)",0,unnamed_line_1870_1820_illinois__c0,rrmma-lines
+western_union_railroad,rrmma_1840_1870,western_union_railroad__c0,"Node (42.880,-88.472)",0,western_union_railroad__c0,rrmma-lines
+watertown_and_madison_railroad,rrmma_1840_1870,watertown_and_madison_railroad__c0,"Node (43.180,-89.212)",0,watertown_and_madison_railroad__c0,rrmma-lines
+watertown_and_madison_railroad,rrmma_1840_1870,watertown_and_madison_railroad__c1,"Node (43.062,-89.387)",0,watertown_and_madison_railroad__c1,rrmma-lines
+milwaukee_and_st_paul,rrmma_1840_1870,milwaukee_and_st_paul__c0,"Node (43.191,-88.735)",0,milwaukee_and_st_paul__c0,rrmma-lines
+milwaukee_and_st_paul,rrmma_1840_1870,milwaukee_and_st_paul__c1,"Node (43.458,-88.838)",0,milwaukee_and_st_paul__c1,rrmma-lines
+iowa_interstate_railroad_limited,rrmma_1840_1870,iowa_interstate_railroad_limited__c0,"Node (41.521,-90.568)",0,iowa_interstate_railroad_limited__c0,rrmma-lines
+iowa_interstate_railroad_limited,rrmma_1840_1870,iowa_interstate_railroad_limited__c1,"Node (41.262,-95.860)",0,iowa_interstate_railroad_limited__c1,rrmma-lines
+unnamed_line_1870_1879_michigan,rrmma_1840_1870,unnamed_line_1870_1879_michigan__c0,"Node (41.892,-84.016)",0,unnamed_line_1870_1879_michigan__c0,rrmma-lines
+unnamed_line_1870_1880_michigan,rrmma_1840_1870,unnamed_line_1870_1880_michigan__c0,"Node (41.725,-83.720)",0,unnamed_line_1870_1880_michigan__c0,rrmma-lines
+unnamed_line_1870_1881_ohio,rrmma_1840_1870,unnamed_line_1870_1881_ohio__c0,"Node (41.712,-83.704)",0,unnamed_line_1870_1881_ohio__c0,rrmma-lines
+unnamed_line_1870_1888_ohio,rrmma_1840_1870,unnamed_line_1870_1888_ohio__c0,"Node (40.956,-83.378)",0,unnamed_line_1870_1888_ohio__c0,rrmma-lines
+unnamed_line_1870_1928_west_virginia,rrmma_1840_1870,unnamed_line_1870_1928_west_virginia__c0,"Node (40.102,-80.519)",0,unnamed_line_1870_1928_west_virginia__c0,rrmma-lines
+unnamed_line_1870_1929_pennsylvania,rrmma_1840_1870,unnamed_line_1870_1929_pennsylvania__c0,"Node (40.167,-80.242)",0,unnamed_line_1870_1929_pennsylvania__c0,rrmma-lines
+unnamed_line_1870_1939_pennsylvania,rrmma_1840_1870,unnamed_line_1870_1939_pennsylvania__c0,"Node (40.035,-76.512)",0,unnamed_line_1870_1939_pennsylvania__c0,rrmma-lines
+unnamed_line_1870_1963_pennsylvania,rrmma_1840_1870,unnamed_line_1870_1963_pennsylvania__c0,"Node (40.682,-75.494)",0,unnamed_line_1870_1963_pennsylvania__c0,rrmma-lines
+unnamed_line_1870_1978_new_york,rrmma_1840_1870,unnamed_line_1870_1978_new_york__c0,"Node (42.863,-78.282)",0,unnamed_line_1870_1978_new_york__c0,rrmma-lines
+unnamed_line_1870_1979_new_york,rrmma_1840_1870,unnamed_line_1870_1979_new_york__c0,"Node (42.863,-78.281)",0,unnamed_line_1870_1979_new_york__c0,rrmma-lines
+unnamed_line_1870_1991_new_york,rrmma_1840_1870,unnamed_line_1870_1991_new_york__c0,"Node (43.946,-76.120)",0,unnamed_line_1870_1991_new_york__c0,rrmma-lines
+unnamed_line_1870_1992_new_york,rrmma_1840_1870,unnamed_line_1870_1992_new_york__c0,"Node (44.130,-76.336)",0,unnamed_line_1870_1992_new_york__c0,rrmma-lines
+unnamed_line_1870_2034_masachusetts,rrmma_1840_1870,unnamed_line_1870_2034_masachusetts__c0,"Node (42.618,-70.665)",0,unnamed_line_1870_2034_masachusetts__c0,rrmma-lines
+unnamed_line_1870_2036_masachusetts,rrmma_1840_1870,unnamed_line_1870_2036_masachusetts__c0,"Node (42.571,-71.162)",0,unnamed_line_1870_2036_masachusetts__c0,rrmma-lines
+unnamed_line_1870_2100,rrmma_1840_1870,unnamed_line_1870_2100__c0,Lumberton,0,unnamed_line_1870_2100__c0,rrmma-lines
+unnamed_line_1870_2101,rrmma_1840_1870,unnamed_line_1870_2101__c0,Petroleum,0,unnamed_line_1870_2101__c0,rrmma-lines
+milford_and_olamon,rrmma_1840_1870,milford_and_olamon__c0,"Node (45.120,-68.604)",0,milford_and_olamon__c0,rrmma-lines
+olamon_and_passadumkeag,rrmma_1840_1870,olamon_and_passadumkeag__c0,"Node (45.188,-68.617)",0,olamon_and_passadumkeag__c0,rrmma-lines
+enfield_and_lincoln,rrmma_1840_1870,enfield_and_lincoln__c0,"Node (45.364,-68.505)",0,enfield_and_lincoln__c0,rrmma-lines
+winn_and_mattawamkeag,rrmma_1840_1870,winn_and_mattawamkeag__c0,"Node (45.515,-68.354)",0,winn_and_mattawamkeag__c0,rrmma-lines
+la_grange_and_milo,rrmma_1840_1870,la_grange_and_milo__c0,"Node (45.255,-68.986)",0,la_grange_and_milo__c0,rrmma-lines
+sebec_dover_and_foxcroft,rrmma_1840_1870,sebec_dover_and_foxcroft__c0,"Node (45.184,-69.228)",0,sebec_dover_and_foxcroft__c0,rrmma-lines
+newport_and_corinna,rrmma_1840_1870,newport_and_corinna__c0,"Node (44.923,-69.260)",0,newport_and_corinna__c0,rrmma-lines
+dexter,rrmma_1840_1870,dexter__c0,"Node (45.024,-69.283)",0,dexter__c0,rrmma-lines
+oakland_and_nooridgewock,rrmma_1840_1870,oakland_and_nooridgewock__c0,"Node (44.712,-69.792)",0,oakland_and_nooridgewock__c0,rrmma-lines
+unnamed_line_1870_2112,rrmma_1840_1870,unnamed_line_1870_2112__c0,"Node (44.798,-69.879)",0,unnamed_line_1870_2112__c0,rrmma-lines
+unnamed_line_1870_2113,rrmma_1840_1870,unnamed_line_1870_2113__c0,"Node (44.592,-70.227)",0,unnamed_line_1870_2113__c0,rrmma-lines
+unnamed_line_1870_2114,rrmma_1840_1870,unnamed_line_1870_2114__c0,"Node (44.949,-69.856)",0,unnamed_line_1870_2114__c0,rrmma-lines
+unnamed_line_1870_2115,rrmma_1840_1870,unnamed_line_1870_2115__c0,"Node (44.036,-69.541)",0,unnamed_line_1870_2115__c0,rrmma-lines
+unnamed_line_1870_2116,rrmma_1840_1870,unnamed_line_1870_2116__c0,"Node (44.035,-69.520)",0,unnamed_line_1870_2116__c0,rrmma-lines
+unnamed_line_1870_2117,rrmma_1840_1870,unnamed_line_1870_2117__c0,"Node (44.097,-69.375)",0,unnamed_line_1870_2117__c0,rrmma-lines
+unnamed_line_1870_2118,rrmma_1840_1870,unnamed_line_1870_2118__c0,"Node (44.081,-69.182)",0,unnamed_line_1870_2118__c0,rrmma-lines
+unnamed_line_1870_2119,rrmma_1840_1870,unnamed_line_1870_2119__c0,"Node (44.104,-69.109)",0,unnamed_line_1870_2119__c0,rrmma-lines
+unnamed_line_1870_2120,rrmma_1840_1870,unnamed_line_1870_2120__c0,"Node (44.208,-70.077)",0,unnamed_line_1870_2120__c0,rrmma-lines
+unnamed_line_1870_2121,rrmma_1840_1870,unnamed_line_1870_2121__c0,"Node (44.020,-70.071)",0,unnamed_line_1870_2121__c0,rrmma-lines
+unnamed_line_1870_2122,rrmma_1840_1870,unnamed_line_1870_2122__c0,"Node (43.998,-70.064)",0,unnamed_line_1870_2122__c0,rrmma-lines
+unnamed_line_1870_2123,rrmma_1840_1870,unnamed_line_1870_2123__c0,"Node (43.661,-70.258)",0,unnamed_line_1870_2123__c0,rrmma-lines
+unnamed_line_1870_2124,rrmma_1840_1870,unnamed_line_1870_2124__c0,"Node (43.615,-70.549)",0,unnamed_line_1870_2124__c0,rrmma-lines
+unnamed_line_1870_2125,rrmma_1840_1870,unnamed_line_1870_2125__c0,"Node (43.477,-70.719)",0,unnamed_line_1870_2125__c0,rrmma-lines
+unnamed_line_1870_2126,rrmma_1840_1870,unnamed_line_1870_2126__c0,"Node (43.493,-71.021)",0,unnamed_line_1870_2126__c0,rrmma-lines
+unnamed_line_1870_2127,rrmma_1840_1870,unnamed_line_1870_2127__c0,"Node (42.859,-70.930)",0,unnamed_line_1870_2127__c0,rrmma-lines
+unnamed_line_1870_2128,rrmma_1840_1870,unnamed_line_1870_2128__c0,"Node (42.100,-72.066)",0,unnamed_line_1870_2128__c0,rrmma-lines
+unnamed_line_1870_2129,rrmma_1840_1870,unnamed_line_1870_2129__c0,"Node (42.008,-71.808)",0,unnamed_line_1870_2129__c0,rrmma-lines
+unnamed_line_1870_2130,rrmma_1840_1870,unnamed_line_1870_2130__c0,"Node (42.127,-71.103)",0,unnamed_line_1870_2130__c0,rrmma-lines
+unnamed_line_1870_2131,rrmma_1840_1870,unnamed_line_1870_2131__c0,"Node (41.701,-71.156)",0,unnamed_line_1870_2131__c0,rrmma-lines
+unnamed_line_1870_2132,rrmma_1840_1870,unnamed_line_1870_2132__c0,"Node (41.676,-71.271)",0,unnamed_line_1870_2132__c0,rrmma-lines
+unnamed_line_1870_2133,rrmma_1840_1870,unnamed_line_1870_2133__c0,"Node (41.493,-71.313)",0,unnamed_line_1870_2133__c0,rrmma-lines
+unnamed_line_1870_2134,rrmma_1840_1870,unnamed_line_1870_2134__c0,"Node (41.742,-70.159)",0,unnamed_line_1870_2134__c0,rrmma-lines
+unnamed_line_1870_2135,rrmma_1840_1870,unnamed_line_1870_2135__c0,"Node (41.790,-69.989)",0,unnamed_line_1870_2135__c0,rrmma-lines
+unnamed_line_1870_2136,rrmma_1840_1870,unnamed_line_1870_2136__c0,"Node (42.028,-71.580)",0,unnamed_line_1870_2136__c0,rrmma-lines
+unnamed_line_1870_2137,rrmma_1840_1870,unnamed_line_1870_2137__c0,"Node (42.670,-72.997)",0,unnamed_line_1870_2137__c0,rrmma-lines
+unnamed_line_1870_2138,rrmma_1840_1870,unnamed_line_1870_2138__c0,"Node (42.409,-71.764)",0,unnamed_line_1870_2138__c0,rrmma-lines
+unnamed_line_1870_2139,rrmma_1840_1870,unnamed_line_1870_2139__c0,"Node (42.754,-73.348)",0,unnamed_line_1870_2139__c0,rrmma-lines
+unnamed_line_1870_2140,rrmma_1840_1870,unnamed_line_1870_2140__c0,"Node (42.365,-73.593)",0,unnamed_line_1870_2140__c0,rrmma-lines
+unnamed_line_1870_2141,rrmma_1840_1870,unnamed_line_1870_2141__c0,"Node (42.469,-73.820)",0,unnamed_line_1870_2141__c0,rrmma-lines
+unnamed_line_1870_2142,rrmma_1840_1870,unnamed_line_1870_2142__c0,"Node (42.795,-73.957)",0,unnamed_line_1870_2142__c0,rrmma-lines
+unnamed_line_1870_2143,rrmma_1840_1870,unnamed_line_1870_2143__c0,"Node (42.634,-74.564)",0,unnamed_line_1870_2143__c0,rrmma-lines
+unnamed_line_1870_2144,rrmma_1840_1870,unnamed_line_1870_2144__c0,"Node (42.797,-74.618)",0,unnamed_line_1870_2144__c0,rrmma-lines
+unnamed_line_1870_2145,rrmma_1840_1870,unnamed_line_1870_2145__c0,"Node (42.796,-74.756)",0,unnamed_line_1870_2145__c0,rrmma-lines
+unnamed_line_1870_2146,rrmma_1840_1870,unnamed_line_1870_2146__c0,"Node (42.643,-74.617)",0,unnamed_line_1870_2146__c0,rrmma-lines
+unnamed_line_1870_2147,rrmma_1840_1870,unnamed_line_1870_2147__c0,"Node (42.546,-74.825)",0,unnamed_line_1870_2147__c0,rrmma-lines
+unnamed_line_1870_2148,rrmma_1840_1870,unnamed_line_1870_2148__c0,"Node (42.454,-75.063)",0,unnamed_line_1870_2148__c0,rrmma-lines
+unnamed_line_1870_2149,rrmma_1840_1870,unnamed_line_1870_2149__c0,"Node (42.509,-74.953)",0,unnamed_line_1870_2149__c0,rrmma-lines
+unnamed_line_1870_2150,rrmma_1840_1870,unnamed_line_1870_2150__c0,"Node (42.399,-75.175)",0,unnamed_line_1870_2150__c0,rrmma-lines
+unnamed_line_1870_2151,rrmma_1840_1870,unnamed_line_1870_2151__c0,"Node (42.325,-75.316)",0,unnamed_line_1870_2151__c0,rrmma-lines
+unnamed_line_1870_2152,rrmma_1840_1870,unnamed_line_1870_2152__c0,"Node (42.316,-75.393)",0,unnamed_line_1870_2152__c0,rrmma-lines
+unnamed_line_1870_2153,rrmma_1840_1870,unnamed_line_1870_2153__c0,"Node (42.171,-75.131)",0,unnamed_line_1870_2153__c0,rrmma-lines
+unnamed_line_1870_2154,rrmma_1840_1870,unnamed_line_1870_2154__c0,"Node (42.228,-75.528)",0,unnamed_line_1870_2154__c0,rrmma-lines
+unnamed_line_1870_2155,rrmma_1840_1870,unnamed_line_1870_2155__c0,"Node (42.168,-75.608)",0,unnamed_line_1870_2155__c0,rrmma-lines
+unnamed_line_1870_2155,rrmma_1840_1870,unnamed_line_1870_2155__c1,"Node (42.126,-75.894)",0,unnamed_line_1870_2155__c1,rrmma-lines
+unnamed_line_1870_2156,rrmma_1840_1870,unnamed_line_1870_2156__c0,"Node (42.532,-75.525)",0,unnamed_line_1870_2156__c0,rrmma-lines
+unnamed_line_1870_2157,rrmma_1840_1870,unnamed_line_1870_2157__c0,"Node (42.681,-75.499)",0,unnamed_line_1870_2157__c0,rrmma-lines
+unnamed_line_1870_2158,rrmma_1840_1870,unnamed_line_1870_2158__c0,"Node (42.687,-75.571)",0,unnamed_line_1870_2158__c0,rrmma-lines
+unnamed_line_1870_2159,rrmma_1840_1870,unnamed_line_1870_2159__c0,"Node (42.931,-75.380)",0,unnamed_line_1870_2159__c0,rrmma-lines
+unnamed_line_1870_2160,rrmma_1840_1870,unnamed_line_1870_2160__c0,"Node (42.948,-75.252)",0,unnamed_line_1870_2160__c0,rrmma-lines
+unnamed_line_1870_2161,rrmma_1840_1870,unnamed_line_1870_2161__c0,"Node (42.854,-74.983)",0,unnamed_line_1870_2161__c0,rrmma-lines
+unnamed_line_1870_2162,rrmma_1840_1870,unnamed_line_1870_2162__c0,"Node (43.107,-75.234)",0,unnamed_line_1870_2162__c0,rrmma-lines
+unnamed_line_1870_2163,rrmma_1840_1870,unnamed_line_1870_2163__c0,"Node (42.978,-75.591)",0,unnamed_line_1870_2163__c0,rrmma-lines
+unnamed_line_1870_2163,rrmma_1840_1870,unnamed_line_1870_2163__c1,"Node (43.112,-75.638)",0,unnamed_line_1870_2163__c1,rrmma-lines
+unnamed_line_1870_2164,rrmma_1840_1870,unnamed_line_1870_2164__c0,"Node (43.242,-75.883)",0,unnamed_line_1870_2164__c0,rrmma-lines
+unnamed_line_1870_2165,rrmma_1840_1870,unnamed_line_1870_2165__c0,"Node (43.286,-76.145)",0,unnamed_line_1870_2165__c0,rrmma-lines
+unnamed_line_1870_2166,rrmma_1840_1870,unnamed_line_1870_2166__c0,"Node (43.321,-76.391)",0,unnamed_line_1870_2166__c0,rrmma-lines
+unnamed_line_1870_2167,rrmma_1840_1870,unnamed_line_1870_2167__c0,"Node (43.456,-76.512)",0,unnamed_line_1870_2167__c0,rrmma-lines
+unnamed_line_1870_2168,rrmma_1840_1870,unnamed_line_1870_2168__c0,"Node (43.064,-76.199)",0,unnamed_line_1870_2168__c0,rrmma-lines
+unnamed_line_1870_2169,rrmma_1840_1870,unnamed_line_1870_2169__c0,"Node (43.584,-75.347)",0,unnamed_line_1870_2169__c0,rrmma-lines
+unnamed_line_1870_2170,rrmma_1840_1870,unnamed_line_1870_2170__c0,"Node (43.786,-75.492)",0,unnamed_line_1870_2170__c0,rrmma-lines
+unnamed_line_1870_2171,rrmma_1840_1870,unnamed_line_1870_2171__c0,"Node (44.619,-75.410)",0,unnamed_line_1870_2171__c0,rrmma-lines
+unnamed_line_1870_2172,rrmma_1840_1870,unnamed_line_1870_2172__c0,"Node (44.706,-75.479)",0,unnamed_line_1870_2172__c0,rrmma-lines
+unnamed_line_1870_2173,rrmma_1840_1870,unnamed_line_1870_2173__c0,"Node (44.924,-73.131)",0,unnamed_line_1870_2173__c0,rrmma-lines
+unnamed_line_1870_2174,rrmma_1840_1870,unnamed_line_1870_2174__c0,"Node (44.825,-73.506)",0,unnamed_line_1870_2174__c0,rrmma-lines
+unnamed_line_1870_2175,rrmma_1840_1870,unnamed_line_1870_2175__c0,"Node (44.443,-73.670)",0,unnamed_line_1870_2175__c0,rrmma-lines
+unnamed_line_1870_2176,rrmma_1840_1870,unnamed_line_1870_2176__c0,"Node (44.931,-72.213)",0,unnamed_line_1870_2176__c0,rrmma-lines
+unnamed_line_1870_2177,rrmma_1840_1870,unnamed_line_1870_2177__c0,"Node (45.002,-72.102)",0,unnamed_line_1870_2177__c0,rrmma-lines
+unnamed_line_1870_2178,rrmma_1840_1870,unnamed_line_1870_2178__c0,"Node (42.887,-77.282)",0,unnamed_line_1870_2178__c0,rrmma-lines
+unnamed_line_1870_2179,rrmma_1840_1870,unnamed_line_1870_2179__c0,"Node (42.108,-76.266)",0,unnamed_line_1870_2179__c0,rrmma-lines
+unnamed_line_1870_2180,rrmma_1840_1870,unnamed_line_1870_2180__c0,"Node (42.934,-76.571)",0,unnamed_line_1870_2180__c0,rrmma-lines
+unnamed_line_1870_2181,rrmma_1840_1870,unnamed_line_1870_2181__c0,"Node (42.010,-76.528)",0,unnamed_line_1870_2181__c0,rrmma-lines
+unnamed_line_1870_2182,rrmma_1840_1870,unnamed_line_1870_2182__c0,"Node (42.107,-76.273)",0,unnamed_line_1870_2182__c0,rrmma-lines
+unnamed_line_1870_2183,rrmma_1840_1870,unnamed_line_1870_2183__c0,"Node (41.783,-76.443)",0,unnamed_line_1870_2183__c0,rrmma-lines
+unnamed_line_1870_2184,rrmma_1840_1870,unnamed_line_1870_2184__c0,"Node (40.944,-77.795)",0,unnamed_line_1870_2184__c0,rrmma-lines
+unnamed_line_1870_2185,rrmma_1840_1870,unnamed_line_1870_2185__c0,"Node (40.913,-77.779)",0,unnamed_line_1870_2185__c0,rrmma-lines
+unnamed_line_1870_2186,rrmma_1840_1870,unnamed_line_1870_2186__c0,"Node (40.716,-78.229)",0,unnamed_line_1870_2186__c0,rrmma-lines
+unnamed_line_1870_2187,rrmma_1840_1870,unnamed_line_1870_2187__c0,"Node (41.783,-78.645)",0,unnamed_line_1870_2187__c0,rrmma-lines
+unnamed_line_1870_2188,rrmma_1840_1870,unnamed_line_1870_2188__c0,"Node (42.264,-79.261)",0,unnamed_line_1870_2188__c0,rrmma-lines
+unnamed_line_1870_2189,rrmma_1840_1870,unnamed_line_1870_2189__c0,"Node (42.111,-79.204)",0,unnamed_line_1870_2189__c0,rrmma-lines
+unnamed_line_1870_2190,rrmma_1840_1870,unnamed_line_1870_2190__c0,"Node (41.844,-79.164)",0,unnamed_line_1870_2190__c0,rrmma-lines
+unnamed_line_1870_2191,rrmma_1840_1870,unnamed_line_1870_2191__c0,"Node (41.704,-79.035)",0,unnamed_line_1870_2191__c0,rrmma-lines
+unnamed_line_1870_2192,rrmma_1840_1870,unnamed_line_1870_2192__c0,"Node (41.666,-78.813)",0,unnamed_line_1870_2192__c0,rrmma-lines
+unnamed_line_1870_2193,rrmma_1840_1870,unnamed_line_1870_2193__c0,"Node (41.578,-78.690)",0,unnamed_line_1870_2193__c0,rrmma-lines
+unnamed_line_1870_2194,rrmma_1840_1870,unnamed_line_1870_2194__c0,"Node (41.492,-78.675)",0,unnamed_line_1870_2194__c0,rrmma-lines
+unnamed_line_1870_2195,rrmma_1840_1870,unnamed_line_1870_2195__c0,"Node (41.422,-78.730)",0,unnamed_line_1870_2195__c0,rrmma-lines
+unnamed_line_1870_2196,rrmma_1840_1870,unnamed_line_1870_2196__c0,"Node (42.095,-79.235)",0,unnamed_line_1870_2196__c0,rrmma-lines
+unnamed_line_1870_2197,rrmma_1840_1870,unnamed_line_1870_2197__c0,"Node (42.387,-79.469)",0,unnamed_line_1870_2197__c0,rrmma-lines
+unnamed_line_1870_2198,rrmma_1840_1870,unnamed_line_1870_2198__c0,"Node (41.468,-79.689)",0,unnamed_line_1870_2198__c0,rrmma-lines
+unnamed_line_1870_2199,rrmma_1840_1870,unnamed_line_1870_2199__c0,"Node (41.409,-79.832)",0,unnamed_line_1870_2199__c0,rrmma-lines
+unnamed_line_1870_2200,rrmma_1840_1870,unnamed_line_1870_2200__c0,"Node (41.437,-79.957)",0,unnamed_line_1870_2200__c0,rrmma-lines
+unnamed_line_1870_2201,rrmma_1840_1870,unnamed_line_1870_2201__c0,"Node (41.518,-80.046)",0,unnamed_line_1870_2201__c0,rrmma-lines
+unnamed_line_1870_2202,rrmma_1840_1870,unnamed_line_1870_2202__c0,"Node (41.409,-79.832)",0,unnamed_line_1870_2202__c0,rrmma-lines
+unnamed_line_1870_2203,rrmma_1840_1870,unnamed_line_1870_2203__c0,"Node (41.483,-80.437)",0,unnamed_line_1870_2203__c0,rrmma-lines
+unnamed_line_1870_2204,rrmma_1840_1870,unnamed_line_1870_2204__c0,"Node (41.640,-80.152)",0,unnamed_line_1870_2204__c0,rrmma-lines
+unnamed_line_1870_2205,rrmma_1840_1870,unnamed_line_1870_2205__c0,"Node (41.640,-80.152)",0,unnamed_line_1870_2205__c0,rrmma-lines
+unnamed_line_1870_2206,rrmma_1840_1870,unnamed_line_1870_2206__c0,"Node (41.633,-80.157)",0,unnamed_line_1870_2206__c0,rrmma-lines
+unnamed_line_1870_2207,rrmma_1840_1870,unnamed_line_1870_2207__c0,"Node (41.405,-80.392)",0,unnamed_line_1870_2207__c0,rrmma-lines
+unnamed_line_1870_2208,rrmma_1840_1870,unnamed_line_1870_2208__c0,"Node (41.089,-80.635)",0,unnamed_line_1870_2208__c0,rrmma-lines
+unnamed_line_1870_2209,rrmma_1840_1870,unnamed_line_1870_2209__c0,"Node (41.238,-80.821)",0,unnamed_line_1870_2209__c0,rrmma-lines
+unnamed_line_1870_2210,rrmma_1840_1870,unnamed_line_1870_2210__c0,"Node (41.004,-80.347)",0,unnamed_line_1870_2210__c0,rrmma-lines
+unnamed_line_1870_2211,rrmma_1840_1870,unnamed_line_1870_2211__c0,"Node (41.340,-78.138)",0,unnamed_line_1870_2211__c0,rrmma-lines
+unnamed_line_1870_2212,rrmma_1840_1870,unnamed_line_1870_2212__c0,"Node (42.104,-78.421)",0,unnamed_line_1870_2212__c0,rrmma-lines
+unnamed_line_1870_2213,rrmma_1840_1870,unnamed_line_1870_2213__c0,"Node (41.454,-78.407)",0,unnamed_line_1870_2213__c0,rrmma-lines
+unnamed_line_1870_2214,rrmma_1840_1870,unnamed_line_1870_2214__c0,"Node (41.511,-78.235)",0,unnamed_line_1870_2214__c0,rrmma-lines
+unnamed_line_1870_2215,rrmma_1840_1870,unnamed_line_1870_2215__c0,"Node (41.098,-78.891)",0,unnamed_line_1870_2215__c0,rrmma-lines
+unnamed_line_1870_2216,rrmma_1840_1870,unnamed_line_1870_2216__c0,"Node (41.005,-79.334)",0,unnamed_line_1870_2216__c0,rrmma-lines
+unnamed_line_1870_2217,rrmma_1840_1870,unnamed_line_1870_2217__c0,"Node (40.943,-79.460)",0,unnamed_line_1870_2217__c0,rrmma-lines
+unnamed_line_1870_2218,rrmma_1840_1870,unnamed_line_1870_2218__c0,"Node (41.005,-79.334)",0,unnamed_line_1870_2218__c0,rrmma-lines
+unnamed_line_1870_2219,rrmma_1840_1870,unnamed_line_1870_2219__c0,"Node (40.870,-79.482)",0,unnamed_line_1870_2219__c0,rrmma-lines
+unnamed_line_1870_2220,rrmma_1840_1870,unnamed_line_1870_2220__c0,"Node (41.840,-79.263)",0,unnamed_line_1870_2220__c0,rrmma-lines
+unnamed_line_1870_2221,rrmma_1840_1870,unnamed_line_1870_2221__c0,"Node (41.089,-80.635)",0,unnamed_line_1870_2221__c0,rrmma-lines
+unnamed_line_1870_2222,rrmma_1840_1870,unnamed_line_1870_2222__c0,"Node (40.878,-80.753)",0,unnamed_line_1870_2222__c0,rrmma-lines
+unnamed_line_1870_2223,rrmma_1840_1870,unnamed_line_1870_2223__c0,"Node (40.772,-80.768)",0,unnamed_line_1870_2223__c0,rrmma-lines
+unnamed_line_1870_2224,rrmma_1840_1870,unnamed_line_1870_2224__c0,"Node (41.004,-80.347)",0,unnamed_line_1870_2224__c0,rrmma-lines
+unnamed_line_1870_2225,rrmma_1840_1870,unnamed_line_1870_2225__c0,"Node (40.950,-80.347)",0,unnamed_line_1870_2225__c0,rrmma-lines
+unnamed_line_1870_2226,rrmma_1840_1870,unnamed_line_1870_2226__c0,"Node (41.326,-75.790)",0,unnamed_line_1870_2226__c0,rrmma-lines
+unnamed_line_1870_2227,rrmma_1840_1870,unnamed_line_1870_2227__c0,"Node (41.484,-74.989)",0,unnamed_line_1870_2227__c0,rrmma-lines
+unnamed_line_1870_2228,rrmma_1840_1870,unnamed_line_1870_2228__c0,"Node (40.572,-76.376)",0,unnamed_line_1870_2228__c0,rrmma-lines
+unnamed_line_1870_2229,rrmma_1840_1870,unnamed_line_1870_2229__c0,"Node (40.634,-76.184)",0,unnamed_line_1870_2229__c0,rrmma-lines
+unnamed_line_1870_2230,rrmma_1840_1870,unnamed_line_1870_2230__c0,"Node (40.608,-76.499)",0,unnamed_line_1870_2230__c0,rrmma-lines
+unnamed_line_1870_2231,rrmma_1840_1870,unnamed_line_1870_2231__c0,"Node (40.627,-76.393)",0,unnamed_line_1870_2231__c0,rrmma-lines
+unnamed_line_1870_2232,rrmma_1840_1870,unnamed_line_1870_2232__c0,"Node (40.690,-76.262)",0,unnamed_line_1870_2232__c0,rrmma-lines
+unnamed_line_1870_2233,rrmma_1840_1870,unnamed_line_1870_2233__c0,"Node (40.572,-76.376)",0,unnamed_line_1870_2233__c0,rrmma-lines
+unnamed_line_1870_2234,rrmma_1840_1870,unnamed_line_1870_2234__c0,"Node (40.169,-76.373)",0,unnamed_line_1870_2234__c0,rrmma-lines
+unnamed_line_1870_2235,rrmma_1840_1870,unnamed_line_1870_2235__c0,"Node (40.097,-76.409)",0,unnamed_line_1870_2235__c0,rrmma-lines
+unnamed_line_1870_2236,rrmma_1840_1870,unnamed_line_1870_2236__c0,"Node (40.035,-76.512)",0,unnamed_line_1870_2236__c0,rrmma-lines
+unnamed_line_1870_2237,rrmma_1840_1870,unnamed_line_1870_2237__c0,"Node (40.324,-76.014)",0,unnamed_line_1870_2237__c0,rrmma-lines
+unnamed_line_1870_2238,rrmma_1840_1870,unnamed_line_1870_2238__c0,"Node (39.983,-76.186)",0,unnamed_line_1870_2238__c0,rrmma-lines
+unnamed_line_1870_2239,rrmma_1840_1870,unnamed_line_1870_2239__c0,"Node (40.540,-75.485)",0,unnamed_line_1870_2239__c0,rrmma-lines
+unnamed_line_1870_2240,rrmma_1840_1870,unnamed_line_1870_2240__c0,"Node (41.708,-74.137)",0,unnamed_line_1870_2240__c0,rrmma-lines
+unnamed_line_1870_2241,rrmma_1840_1870,unnamed_line_1870_2241__c0,"Node (41.060,-74.752)",0,unnamed_line_1870_2241__c0,rrmma-lines
+unnamed_line_1870_2242,rrmma_1840_1870,unnamed_line_1870_2242__c0,"Node (40.874,-74.199)",0,unnamed_line_1870_2242__c0,rrmma-lines
+unnamed_line_1870_2243,rrmma_1840_1870,unnamed_line_1870_2243__c0,"Node (40.885,-73.952)",0,unnamed_line_1870_2243__c0,rrmma-lines
+unnamed_line_1870_2244,rrmma_1840_1870,unnamed_line_1870_2244__c0,"Node (40.961,-73.991)",0,unnamed_line_1870_2244__c0,rrmma-lines
+unnamed_line_1870_2245,rrmma_1840_1870,unnamed_line_1870_2245__c0,"Node (40.197,-74.168)",0,unnamed_line_1870_2245__c0,rrmma-lines
+unnamed_line_1870_2246,rrmma_1840_1870,unnamed_line_1870_2246__c0,"Node (40.333,-74.054)",0,unnamed_line_1870_2246__c0,rrmma-lines
+unnamed_line_1870_2247,rrmma_1840_1870,unnamed_line_1870_2247__c0,"Node (39.954,-74.197)",0,unnamed_line_1870_2247__c0,rrmma-lines
+unnamed_line_1870_2248,rrmma_1840_1870,unnamed_line_1870_2248__c0,"Node (39.745,-74.723)",0,unnamed_line_1870_2248__c0,rrmma-lines
+unnamed_line_1870_2249,rrmma_1840_1870,unnamed_line_1870_2249__c0,"Node (39.661,-74.842)",0,unnamed_line_1870_2249__c0,rrmma-lines
+unnamed_line_1870_2250,rrmma_1840_1870,unnamed_line_1870_2250__c0,"Node (39.780,-74.956)",0,unnamed_line_1870_2250__c0,rrmma-lines
+unnamed_line_1870_2251,rrmma_1840_1870,unnamed_line_1870_2251__c0,"Node (39.993,-74.787)",0,unnamed_line_1870_2251__c0,rrmma-lines
+unnamed_line_1870_2252,rrmma_1840_1870,unnamed_line_1870_2252__c0,"Node (40.270,-74.528)",0,unnamed_line_1870_2252__c0,rrmma-lines
+unnamed_line_1870_2253,rrmma_1840_1870,unnamed_line_1870_2253__c0,"Node (39.972,-74.683)",0,unnamed_line_1870_2253__c0,rrmma-lines
+unnamed_line_1870_2254,rrmma_1840_1870,unnamed_line_1870_2254__c0,"Node (39.944,-75.112)",0,unnamed_line_1870_2254__c0,rrmma-lines
+unnamed_line_1870_2255,rrmma_1840_1870,unnamed_line_1870_2255__c0,"Node (39.703,-75.113)",0,unnamed_line_1870_2255__c0,rrmma-lines
+unnamed_line_1870_2256,rrmma_1840_1870,unnamed_line_1870_2256__c0,"Node (39.748,-75.310)",0,unnamed_line_1870_2256__c0,rrmma-lines
+unnamed_line_1870_2257,rrmma_1840_1870,unnamed_line_1870_2257__c0,"Node (39.486,-75.026)",0,unnamed_line_1870_2257__c0,rrmma-lines
+unnamed_line_1870_2258,rrmma_1840_1870,unnamed_line_1870_2258__c0,"Node (39.428,-75.235)",0,unnamed_line_1870_2258__c0,rrmma-lines
+unnamed_line_1870_2259,rrmma_1840_1870,unnamed_line_1870_2259__c0,"Node (39.573,-75.467)",0,unnamed_line_1870_2259__c0,rrmma-lines
+unnamed_line_1870_2260,rrmma_1840_1870,unnamed_line_1870_2260__c0,"Node (38.936,-74.906)",0,unnamed_line_1870_2260__c0,rrmma-lines
+unnamed_line_1870_2261,rrmma_1840_1870,unnamed_line_1870_2261__c0,"Node (39.661,-74.842)",0,unnamed_line_1870_2261__c0,rrmma-lines
+unnamed_line_1870_2262,rrmma_1840_1870,unnamed_line_1870_2262__c0,"Node (38.776,-75.143)",0,unnamed_line_1870_2262__c0,rrmma-lines
+unnamed_line_1870_2263,rrmma_1840_1870,unnamed_line_1870_2263__c0,"Node (38.322,-75.221)",0,unnamed_line_1870_2263__c0,rrmma-lines
+unnamed_line_1870_2264,rrmma_1840_1870,unnamed_line_1870_2264__c0,"Node (37.984,-75.859)",0,unnamed_line_1870_2264__c0,rrmma-lines
+unnamed_line_1870_2265,rrmma_1840_1870,unnamed_line_1870_2265__c0,"Node (38.566,-76.082)",0,unnamed_line_1870_2265__c0,rrmma-lines
+unnamed_line_1870_2266,rrmma_1840_1870,unnamed_line_1870_2266__c0,"Node (38.916,-75.938)",0,unnamed_line_1870_2266__c0,rrmma-lines
+unnamed_line_1870_2267,rrmma_1840_1870,unnamed_line_1870_2267__c0,"Node (39.625,-77.410)",0,unnamed_line_1870_2267__c0,rrmma-lines
+unnamed_line_1870_2268,rrmma_1840_1870,unnamed_line_1870_2268__c0,Monocacy,0,unnamed_line_1870_2268__c0,rrmma-lines
+unnamed_line_1870_2269,rrmma_1840_1870,unnamed_line_1870_2269__c0,Hagerstown,0,unnamed_line_1870_2269__c0,rrmma-lines
+unnamed_line_1870_2270,rrmma_1840_1870,unnamed_line_1870_2270__c0,"Node (39.136,-77.664)",0,unnamed_line_1870_2270__c0,rrmma-lines
+unnamed_line_1870_2271,rrmma_1840_1870,unnamed_line_1870_2271__c0,"Node (38.450,-78.871)",0,unnamed_line_1870_2271__c0,rrmma-lines
+unnamed_line_1870_2272,rrmma_1840_1870,unnamed_line_1870_2272__c0,"Node (35.855,-77.055)",0,unnamed_line_1870_2272__c0,rrmma-lines
+unnamed_line_1870_2273,rrmma_1840_1870,unnamed_line_1870_2273__c0,"Node (32.389,-83.360)",0,unnamed_line_1870_2273__c0,rrmma-lines
+unnamed_line_1870_2274,rrmma_1840_1870,unnamed_line_1870_2274__c0,"Node (31.248,-82.477)",0,unnamed_line_1870_2274__c0,rrmma-lines
+unnamed_line_1870_2275,rrmma_1840_1870,unnamed_line_1870_2275__c0,"Node (30.299,-82.984)",0,unnamed_line_1870_2275__c0,rrmma-lines
+unnamed_line_1870_2276,rrmma_1840_1870,unnamed_line_1870_2276__c0,"Node (30.905,-84.576)",0,unnamed_line_1870_2276__c0,rrmma-lines
+unnamed_line_1870_2277,rrmma_1840_1870,unnamed_line_1870_2277__c0,Albany,0,unnamed_line_1870_2277__c0,rrmma-lines
+unnamed_line_1870_2278,rrmma_1840_1870,unnamed_line_1870_2278__c0,"Node (30.590,-84.586)",0,unnamed_line_1870_2278__c0,rrmma-lines
+unnamed_line_1870_2279,rrmma_1840_1870,unnamed_line_1870_2279__c0,Monticello,0,unnamed_line_1870_2279__c0,rrmma-lines
+unnamed_line_1870_2280,rrmma_1840_1870,unnamed_line_1870_2280__c0,"Node (30.850,-87.888)",0,unnamed_line_1870_2280__c0,rrmma-lines
+unnamed_line_1870_2281,rrmma_1840_1870,unnamed_line_1870_2281__c0,Algiers,0,unnamed_line_1870_2281__c0,rrmma-lines
+unnamed_line_1870_2282,rrmma_1840_1870,unnamed_line_1870_2282__c0,Proctorsville,0,unnamed_line_1870_2282__c0,rrmma-lines
+unnamed_line_1870_2283,rrmma_1840_1870,unnamed_line_1870_2283__c0,Orange,0,unnamed_line_1870_2283__c0,rrmma-lines
+unnamed_line_1870_2284,rrmma_1840_1870,unnamed_line_1870_2284__c0,Houston,0,unnamed_line_1870_2284__c0,rrmma-lines
+unnamed_line_1870_2285,rrmma_1840_1870,unnamed_line_1870_2285__c0,Beaumont,0,unnamed_line_1870_2285__c0,rrmma-lines
+unnamed_line_1870_2286,rrmma_1840_1870,unnamed_line_1870_2286__c0,Columbus,0,unnamed_line_1870_2286__c0,rrmma-lines
+unnamed_line_1870_2287,rrmma_1840_1870,unnamed_line_1870_2287__c0,"Node (29.312,-96.105)",0,unnamed_line_1870_2287__c0,rrmma-lines
+unnamed_line_1870_2288,rrmma_1840_1870,unnamed_line_1870_2288__c0,"Node (31.307,-96.631)",0,unnamed_line_1870_2288__c0,rrmma-lines
+unnamed_line_1870_2289,rrmma_1840_1870,unnamed_line_1870_2289__c0,Union Springs,0,unnamed_line_1870_2289__c0,rrmma-lines
+unnamed_line_1870_2290,rrmma_1840_1870,unnamed_line_1870_2290__c0,Selma,0,unnamed_line_1870_2290__c0,rrmma-lines
+unnamed_line_1870_2291,rrmma_1840_1870,unnamed_line_1870_2291__c0,Marion,0,unnamed_line_1870_2291__c0,rrmma-lines
+unnamed_line_1870_2292,rrmma_1840_1870,unnamed_line_1870_2292__c0,Meridian,0,unnamed_line_1870_2292__c0,rrmma-lines
+unnamed_line_1870_2293,rrmma_1840_1870,unnamed_line_1870_2293__c0,"Node (32.692,-88.127)",0,unnamed_line_1870_2293__c0,rrmma-lines
+unnamed_line_1870_2294,rrmma_1840_1870,unnamed_line_1870_2294__c0,"Node (32.821,-88.161)",0,unnamed_line_1870_2294__c0,rrmma-lines
+unnamed_line_1870_2295,rrmma_1840_1870,unnamed_line_1870_2295__c0,De Soto,0,unnamed_line_1870_2295__c0,rrmma-lines
+unnamed_line_1870_2296,rrmma_1840_1870,unnamed_line_1870_2296__c0,Port Gibson,0,unnamed_line_1870_2296__c0,rrmma-lines
+unnamed_line_1870_2297,rrmma_1840_1870,unnamed_line_1870_2297__c0,Shreeveport,0,unnamed_line_1870_2297__c0,rrmma-lines
+unnamed_line_1870_2298,rrmma_1840_1870,unnamed_line_1870_2298__c0,"Node (32.499,-94.738)",0,unnamed_line_1870_2298__c0,rrmma-lines
+unnamed_line_1870_2299,rrmma_1840_1870,unnamed_line_1870_2299__c0,Rome,0,unnamed_line_1870_2299__c0,rrmma-lines
+unnamed_line_1870_2300,rrmma_1840_1870,unnamed_line_1870_2300__c0,Dalton,0,unnamed_line_1870_2300__c0,rrmma-lines
+unnamed_line_1870_2301,rrmma_1840_1870,unnamed_line_1870_2301__c0,"Node (34.158,-85.951)",0,unnamed_line_1870_2301__c0,rrmma-lines
+unnamed_line_1870_2302,rrmma_1840_1870,unnamed_line_1870_2302__c0,"Node (35.078,-85.628)",0,unnamed_line_1870_2302__c0,rrmma-lines
+unnamed_line_1870_2303,rrmma_1840_1870,unnamed_line_1870_2303__c0,Jackson,0,unnamed_line_1870_2303__c0,rrmma-lines
+unnamed_line_1870_2304,rrmma_1840_1870,unnamed_line_1870_2304__c0,De Valls Bluff,0,unnamed_line_1870_2304__c0,rrmma-lines
+unnamed_line_1870_2305,rrmma_1840_1870,unnamed_line_1870_2305__c0,Nashville,0,unnamed_line_1870_2305__c0,rrmma-lines
+unnamed_line_1870_2306,rrmma_1840_1870,unnamed_line_1870_2306__c0,Union City,0,unnamed_line_1870_2306__c0,rrmma-lines
+unnamed_line_1870_2307,rrmma_1840_1870,unnamed_line_1870_2307__c0,"Node (36.221,-84.156)",0,unnamed_line_1870_2307__c0,rrmma-lines
+unnamed_line_1870_2308,rrmma_1840_1870,unnamed_line_1870_2308__c0,"Node (35.758,-83.972)",0,unnamed_line_1870_2308__c0,rrmma-lines
+unnamed_line_1870_2309,rrmma_1840_1870,unnamed_line_1870_2309__c0,Bulls Gap,0,unnamed_line_1870_2309__c0,rrmma-lines
+unnamed_line_1870_2310,rrmma_1840_1870,unnamed_line_1870_2310__c0,"Node (36.408,-83.009)",0,unnamed_line_1870_2310__c0,rrmma-lines
+unnamed_line_1870_2311,rrmma_1840_1870,unnamed_line_1870_2311__c0,"Node (36.351,-82.212)",0,unnamed_line_1870_2311__c0,rrmma-lines
+unnamed_line_1870_2312,rrmma_1840_1870,unnamed_line_1870_2312__c0,"Node (36.287,-82.174)",0,unnamed_line_1870_2312__c0,rrmma-lines
+unnamed_line_1870_2313,rrmma_1840_1870,unnamed_line_1870_2313__c0,Salt Works,0,unnamed_line_1870_2313__c0,rrmma-lines
+unnamed_line_1870_2314,rrmma_1840_1870,unnamed_line_1870_2314__c0,"Node (35.554,-79.282)",0,unnamed_line_1870_2314__c0,rrmma-lines
+unnamed_line_1870_2315,rrmma_1840_1870,unnamed_line_1870_2315__c0,"Node (34.940,-79.775)",0,unnamed_line_1870_2315__c0,rrmma-lines
+unnamed_line_1870_2316,rrmma_1840_1870,unnamed_line_1870_2316__c0,Graniteville,0,unnamed_line_1870_2316__c0,rrmma-lines
+unnamed_line_1870_2317,rrmma_1840_1870,unnamed_line_1870_2317__c0,"Node (34.389,-83.667)",0,unnamed_line_1870_2317__c0,rrmma-lines
+unnamed_line_1870_2318,rrmma_1840_1870,unnamed_line_1870_2318__c0,"Node (35.952,-82.895)",0,unnamed_line_1870_2318__c0,rrmma-lines
+unnamed_line_1870_2319,rrmma_1840_1870,unnamed_line_1870_2319__c0,"Node (37.426,-86.488)",0,unnamed_line_1870_2319__c0,rrmma-lines
+unnamed_line_1870_2320,rrmma_1840_1870,unnamed_line_1870_2320__c0,"Node (37.297,-84.214)",0,unnamed_line_1870_2320__c0,rrmma-lines
+unnamed_line_1870_2321,rrmma_1840_1870,unnamed_line_1870_2321__c0,"Node (37.750,-84.295)",0,unnamed_line_1870_2321__c0,rrmma-lines
+unnamed_line_1870_2322,rrmma_1840_1870,unnamed_line_1870_2322__c0,Belmont,0,unnamed_line_1870_2322__c0,rrmma-lines
+unnamed_line_1870_2323,rrmma_1840_1870,unnamed_line_1870_2323__c0,Louisville,0,unnamed_line_1870_2323__c0,rrmma-lines
+unnamed_line_1870_2324,rrmma_1840_1870,unnamed_line_1870_2324__c0,"Node (37.637,-86.718)",0,unnamed_line_1870_2324__c0,rrmma-lines
+unnamed_line_1870_2325,rrmma_1840_1870,unnamed_line_1870_2325__c0,"Node (37.494,-87.134)",0,unnamed_line_1870_2325__c0,rrmma-lines
+unnamed_line_1870_2326,rrmma_1840_1870,unnamed_line_1870_2326__c0,"Node (37.914,-87.096)",0,unnamed_line_1870_2326__c0,rrmma-lines
+unnamed_line_1870_2327,rrmma_1840_1870,unnamed_line_1870_2327__c0,"Node (37.329,-87.498)",0,unnamed_line_1870_2327__c0,rrmma-lines
+unnamed_line_1870_2328,rrmma_1840_1870,unnamed_line_1870_2328__c0,"Node (36.868,-87.490)",0,unnamed_line_1870_2328__c0,rrmma-lines
+unnamed_line_1870_2329,rrmma_1840_1870,unnamed_line_1870_2329__c0,"Node (36.836,-89.728)",0,unnamed_line_1870_2329__c0,rrmma-lines
+unnamed_line_1870_2330,rrmma_1840_1870,unnamed_line_1870_2330__c0,"Node (37.627,-89.501)",0,unnamed_line_1870_2330__c0,rrmma-lines
+unnamed_line_1870_2331,rrmma_1840_1870,unnamed_line_1870_2331__c0,Mineral Point,0,unnamed_line_1870_2331__c0,rrmma-lines
+kansas_city_southern_railway_company,rrmma_1840_1870,kansas_city_southern_railway_company__c0,"Node (39.738,-90.229)",0,kansas_city_southern_railway_company__c0,rrmma-lines
+toledo_peoria_and_western_railway,rrmma_1840_1870,toledo_peoria_and_western_railway__c0,"Node (40.651,-89.645)",0,toledo_peoria_and_western_railway__c0,rrmma-lines
+unnamed_line_1870_2336,rrmma_1840_1870,unnamed_line_1870_2336__c0,"Node (40.151,-91.000)",0,unnamed_line_1870_2336__c0,rrmma-lines
+unnamed_line_1870_2337,rrmma_1840_1870,unnamed_line_1870_2337__c0,"Node (40.033,-90.960)",0,unnamed_line_1870_2337__c0,rrmma-lines
+unnamed_line_1870_2338,rrmma_1840_1870,unnamed_line_1870_2338__c0,"Node (40.357,-91.432)",0,unnamed_line_1870_2338__c0,rrmma-lines
+unnamed_line_1870_2339,rrmma_1840_1870,unnamed_line_1870_2339__c0,"Node (40.811,-91.110)",0,unnamed_line_1870_2339__c0,rrmma-lines
+unnamed_line_1870_2340,rrmma_1840_1870,unnamed_line_1870_2340__c0,"Node (40.815,-91.113)",0,unnamed_line_1870_2340__c0,rrmma-lines
+unnamed_line_1870_2341,rrmma_1840_1870,unnamed_line_1870_2341__c0,"Node (41.289,-91.339)",0,unnamed_line_1870_2341__c0,rrmma-lines
+peoria_and_rock_island,rrmma_1840_1870,peoria_and_rock_island__c0,"Node (40.690,-89.587)",0,peoria_and_rock_island__c0,rrmma-lines
+city_of_columbia_d_b_a_columbia_terminal,rrmma_1840_1870,city_of_columbia_d_b_a_columbia_terminal__c0,"Node (38.952,-92.332)",0,city_of_columbia_d_b_a_columbia_terminal__c0,rrmma-lines
+missouri_pacific_railroad,rrmma_1840_1870,missouri_pacific_railroad__c0,Tipton,0,missouri_pacific_railroad__c0,rrmma-lines
+wabash_and_grand_river_railway_company,rrmma_1840_1870,wabash_and_grand_river_railway_company__c0,Chillicothe,0,wabash_and_grand_river_railway_company__c0,rrmma-lines
+north_missouri_central_railroad_company,rrmma_1840_1870,north_missouri_central_railroad_company__c0,Laclede,0,north_missouri_central_railroad_company__c0,rrmma-lines
+cisco_northeastern_railroad,rrmma_1840_1870,cisco_northeastern_railroad__c0,"Node (39.929,-93.568)",0,cisco_northeastern_railroad__c0,rrmma-lines
+norfolk_western,rrmma_1840_1870,norfolk_western__c0,"Node (39.938,-93.896)",0,norfolk_western__c0,rrmma-lines
+unnamed_line_1870_2361,rrmma_1840_1870,unnamed_line_1870_2361__c0,"Node (37.841,-94.709)",0,unnamed_line_1870_2361__c0,rrmma-lines
+centeral_branch_union_pacific,rrmma_1840_1870,centeral_branch_union_pacific__c0,"Node (39.692,-96.746)",0,centeral_branch_union_pacific__c0,rrmma-lines
+unnamed_line_1870_2368,rrmma_1840_1870,unnamed_line_1870_2368__c0,"Node (39.277,-94.911)",0,unnamed_line_1870_2368__c0,rrmma-lines
+unnamed_line_1870_2370,rrmma_1840_1870,unnamed_line_1870_2370__c0,"Node (39.028,-96.834)",0,unnamed_line_1870_2370__c0,rrmma-lines
+unnamed_line_1870_2371,rrmma_1840_1870,unnamed_line_1870_2371__c0,"Node (37.270,-95.553)",0,unnamed_line_1870_2371__c0,rrmma-lines
+unnamed_line_1870_2372,rrmma_1840_1870,unnamed_line_1870_2372__c0,"Node (37.024,-94.735)",0,unnamed_line_1870_2372__c0,rrmma-lines
+unnamed_line_1870_2373,rrmma_1840_1870,unnamed_line_1870_2373__c0,"Node (38.405,-96.184)",0,unnamed_line_1870_2373__c0,rrmma-lines
+unnamed_line_1870_2374,rrmma_1840_1870,unnamed_line_1870_2374__c0,"Node (39.028,-96.834)",0,unnamed_line_1870_2374__c0,rrmma-lines
+unnamed_line_1870_2375,rrmma_1840_1870,unnamed_line_1870_2375__c0,"Node (38.825,-98.477)",0,unnamed_line_1870_2375__c0,rrmma-lines
+unnamed_line_1870_2376,rrmma_1840_1870,unnamed_line_1870_2376__c0,"Node (42.032,-94.243)",0,unnamed_line_1870_2376__c0,rrmma-lines
+unnamed_line_1870_2378,rrmma_1840_1870,unnamed_line_1870_2378__c0,"Node (41.604,-93.610)",0,unnamed_line_1870_2378__c0,rrmma-lines
+unnamed_line_1870_2379,rrmma_1840_1870,unnamed_line_1870_2379__c0,"Node (41.773,-93.715)",0,unnamed_line_1870_2379__c0,rrmma-lines
+unnamed_line_1870_2380,rrmma_1840_1870,unnamed_line_1870_2380__c0,"Node (41.604,-93.610)",0,unnamed_line_1870_2380__c0,rrmma-lines
+unnamed_line_1870_2381,rrmma_1840_1870,unnamed_line_1870_2381__c0,"Node (41.159,-92.635)",0,unnamed_line_1870_2381__c0,rrmma-lines
+unnamed_line_1870_2382,rrmma_1840_1870,unnamed_line_1870_2382__c0,"Node (41.298,-92.645)",0,unnamed_line_1870_2382__c0,rrmma-lines
+unnamed_line_1870_2383,rrmma_1840_1870,unnamed_line_1870_2383__c0,"Node (41.090,-92.532)",0,unnamed_line_1870_2383__c0,rrmma-lines
+wabash_western_railway,rrmma_1840_1870,wabash_western_railway__c0,Hudson,0,wabash_western_railway__c0,rrmma-lines
+unnamed_line_1870_2385,rrmma_1840_1870,unnamed_line_1870_2385__c0,"Node (42.032,-91.587)",0,unnamed_line_1870_2385__c0,rrmma-lines
+unnamed_line_1870_2386,rrmma_1840_1870,unnamed_line_1870_2386__c0,"Node (42.032,-91.593)",0,unnamed_line_1870_2386__c0,rrmma-lines
+unnamed_line_1870_2387,rrmma_1840_1870,unnamed_line_1870_2387__c0,"Node (42.171,-92.029)",0,unnamed_line_1870_2387__c0,rrmma-lines
+unnamed_line_1870_2388,rrmma_1840_1870,unnamed_line_1870_2388__c0,"Node (42.051,-92.918)",0,unnamed_line_1870_2388__c0,rrmma-lines
+unnamed_line_1870_2389,rrmma_1840_1870,unnamed_line_1870_2389__c0,"Node (42.051,-92.918)",0,unnamed_line_1870_2389__c0,rrmma-lines
+unnamed_line_1870_2390,rrmma_1840_1870,unnamed_line_1870_2390__c0,"Node (42.051,-92.918)",0,unnamed_line_1870_2390__c0,rrmma-lines
+unnamed_line_1870_2391,rrmma_1840_1870,unnamed_line_1870_2391__c0,"Node (43.065,-92.673)",0,unnamed_line_1870_2391__c0,rrmma-lines
+unnamed_line_1870_2392,rrmma_1840_1870,unnamed_line_1870_2392__c0,"Node (43.155,-93.199)",0,unnamed_line_1870_2392__c0,rrmma-lines
+unnamed_line_1870_2393,rrmma_1840_1870,unnamed_line_1870_2393__c0,"Node (43.667,-92.976)",0,unnamed_line_1870_2393__c0,rrmma-lines
+unnamed_line_1870_2394,rrmma_1840_1870,unnamed_line_1870_2394__c0,"Node (43.185,-91.858)",0,unnamed_line_1870_2394__c0,rrmma-lines
+unnamed_line_1870_2395,rrmma_1840_1870,unnamed_line_1870_2395__c0,"Node (43.021,-91.185)",0,unnamed_line_1870_2395__c0,rrmma-lines
+unnamed_line_1870_2396,rrmma_1840_1870,unnamed_line_1870_2396__c0,"Node (43.146,-91.764)",0,unnamed_line_1870_2396__c0,rrmma-lines
+unnamed_line_1870_2397,rrmma_1840_1870,unnamed_line_1870_2397__c0,"Node (43.065,-92.673)",0,unnamed_line_1870_2397__c0,rrmma-lines
+unnamed_line_1870_2398,rrmma_1840_1870,unnamed_line_1870_2398__c0,"Node (43.826,-91.307)",0,unnamed_line_1870_2398__c0,rrmma-lines
+unnamed_line_1870_2399,rrmma_1840_1870,unnamed_line_1870_2399__c0,"Node (44.084,-93.228)",0,unnamed_line_1870_2399__c0,rrmma-lines
+unnamed_line_1870_2400,rrmma_1840_1870,unnamed_line_1870_2400__c0,"Node (44.167,-94.002)",0,unnamed_line_1870_2400__c0,rrmma-lines
+unnamed_line_1870_2401,rrmma_1840_1870,unnamed_line_1870_2401__c0,"Node (44.051,-91.640)",0,unnamed_line_1870_2401__c0,rrmma-lines
+unnamed_line_1870_2402,rrmma_1840_1870,unnamed_line_1870_2402__c0,"Node (44.946,-93.095)",0,unnamed_line_1870_2402__c0,rrmma-lines
+unnamed_line_1870_2403,rrmma_1840_1870,unnamed_line_1870_2403__c0,"Node (44.946,-93.095)",0,unnamed_line_1870_2403__c0,rrmma-lines
+unnamed_line_1870_2404,rrmma_1840_1870,unnamed_line_1870_2404__c0,"Node (44.650,-93.245)",0,unnamed_line_1870_2404__c0,rrmma-lines
+unnamed_line_1870_2405,rrmma_1840_1870,unnamed_line_1870_2405__c0,"Node (44.167,-94.002)",0,unnamed_line_1870_2405__c0,rrmma-lines
+unnamed_line_1870_2406,rrmma_1840_1870,unnamed_line_1870_2406__c0,"Node (44.105,-94.220)",0,unnamed_line_1870_2406__c0,rrmma-lines
+unnamed_line_1870_2407,rrmma_1840_1870,unnamed_line_1870_2407__c0,"Node (44.982,-93.266)",0,unnamed_line_1870_2407__c0,rrmma-lines
+unnamed_line_1870_2408,rrmma_1840_1870,unnamed_line_1870_2408__c0,"Node (46.011,-92.944)",0,unnamed_line_1870_2408__c0,rrmma-lines
+unnamed_line_1870_2409,rrmma_1840_1870,unnamed_line_1870_2409__c0,"Node (45.593,-94.168)",0,unnamed_line_1870_2409__c0,rrmma-lines
+unnamed_line_1870_2410,rrmma_1840_1870,unnamed_line_1870_2410__c0,"Node (45.588,-95.916)",0,unnamed_line_1870_2410__c0,rrmma-lines
+kyle_railroad_company,rrmma_1840_1870,kyle_railroad_company__c0,"Node (40.802,-96.671)",0,kyle_railroad_company__c0,rrmma-lines
+unnamed_line_1870_2423,rrmma_1840_1870,unnamed_line_1870_2423__c0,"Node (42.797,-96.166)",0,unnamed_line_1870_2423__c0,rrmma-lines
+unnamed_line_1870_2424,rrmma_1840_1870,unnamed_line_1870_2424__c0,"Node (41.589,-91.011)",0,unnamed_line_1870_2424__c0,rrmma-lines
+unnamed_line_1870_2425,rrmma_1840_1870,unnamed_line_1870_2425__c0,"Node (41.091,-88.429)",0,unnamed_line_1870_2425__c0,rrmma-lines
+unnamed_line_1870_2426,rrmma_1840_1870,unnamed_line_1870_2426__c0,"Node (41.355,-88.847)",0,unnamed_line_1870_2426__c0,rrmma-lines
+unnamed_line_1870_2427,rrmma_1840_1870,unnamed_line_1870_2427__c0,"Node (40.631,-87.693)",0,unnamed_line_1870_2427__c0,rrmma-lines
+unnamed_line_1870_2428,rrmma_1840_1870,unnamed_line_1870_2428__c0,"Node (41.650,-87.620)",0,unnamed_line_1870_2428__c0,rrmma-lines
+unnamed_line_1870_2429,rrmma_1840_1870,unnamed_line_1870_2429__c0,"Node (41.860,-87.669)",0,unnamed_line_1870_2429__c0,rrmma-lines
+unnamed_line_1870_2430,rrmma_1840_1870,unnamed_line_1870_2430__c0,"Node (41.317,-86.886)",0,unnamed_line_1870_2430__c0,rrmma-lines
+unnamed_line_1870_2431,rrmma_1840_1870,unnamed_line_1870_2431__c0,"Node (40.757,-86.073)",0,unnamed_line_1870_2431__c0,rrmma-lines
+unnamed_line_1870_2432,rrmma_1840_1870,unnamed_line_1870_2432__c0,"Node (40.197,-84.815)",0,unnamed_line_1870_2432__c0,rrmma-lines
+unnamed_line_1870_2433,rrmma_1840_1870,unnamed_line_1870_2433__c0,"Node (41.983,-84.661)",0,unnamed_line_1870_2433__c0,rrmma-lines
+unnamed_line_1870_2434,rrmma_1840_1870,unnamed_line_1870_2434__c0,"Node (40.743,-85.175)",0,unnamed_line_1870_2434__c0,rrmma-lines
+unnamed_line_1870_2435,rrmma_1840_1870,unnamed_line_1870_2435__c0,"Node (41.047,-83.645)",0,unnamed_line_1870_2435__c0,rrmma-lines
+unnamed_line_1870_2436,rrmma_1840_1870,unnamed_line_1870_2436__c0,"Node (41.351,-83.120)",0,unnamed_line_1870_2436__c0,rrmma-lines
+unnamed_line_1870_2437,rrmma_1840_1870,unnamed_line_1870_2437__c0,"Node (41.563,-83.363)",0,unnamed_line_1870_2437__c0,rrmma-lines
+unnamed_line_1870_2438,rrmma_1840_1870,unnamed_line_1870_2438__c0,"Node (41.892,-84.016)",0,unnamed_line_1870_2438__c0,rrmma-lines
+unnamed_line_1870_2439,rrmma_1840_1870,unnamed_line_1870_2439__c0,"Node (41.919,-83.378)",0,unnamed_line_1870_2439__c0,rrmma-lines
+unnamed_line_1870_2440,rrmma_1840_1870,unnamed_line_1870_2440__c0,"Node (42.152,-84.038)",0,unnamed_line_1870_2440__c0,rrmma-lines
+unnamed_line_1870_2441,rrmma_1840_1870,unnamed_line_1870_2441__c0,"Node (41.983,-84.661)",0,unnamed_line_1870_2441__c0,rrmma-lines
+unnamed_line_1870_2442,rrmma_1840_1870,unnamed_line_1870_2442__c0,"Node (41.942,-85.632)",0,unnamed_line_1870_2442__c0,rrmma-lines
+unnamed_line_1870_2443,rrmma_1840_1870,unnamed_line_1870_2443__c0,"Node (41.836,-86.256)",0,unnamed_line_1870_2443__c0,rrmma-lines
+unnamed_line_1870_2444,rrmma_1840_1870,unnamed_line_1870_2444__c0,"Node (42.295,-85.585)",0,unnamed_line_1870_2444__c0,rrmma-lines
+unnamed_line_1870_2445,rrmma_1840_1870,unnamed_line_1870_2445__c0,"Node (42.955,-85.678)",0,unnamed_line_1870_2445__c0,rrmma-lines
+unnamed_line_1870_2446,rrmma_1840_1870,unnamed_line_1870_2446__c0,"Node (42.362,-85.880)",0,unnamed_line_1870_2446__c0,rrmma-lines
+unnamed_line_1870_2447,rrmma_1840_1870,unnamed_line_1870_2447__c0,"Node (42.220,-85.891)",0,unnamed_line_1870_2447__c0,rrmma-lines
+unnamed_line_1870_2448,rrmma_1840_1870,unnamed_line_1870_2448__c0,"Node (42.317,-85.186)",0,unnamed_line_1870_2448__c0,rrmma-lines
+unnamed_line_1870_2449,rrmma_1840_1870,unnamed_line_1870_2449__c0,"Node (42.732,-84.560)",0,unnamed_line_1870_2449__c0,rrmma-lines
+unnamed_line_1870_2450,rrmma_1840_1870,unnamed_line_1870_2450__c0,"Node (42.248,-84.401)",0,unnamed_line_1870_2450__c0,rrmma-lines
+unnamed_line_1870_2451,rrmma_1840_1870,unnamed_line_1870_2451__c0,"Node (42.389,-84.462)",0,unnamed_line_1870_2451__c0,rrmma-lines
+unnamed_line_1870_2452,rrmma_1840_1870,unnamed_line_1870_2452__c0,"Node (42.567,-84.841)",0,unnamed_line_1870_2452__c0,rrmma-lines
+unnamed_line_1870_2453,rrmma_1840_1870,unnamed_line_1870_2453__c0,"Node (42.955,-85.678)",0,unnamed_line_1870_2453__c0,rrmma-lines
+unnamed_line_1870_2454,rrmma_1840_1870,unnamed_line_1870_2454__c0,"Node (43.319,-85.502)",0,unnamed_line_1870_2454__c0,rrmma-lines
+unnamed_line_1870_2455,rrmma_1840_1870,unnamed_line_1870_2455__c0,"Node (43.630,-83.887)",0,unnamed_line_1870_2455__c0,rrmma-lines
+unnamed_line_1870_2456,rrmma_1840_1870,unnamed_line_1870_2456__c0,"Node (43.460,-83.945)",0,unnamed_line_1870_2456__c0,rrmma-lines
+unnamed_line_1870_2457,rrmma_1840_1870,unnamed_line_1870_2457__c0,"Node (43.594,-83.885)",0,unnamed_line_1870_2457__c0,rrmma-lines
+unnamed_line_1870_2458,rrmma_1840_1870,unnamed_line_1870_2458__c0,"Node (42.994,-84.181)",0,unnamed_line_1870_2458__c0,rrmma-lines
+unnamed_line_1870_2459,rrmma_1840_1870,unnamed_line_1870_2459__c0,"Node (42.791,-83.628)",0,unnamed_line_1870_2459__c0,rrmma-lines
+unnamed_line_1870_2460,rrmma_1840_1870,unnamed_line_1870_2460__c0,"Node (42.938,-82.546)",0,unnamed_line_1870_2460__c0,rrmma-lines
+unnamed_line_1870_2461,rrmma_1840_1870,unnamed_line_1870_2461__c0,"Node (42.847,-82.888)",0,unnamed_line_1870_2461__c0,rrmma-lines
+unnamed_line_1870_2462,rrmma_1840_1870,unnamed_line_1870_2462__c0,"Node (41.484,-80.433)",0,unnamed_line_1870_2462__c0,rrmma-lines
+unnamed_line_1870_2463,rrmma_1840_1870,unnamed_line_1870_2463__c0,"Node (37.142,-89.197)",0,unnamed_line_1870_2463__c0,rrmma-lines
+unnamed_line_1870_2464,rrmma_1840_1870,unnamed_line_1870_2464__c0,Charleston,0,unnamed_line_1870_2464__c0,rrmma-lines
+unnamed_line_1870_2465,rrmma_1840_1870,unnamed_line_1870_2465__c0,Columbus,0,unnamed_line_1870_2465__c0,rrmma-lines
+unnamed_line_1870_2466,rrmma_1840_1870,unnamed_line_1870_2466__c0,"Node (37.068,-93.555)",0,unnamed_line_1870_2466__c0,rrmma-lines
+unnamed_line_1870_2467,rrmma_1840_1870,unnamed_line_1870_2467__c0,Milledgeville,0,unnamed_line_1870_2467__c0,rrmma-lines
+unnamed_line_1870_2468,rrmma_1840_1870,unnamed_line_1870_2468__c0,"Node (32.004,-87.008)",0,unnamed_line_1870_2468__c0,rrmma-lines
+unnamed_line_1870_2469,rrmma_1840_1870,unnamed_line_1870_2469__c0,"Node (34.765,-83.062)",0,unnamed_line_1870_2469__c0,rrmma-lines
+unnamed_line_1870_2470,rrmma_1840_1870,unnamed_line_1870_2470__c0,Greensboro,0,unnamed_line_1870_2470__c0,rrmma-lines
+unnamed_line_1870_2471,rrmma_1840_1870,unnamed_line_1870_2471__c0,"Node (37.797,-80.298)",0,unnamed_line_1870_2471__c0,rrmma-lines
+unnamed_line_1870_2472,rrmma_1840_1870,unnamed_line_1870_2472__c0,"Node (40.588,-77.576)",0,unnamed_line_1870_2472__c0,rrmma-lines
+unnamed_line_1870_2473,rrmma_1840_1870,unnamed_line_1870_2473__c0,"Node (40.600,-77.571)",0,unnamed_line_1870_2473__c0,rrmma-lines
+unnamed_line_1870_2474,rrmma_1840_1870,unnamed_line_1870_2474__c0,"Node (40.206,-78.181)",0,unnamed_line_1870_2474__c0,rrmma-lines
+unnamed_line_1870_2475,rrmma_1840_1870,unnamed_line_1870_2475__c0,"Node (40.164,-78.260)",0,unnamed_line_1870_2475__c0,rrmma-lines
+unnamed_line_1870_2476,rrmma_1840_1870,unnamed_line_1870_2476__c0,"Node (40.012,-78.372)",0,unnamed_line_1870_2476__c0,rrmma-lines
+unnamed_line_1870_2477,rrmma_1840_1870,unnamed_line_1870_2477__c0,Piedmont,0,unnamed_line_1870_2477__c0,rrmma-lines
+unnamed_line_1870_2478,rrmma_1840_1870,unnamed_line_1870_2478__c0,Frostburg,0,unnamed_line_1870_2478__c0,rrmma-lines
+unnamed_line_1870_2479,rrmma_1840_1870,unnamed_line_1870_2479__c0,"Node (39.647,-76.146)",0,unnamed_line_1870_2479__c0,rrmma-lines
+unnamed_line_1870_2480,rrmma_1840_1870,unnamed_line_1870_2480__c0,"Node (41.391,-75.555)",0,unnamed_line_1870_2480__c0,rrmma-lines
+unnamed_line_1870_2481,rrmma_1840_1870,unnamed_line_1870_2481__c0,"Node (41.414,-75.608)",0,unnamed_line_1870_2481__c0,rrmma-lines
+unnamed_line_1870_2482,rrmma_1840_1870,unnamed_line_1870_2482__c0,"Node (41.504,-76.419)",0,unnamed_line_1870_2482__c0,rrmma-lines
+unnamed_line_1870_2483,rrmma_1840_1870,unnamed_line_1870_2483__c0,"Node (41.303,-74.562)",0,unnamed_line_1870_2483__c0,rrmma-lines
+unnamed_line_1870_2484,rrmma_1840_1870,unnamed_line_1870_2484__c0,"Node (41.970,-74.220)",0,unnamed_line_1870_2484__c0,rrmma-lines
+unnamed_line_1870_2485,rrmma_1840_1870,unnamed_line_1870_2485__c0,"Node (41.504,-73.985)",0,unnamed_line_1870_2485__c0,rrmma-lines
+unnamed_line_1870_2486,rrmma_1840_1870,unnamed_line_1870_2486__c0,"Node (41.502,-73.606)",0,unnamed_line_1870_2486__c0,rrmma-lines
+unnamed_line_1870_2487,rrmma_1840_1870,unnamed_line_1870_2487__c0,"Node (41.372,-73.739)",0,unnamed_line_1870_2487__c0,rrmma-lines
+unnamed_line_1870_2488,rrmma_1840_1870,unnamed_line_1870_2488__c0,"Node (41.398,-73.444)",0,unnamed_line_1870_2488__c0,rrmma-lines
+unnamed_line_1870_2489,rrmma_1840_1870,unnamed_line_1870_2489__c0,"Node (41.430,-73.409)",0,unnamed_line_1870_2489__c0,rrmma-lines
+unnamed_line_1870_2490,rrmma_1840_1870,unnamed_line_1870_2490__c0,"Node (42.368,-71.054)",0,unnamed_line_1870_2490__c0,rrmma-lines
+unnamed_line_1870_2491,rrmma_1840_1870,unnamed_line_1870_2491__c0,"Node (42.502,-70.857)",0,unnamed_line_1870_2491__c0,rrmma-lines
+unnamed_line_1870_2492,rrmma_1840_1870,unnamed_line_1870_2492__c0,"Node (40.436,-80.010)",0,unnamed_line_1870_2492__c0,rrmma-lines
+unnamed_line_1870_2493,rrmma_1840_1870,unnamed_line_1870_2493__c0,"Node (40.688,-79.667)",0,unnamed_line_1870_2493__c0,rrmma-lines
+unnamed_line_1870_2494,rrmma_1840_1870,unnamed_line_1870_2494__c0,"Node (39.966,-83.007)",0,unnamed_line_1870_2494__c0,rrmma-lines
+unnamed_line_1870_2495,rrmma_1840_1870,unnamed_line_1870_2495__c0,Louisville,0,unnamed_line_1870_2495__c0,rrmma-lines
+unnamed_line_1870_2496,rrmma_1840_1870,unnamed_line_1870_2496__c0,"Node (38.686,-87.514)",0,unnamed_line_1870_2496__c0,rrmma-lines
+unnamed_line_1870_2497,rrmma_1840_1870,unnamed_line_1870_2497__c0,"Node (39.763,-86.162)",0,unnamed_line_1870_2497__c0,rrmma-lines
+unnamed_line_1870_2498,rrmma_1840_1870,unnamed_line_1870_2498__c0,St Louis,0,unnamed_line_1870_2498__c0,rrmma-lines
+unnamed_line_1870_2499,rrmma_1840_1870,unnamed_line_1870_2499__c0,"Node (38.343,-89.384)",0,unnamed_line_1870_2499__c0,rrmma-lines
+unnamed_line_1870_2500,rrmma_1840_1870,unnamed_line_1870_2500__c0,"Node (38.727,-89.880)",0,unnamed_line_1870_2500__c0,rrmma-lines
+unnamed_line_1870_2501,rrmma_1840_1870,unnamed_line_1870_2501__c0,St Louis,0,unnamed_line_1870_2501__c0,rrmma-lines
+unnamed_line_1870_2502,rrmma_1840_1870,unnamed_line_1870_2502__c0,"Node (38.318,-88.900)",0,unnamed_line_1870_2502__c0,rrmma-lines
+chicago_milwaukee_st_paul_railroad,rrmma_1840_1870,chicago_milwaukee_st_paul_railroad__c0,"Node (42.303,-89.624)",0,chicago_milwaukee_st_paul_railroad__c0,rrmma-lines
+danville_urbana_bloomington_and_pekin,rrmma_1840_1870,danville_urbana_bloomington_and_pekin__c0,"Node (40.546,-89.671)",0,danville_urbana_bloomington_and_pekin__c0,rrmma-lines
+petersburg_and_tonica,rrmma_1840_1870,petersburg_and_tonica__c0,"Node (39.737,-90.223)",0,petersburg_and_tonica__c0,rrmma-lines
+springfield_and_south_eastern_railroad,rrmma_1840_1870,springfield_and_south_eastern_railroad__c0,"Node (39.812,-89.641)",0,springfield_and_south_eastern_railroad__c0,rrmma-lines
+unnamed_line_1870_2509,rrmma_1840_1870,unnamed_line_1870_2509__c0,"Node (39.848,-88.945)",0,unnamed_line_1870_2509__c0,rrmma-lines
+unnamed_line_1870_2510,rrmma_1840_1870,unnamed_line_1870_2510__c0,"Node (40.129,-87.622)",0,unnamed_line_1870_2510__c0,rrmma-lines
+unnamed_line_1870_2511,rrmma_1840_1870,unnamed_line_1870_2511__c0,"Node (40.146,-87.396)",0,unnamed_line_1870_2511__c0,rrmma-lines
+unnamed_line_1870_2512,rrmma_1840_1870,unnamed_line_1870_2512__c0,"Node (39.466,-87.417)",0,unnamed_line_1870_2512__c0,rrmma-lines
+napa_valley_railroad_company,rrmma_1840_1870,napa_valley_railroad_company__c0,"Node (38.509,-122.471)",0,napa_valley_railroad_company__c0,rrmma-lines
+caltrain,rrmma_1840_1870,caltrain__c0,"Node (37.341,-121.894)",0,caltrain__c0,rrmma-lines
+unnamed_line_1870_2534,rrmma_1840_1870,unnamed_line_1870_2534__c0,"Node (38.765,-102.798)",0,unnamed_line_1870_2534__c0,rrmma-lines
+unnamed_line_1870_2535,rrmma_1840_1870,unnamed_line_1870_2535__c0,"Node (39.746,-104.993)",0,unnamed_line_1870_2535__c0,rrmma-lines
+california_northern_railroad_company,rrmma_1840_1870,california_northern_railroad_company__c0,"Node (38.105,-122.260)",0,california_northern_railroad_company__c0,rrmma-lines
+unnamed_line_1870_2543,rrmma_1840_1870,unnamed_line_1870_2543__c0,"Node (43.537,-89.436)",0,unnamed_line_1870_2543__c0,rrmma-lines
+unnamed_line_1870_2544,rrmma_1840_1870,unnamed_line_1870_2544__c0,"Node (43.547,-89.465)",0,unnamed_line_1870_2544__c0,rrmma-lines
+west_wisconsin,rrmma_1840_1870,west_wisconsin__c0,"Node (44.808,-91.495)",0,west_wisconsin__c0,rrmma-lines
+milwaukee_st_paul_railroad,rrmma_1840_1870,milwaukee_st_paul_railroad__c0,"Node (44.006,-90.564)",0,milwaukee_st_paul_railroad__c0,rrmma-lines
+chicago_northwest_railroad,rrmma_1840_1870,chicago_northwest_railroad__c0,"Node (43.815,-88.478)",0,chicago_northwest_railroad__c0,rrmma-lines
+unnamed_line_1870_2556,rrmma_1840_1870,unnamed_line_1870_2556__c0,"Node (44.111,-88.718)",0,unnamed_line_1870_2556__c0,rrmma-lines
+unnamed_line_1870_2557,rrmma_1840_1870,unnamed_line_1870_2557__c0,"Node (43.072,-89.407)",0,unnamed_line_1870_2557__c0,rrmma-lines

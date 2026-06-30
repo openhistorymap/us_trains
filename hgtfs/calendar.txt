@@ -1,0 +1,2 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+rrmma_1840_1870,1,1,1,1,1,1,1,18400101,18701231

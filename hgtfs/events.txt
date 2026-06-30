@@ -1,0 +1,7 @@
+event_id,date,end_date,name,description,period_uri
+e1,18270228,,Baltimore & Ohio Railroad chartered,First US common-carrier railroad chartered.,
+e2,18301225,,First scheduled US steam service,South Carolina Canal & Rail Road runs the 'Best Friend of Charleston'.,
+e3,18500920,,Illinois Central land grant,First federal railroad land-grant act.,
+e4,18610412,18650409,American Civil War,Rail networks become strategic infrastructure; Southern lines heavily damaged.,
+e5,18620701,,Pacific Railway Act,Authorises the first transcontinental railroad.,
+e6,18690510,,First Transcontinental Railroad completed,"Golden Spike driven at Promontory Summit, Utah.",

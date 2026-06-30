@@ -1,0 +1,3 @@
+source_id,source_name,source_author,source_year,source_url,source_type,source_notes
+rrmma-lines,"Railroads and the Making of Modern America - US railroad GIS, snapshots 1840-1870","William G. Thomas et al., University of Nebraska-Lincoln",2012,https://railroads.unl.edu/,5,Scholarly GIS compilation of historical US railroad lines (shapefiles by year).
+rrmma-depots,"RRMMA Southern depots, junctions and endpoints",University of Nebraska-Lincoln,2012,https://railroads.unl.edu/,5,Point layers for the US South; station names from the label layer.

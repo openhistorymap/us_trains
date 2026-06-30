@@ -1,0 +1,996 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,date_opened,date_closed,agency_note
+adrian_and_blissfield_rail_road_company,Adrian and Blissfield Rail Road Company,https://railroads.unl.edu/,America/New_York,en,18400101,,states: Michigan
+agricultural,Agricultural,https://railroads.unl.edu/,America/New_York,en,18610101,,"2012 successor: CSX Transportation, Incorporated; states: New Jersey"
+agusta_and_savanna,Agusta and Savanna,https://railroads.unl.edu/,America/New_York,en,18400101,,"states: Georgia, South Carolina"
+alabama_and_florida,Alabama and Florida,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: Alabama"
+alabama_and_mississippi_rivers,Alabama and Mississippi Rivers,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Norfolk Southern Railway Company; states: Alabama
+alabama_and_tennesee_rivers,Alabama and Tennesee Rivers,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Norfolk Southern Railway Company; states: Alabama
+alabama_and_tennessee_river,Alabama and Tennessee River,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Norfolk Southern Railway Company; states: Alabama
+albany_and_vermont,Albany and Vermont,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: Canadian Pacific Railway; states: New York, Vermont"
+alexandria_and_cheyneyville,Alexandria and Cheyneyville,https://railroads.unl.edu/,America/New_York,en,18400101,,2012 successor: Kansas City Southern Railway Company; states: Louisiana
+alexandria_and_leesburg,Alexandria and Leesburg,https://railroads.unl.edu/,America/New_York,en,18610101,,states: Virginia
+allegheny_valley,Allegheny Valley,https://railroads.unl.edu/,America/New_York,en,18550101,,2012 successor: Norfolk Southern Railway Company; states: Pennsylvania
+alton_and_east_st_louis,Alton and East St. Louis,https://railroads.unl.edu/,America/New_York,en,18550101,,2012 successor: Norfolk Southern Railway Company; states: Illinois
+amherst_belchertown_and_palmer,"Amherst, Belchertown and Palmer",https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: New England Central Railroad, Incorporated; states: Masachusetts"
+androscoggin,Androscoggin,https://railroads.unl.edu/,America/New_York,en,18500101,,states: Maine
+annapolis_and_elkridge,Annapolis and Elkridge,https://railroads.unl.edu/,America/New_York,en,18450101,,states: Maryland
+ashuelot,Ashuelot,https://railroads.unl.edu/,America/New_York,en,18500101,,states: New Hampshire
+atlanta_and_west_point,Atlanta and West Point,https://railroads.unl.edu/,America/New_York,en,18500101,,states: Georgia
+atlantic_and_great_western,Atlantic and Great Western,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Western New York and Pennsylvania Railroad; states: New York
+atlantic_and_north_carolina,Atlantic and North Carolina,https://railroads.unl.edu/,America/New_York,en,18610101,,states: North Carolina
+baltimore_and_ohio,Baltimore and Ohio,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: Maryland, West Virginia"
+bangor_old_town_and_milford,"Bangor, Old Town and Milford",https://railroads.unl.edu/,America/New_York,en,18550101,,2012 successor: ST Rail System; states: Maine
+barclay,Barclay,https://railroads.unl.edu/,America/New_York,en,18610101,,"2012 successor: Towanda-Monroeton Shippers Lifeline, Incorporated; states: Pennsylvania"
+baton_rouge_grosse_tete_and_opelousas,"Baton Rouge, Grosse Tete and Opelousas",https://railroads.unl.edu/,America/New_York,en,18700101,,2012 successor: Union Pacific Railroad Company; states: Louisiana
+bay_colony_railroad_corporation,Bay Colony Railroad Corporation,https://railroads.unl.edu/,America/New_York,en,18450101,,states: Masachusetts
+beaver_meadow,Beaver Meadow,https://railroads.unl.edu/,America/New_York,en,18550101,,states: Pennsylvania
+bellefontaine_line,Bellefontaine Line,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: Indiana, Ohio"
+bellefonte_and_snow_shoe,Bellefonte and Snow Shoe,https://railroads.unl.edu/,America/New_York,en,18610101,,states: Pennsylvania
+belleville_and_illinoistown,Belleville and Illinoistown,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Union Pacific Railroad Company; states: Illinois
+beloit_and_madison,Beloit and Madison,https://railroads.unl.edu/,America/New_York,en,18500101,,states: Illinois
+beloit_and_madison_railroad,Beloit and Madison Railroad,https://railroads.unl.edu/,America/New_York,en,18700101,,"2012 successor: I and M Rail Link, LLC; states: Wisconsin"
+belvidere_and_delaware,Belvidere and Delaware,https://railroads.unl.edu/,America/New_York,en,18550101,,2012 successor: Norfolk Southern Railway Company; states: New Jersey
+black_river_and_utica,Black River and Utica,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Mohawk Adirondack and Northern Railroad Corporation; states: New York
+blairsville_and_indiana,Blairsville and Indiana,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Norfolk Southern Railway Company; states: Pennsylvania
+blue_ridge,Blue Ridge,https://railroads.unl.edu/,America/New_York,en,18500101,,states: South Carolina
+boston_and_lowell,Boston and Lowell,https://railroads.unl.edu/,America/New_York,en,18400101,,2012 successor: Massachusetts Bay Transportation Authority; states: Masachusetts
+boston_and_maine,Boston and Maine,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: Massachusetts Bay Transportation Authority; states: Masachusetts, New Hampshire"
+boston_and_providence,Boston and Providence,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: Massachusetts Bay Transportation Authority; states: Masachusetts, Rhode Island"
+boston_and_worcester,Boston and Worcester,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: Masachusetts"
+boston_and_worchester,Boston and Worchester,https://railroads.unl.edu/,America/New_York,en,18550101,,"2012 successor: CSX Transportation, Incorporated; states: Masachusetts"
+boston_concord_and_montreal,"Boston, Concord and Montreal",https://railroads.unl.edu/,America/New_York,en,18450101,,states: New Hampshire
+brunswick_and_florida,Brunswick and Florida,https://railroads.unl.edu/,America/New_York,en,18610101,,states: Georgia
+buffalo_bayou_brazos_and_colorado,"Buffalo Bayou, Brazos and Colorado",https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Union Pacific Railroad Company; states: Texas
+buffalo_corning_and_new_york,"Buffalo, Corning and New York",https://railroads.unl.edu/,America/New_York,en,18500101,,2012 successor: Livonia Avon and Lakeville Railroad Corporation; states: New York
+buffalo_new_york_and_erie,"Buffalo, New York and Erie",https://railroads.unl.edu/,America/New_York,en,18450101,,"2012 successor: CSX Transportation, Incorporated; states: New York"
+buffalo_niagara_falls_and_lewiston,"Buffalo, Niagara Falls and Lewiston",https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: New York"
+burlingon_and_missouri,Burlingon and Missouri,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Burlington Northern and Santa Fe Railway Company; states: Iowa
+burlington_and_missouri,Burlington and Missouri,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Burlington Northern and Santa Fe Railway Company; states: Iowa
+burlington_northern_and_santa_fe_railway_company,Burlington Northern and Santa Fe Railway Company,https://railroads.unl.edu/,America/New_York,en,18610101,,states: Illinois
+cairo_and_fulton,Cairo and Fulton,https://railroads.unl.edu/,America/New_York,en,18610101,,states: Missouri
+calais_and_baring,Calais and Baring,https://railroads.unl.edu/,America/New_York,en,18550101,,states: Maine
+california_northern_railroad_company,California Northern Railroad Company,https://railroads.unl.edu/,America/New_York,en,18700101,,
+caltrain,Caltrain,https://railroads.unl.edu/,America/New_York,en,18700101,,
+camden_and_amboy,Camden and Amboy,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: New Jersey"
+camden_and_atlantic,Camden and Atlantic,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: New Jersey"
+canadian_pacific_railway,Canadian Pacific Railway,https://railroads.unl.edu/,America/New_York,en,18610101,,states: Wisconsin
+cape_cod,Cape Cod,https://railroads.unl.edu/,America/New_York,en,18500101,,2012 successor: Bay Colony Railroad Corporation; states: Masachusetts
+carrollton_and_oneida,Carrollton and Oneida,https://railroads.unl.edu/,America/New_York,en,18500101,,2012 successor: Wheeling and Lake Erie Railway Company; states: Ohio
+catawissa_williamsport_and_elmira,"Catawissa, Williamsport and Elmira",https://railroads.unl.edu/,America/New_York,en,18500101,,2012 successor: Reading Blue Mountain and Northern Railroad Company; states: Pennsylvania
+cayuga_and_susquehanna,Cayuga and Susquehanna,https://railroads.unl.edu/,America/New_York,en,18400101,,2012 successor: Norfolk Southern Railway Company; states: New York
+centeral_branch_union_pacific,Centeral Branch Union Pacific,https://railroads.unl.edu/,America/New_York,en,18700101,,
+central_georgia,Central Georgia,https://railroads.unl.edu/,America/New_York,en,18400101,,states: Georgia
+central_ohio,Central Ohio,https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: CSX Transportation, Incorporated; states: Ohio"
+charleston_and_savannah,Charleston and Savannah,https://railroads.unl.edu/,America/New_York,en,18400101,,"states: Georgia, South Carolina"
+charlotte_and_south_carolina,Charlotte and South Carolina,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: Norfolk Southern Railway Company; states: North Carolina, South Carolina"
+chemung,Chemung,https://railroads.unl.edu/,America/New_York,en,18500101,,states: New York
+cheraw_and_darlington,Cheraw and Darlington,https://railroads.unl.edu/,America/New_York,en,18610101,,states: South Carolina
+cheshire,Cheshire,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: ST Rail System; states: Masachusetts, New Hampshire, Vermont"
+chicago_and_milwaukee,Chicago and Milwaukee,https://railroads.unl.edu/,America/New_York,en,18550101,,"2012 successor: Union Pacific Railroad Company; states: Illinois, Wisconsin"
+chicago_and_north_western,Chicago and North Western,https://railroads.unl.edu/,America/New_York,en,18450101,,"2012 successor: Union Pacific Railroad Company; states: Illinois, WI, Wisconsin"
+chicago_and_north_western_railway,Chicago and North Western Railway,https://railroads.unl.edu/,America/New_York,en,18700101,,"states: Illinois, Wisconsin"
+chicago_and_rock_island,Chicago and Rock Island,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: Illinois"
+chicago_burlington_and_quincy,"Chicago, Burlington and Quincy",https://railroads.unl.edu/,America/New_York,en,18400101,,2012 successor: Burlington Northern and Santa Fe Railway Company; states: Illinois
+chicago_iowa_and_nebraska,"Chicago, Iowa and Nebraska",https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Union Pacific Railroad Company; states: Iowa
+chicago_milwaukee_st_paul_railroad,"Chicago, Milwaukee & St. Paul Railroad",https://railroads.unl.edu/,America/New_York,en,18700101,,
+chicago_northwest_railroad,Chicago & Northwest Railroad,https://railroads.unl.edu/,America/New_York,en,18700101,,states: WI
+cincinnati_and_chicago,Cincinnati and Chicago,https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: CSX Transportation, Incorporated; states: Indiana"
+cincinnati_and_indianapolis_junction,Cincinnati and Indianapolis Junction,https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: CSX Transportation, Incorporated; states: Indiana, Ohio"
+cincinnati_and_martinsville,Cincinnati and Martinsville,https://railroads.unl.edu/,America/New_York,en,18500101,,states: Indiana
+cincinnati_eaton_and_richmond,"Cincinnati, Eaton and Richmond",https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: Norfolk Southern Railway Company; states: Indiana, Ohio"
+cincinnati_hamilton_and_dayton,"Cincinnati, Hamilton and Dayton",https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: CSX Transportation, Incorporated; states: Ohio"
+cincinnati_peru_and_chicago,"Cincinnati, Peru and Chicago",https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Chicago SouthShore and South Bend Railroad; states: Indiana
+cincinnati_wilmington_and_zanesville,"Cincinnati, Wilmington and Zanesville",https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: CSX Transportation, Incorporated; states: Ohio"
+cisco_northeastern_railroad,Cisco & Northeastern Railroad,https://railroads.unl.edu/,America/New_York,en,18700101,,
+city_of_columbia_d_b_a_columbia_terminal,"City of Columbia, d/b/a Columbia Terminal",https://railroads.unl.edu/,America/New_York,en,18700101,,
+cleveland_and_mahoning,Cleveland and Mahoning,https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: CSX Transportation, Incorporated; states: Ohio"
+cleveland_and_pittsburgh,Cleveland and Pittsburgh,https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: Norfolk Southern Railway Company; states: Ohio, Pennsylvania"
+cleveland_and_toledo,Cleveland and Toledo,https://railroads.unl.edu/,America/New_York,en,18400101,,2012 successor: Norfolk Southern Railway Company; states: Ohio
+cleveland_columbus_and_cincinnati,"Cleveland, Columbus and Cincinnati",https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: CSX Transportation, Incorporated; states: Ohio"
+cleveland_painesville_and_ashtabula,"Cleveland, Painesville and Ashtabula",https://railroads.unl.edu/,America/New_York,en,18450101,,"2012 successor: CSX Transportation, Incorporated; states: Ohio, Pennsylvania"
+cleveland_zanesville_and_cincinnati,"Cleveland, Zanesville and Cincinnati",https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: CSX Transportation, Incorporated; states: Ohio"
+clinton_and_port_hudson,Clinton and Port Hudson,https://railroads.unl.edu/,America/New_York,en,18550101,,2012 successor: Canadian National Railway; states: Louisiana
+cocheco,Cocheco,https://railroads.unl.edu/,America/New_York,en,18400101,,"states: Masachusetts, New Hampshire"
+columbus_and_xenia,Columbus and Xenia,https://railroads.unl.edu/,America/New_York,en,18450101,,2012 successor: Norfolk Southern Railway Company; states: Ohio
+columbus_piqua_and_indiana,"Columbus, Piqua and Indiana",https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: CSX Transportation, Incorporated; states: Ohio"
+concord,Concord,https://railroads.unl.edu/,America/New_York,en,18500101,,states: New Hampshire
+concord_and_claremont,Concord and Claremont,https://railroads.unl.edu/,America/New_York,en,18500101,,states: New Hampshire
+concord_and_portsmouth,Concord and Portsmouth,https://railroads.unl.edu/,America/New_York,en,18500101,,states: New Hampshire
+connecticut_and_passumpsic_rivers,Connecticut and Passumpsic Rivers,https://railroads.unl.edu/,America/New_York,en,18400101,,"states: New Hampshire, Vermont"
+connecticut_river,Connecticut River,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: ST Rail System; states: Masachusetts, Vermont"
+contoocook,Contoocook,https://railroads.unl.edu/,America/New_York,en,18550101,,states: New Hampshire
+corning_and_blossburg,Corning and Blossburg,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: Wellsboro and Corning Railroad Company; states: New York, Pennsylvania"
+csx_transportation_incorporated,"CSX Transportation, Incorporated",https://railroads.unl.edu/,America/New_York,en,18400101,,"states: Masachusetts, New York, Pennsylvania"
+cumberland_and_pennsylvania,Cumberland and Pennsylvania,https://railroads.unl.edu/,America/New_York,en,18550101,,states: Maryland
+cumberland_valley,Cumberland Valley,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: Norfolk Southern Railway Company; states: Maryland, Pennsylvania"
+danbury_and_norwalk,Danbury and Norwalk,https://railroads.unl.edu/,America/New_York,en,18400101,,2012 successor: Metro-North Commuter Railroad; states: Connecticut
+danville_urbana_bloomington_and_pekin,"Danville, Urbana, Bloomington and Pekin",https://railroads.unl.edu/,America/New_York,en,18700101,,2012 successor: Norfolk Southern Railway Company; states: Illinois
+dayton_and_michigan,Dayton and Michigan,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: Ohio"
+dayton_xenia_and_belpre,"Dayton, Xenia and Belpre",https://railroads.unl.edu/,America/New_York,en,18550101,,states: Ohio
+delaware,Delaware,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Norfolk Southern Railway Company; states: Delaware
+delaware_and_hudson,Delaware and Hudson,https://railroads.unl.edu/,America/New_York,en,18400101,,2012 successor: Delaware-Lackawanna Railroad Company; states: Pennsylvania
+delaware_lackawanna_and_western,"Delaware, Lackawanna and Western",https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: Canadian Pacific Railway; states: New Jersey, Pennsylvania"
+delaware_newcastle_and_frenchtown,"Delaware, Newcastle and Frenchtown",https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: Norfolk Southern Railway Company; states: Delaware, Maryland"
+detroit_and_milwaukee,Detroit and Milwaukee,https://railroads.unl.edu/,America/New_York,en,18400101,,2012 successor: Canadian National Railway; states: Michigan
+detroit_monroe_and_toledo,"Detroit, Monroe and Toledo",https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: Michigan, Ohio"
+dexter,Dexter,https://railroads.unl.edu/,America/New_York,en,18700101,,states: Maine
+dubuque_and_pacific,Dubuque and Pacific,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Canadian National Railway; states: Iowa
+dubuque_marion_and_western,"Dubuque, Marion and Western",https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Canadian National Railway; states: Iowa
+east_pennsylvania,East Pennsylvania,https://railroads.unl.edu/,America/New_York,en,18500101,,2012 successor: Norfolk Southern Railway Company; states: Pennsylvania
+east_tennessee_and_georgia,East Tennessee and Georgia,https://railroads.unl.edu/,America/New_York,en,18400101,,"states: Georgia, Tennessee"
+east_tennessee_and_virginia,East Tennessee and Virginia,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Norfolk Southern Railway Company; states: Tennessee
+eastern,Eastern,https://railroads.unl.edu/,America/New_York,en,18610101,,states: Masachusetts
+elmira_jefferson_and_canandaigua,"Elmira, Jefferson and Canandaigua",https://railroads.unl.edu/,America/New_York,en,18500101,,2012 successor: Finger Lakes Railway Corporation; states: New York
+enfield_and_lincoln,Enfield and Lincoln,https://railroads.unl.edu/,America/New_York,en,18700101,,states: Maine
+erie_and_pittsburgh,Erie and Pittsburgh,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Bessemer and Lake Erie Railroad Company; states: Pennsylvania
+etowah,Etowah,https://railroads.unl.edu/,America/New_York,en,18610101,,"2012 successor: CSX Transportation, Incorporated; states: Georgia"
+evansville_and_crawfordsville,Evansville and Crawfordsville,https://railroads.unl.edu/,America/New_York,en,18450101,,"2012 successor: CSX Transportation, Incorporated; states: Indiana"
+fairhaven_branch,Fairhaven Branch,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Bay Colony Railroad Corporation; states: Masachusetts
+fayette_county,Fayette County,https://railroads.unl.edu/,America/New_York,en,18610101,,"2012 successor: CSX Transportation, Incorporated; states: Pennsylvania"
+fitchburg,Fitchburg,https://railroads.unl.edu/,America/New_York,en,18400101,,2012 successor: Massachusetts Bay Transportation Authority; states: Masachusetts
+fitchburg_and_worcester,Fitchburg and Worcester,https://railroads.unl.edu/,America/New_York,en,18500101,,2012 successor: ST Rail System; states: Masachusetts
+flemington,Flemington,https://railroads.unl.edu/,America/New_York,en,18550101,,2012 successor: Black River and Western Corporation; states: New Jersey
+flint_and_pere_marquette,Flint and Pere Marquette,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: Michigan"
+florida,Florida,https://railroads.unl.edu/,America/New_York,en,18610101,,"2012 successor: CSX Transportation, Incorporated; states: Florida"
+florida_and_alabama,Florida and Alabama,https://railroads.unl.edu/,America/New_York,en,18610101,,"2012 successor: CSX Transportation, Incorporated; states: Alabama, Florida"
+florida_atlantic_and_georgia,"Florida, Atlantic and Georgia",https://railroads.unl.edu/,America/New_York,en,18610101,,"2012 successor: CSX Transportation, Incorporated; states: Florida"
+flushing_and_new_york,Flushing and New York,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Long Island Rail Road Company; states: New York
+franklin,Franklin,https://railroads.unl.edu/,America/New_York,en,18610101,,states: Maine
+fremont_and_indiana,Fremont and Indiana,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Norfolk Southern Railway Company; states: Ohio
+galena_and_chicago_union,Galena and Chicago Union,https://railroads.unl.edu/,America/New_York,en,18500101,,2012 successor: Union Pacific Railroad Company; states: Illinois
+galveston_houston_and_henderson,"Galveston, Houston and Henderson",https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Union Pacific Railroad Company; states: Texas
+georgia,Georgia,https://railroads.unl.edu/,America/New_York,en,18400101,,states: Georgia
+gettysburg,Gettysburg,https://railroads.unl.edu/,America/New_York,en,18610101,,"2012 successor: CSX Transportation, Incorporated; states: Pennsylvania"
+grand_gulf_and_port_gibson,Grand Gulf and Port Gibson,https://railroads.unl.edu/,America/New_York,en,18400101,,states: Mississippi
+grand_trunk,Grand Trunk,https://railroads.unl.edu/,America/New_York,en,18400101,,"states: Maine, New Hampshire, Vermont"
+grand_trunk_toledo_and_detroit_branch,Grand Trunk (Toledo and Detroit Branch),https://railroads.unl.edu/,America/New_York,en,18610101,,"2012 successor: CSX Transportation, Incorporated; states: Michigan"
+great_falls_and_conway,Great Falls and Conway,https://railroads.unl.edu/,America/New_York,en,18500101,,states: New Hampshire
+great_western,Great Western,https://railroads.unl.edu/,America/New_York,en,18400101,,2012 successor: Norfolk Southern Railway Company; states: Illinois
+greensville_and_columbia,Greensville and Columbia,https://railroads.unl.edu/,America/New_York,en,18500101,,states: South Carolina
+greenville_and_miami,Greenville and Miami,https://railroads.unl.edu/,America/New_York,en,18500101,,states: Ohio
+hackensack_and_new_york,Hackensack and New York,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: New Jersey Transit Rail Operations; states: New Jersey
+hampshire_and_hampden,Hampshire and Hampden,https://railroads.unl.edu/,America/New_York,en,18610101,,"2012 successor: Pioneer Valley Railroad Company, Incorporated; states: Masachusetts"
+hannibal_and_st_joseph,Hannibal and St. Joseph,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Burlington Northern and Santa Fe Railway Company; states: Missouri
+hartford_providence_and_fishkill,"Hartford, Providence and Fishkill",https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: Connecticut Southern Railroad; states: Connecticut, Rhode Island"
+hempfield,Hempfield,https://railroads.unl.edu/,America/New_York,en,18610101,,"states: Pennsylvania, West Virginia"
+horicon_and_milwaukee,Horicon and Milwaukee,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Wisconsin and Southern Railroad Company; states: Wisconsin
+houstatonic,Houstatonic,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: Housatonic Railroad Company; states: Connecticut, Masachusetts"
+houston_and_texas_central,Houston and Texas Central,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Union Pacific Railroad Company; states: Texas
+houston_tap_and_brazoria,"Houston, Tap and Brazoria",https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Union Pacific Railroad Company; states: Texas
+hudson_and_boston,Hudson and Boston,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: Masachusetts, New York"
+hudson_river,Hudson River,https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: CSX Transportation, Incorporated; states: New York"
+huntington_and_bread_top_mountain,Huntington and Bread Top Mountain,https://railroads.unl.edu/,America/New_York,en,18550101,,states: Pennsylvania
+i_and_m_rail_link_llc,"I and M Rail Link, LLC",https://railroads.unl.edu/,America/New_York,en,18450101,,states: Wisconsin
+illinois_central,Illinois Central,https://railroads.unl.edu/,America/New_York,en,18400101,,2012 successor: Canadian National Railway; states: Illinois
+illinois_river,Illinois River,https://railroads.unl.edu/,America/New_York,en,18400101,,2012 successor: Toledo Peoria and Western Railway; states: Illinois
+indiana_central,Indiana Central,https://railroads.unl.edu/,America/New_York,en,18500101,,"states: Indiana, Ohio"
+indianapolis_and_cincinnati,Indianapolis and Cincinnati,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: Indiana"
+iowa_interstate_railroad_limited,"Iowa Interstate Railroad, Limited",https://railroads.unl.edu/,America/New_York,en,18700101,,"states: Illinois, Iowa"
+iron_railroad,Iron Railroad,https://railroads.unl.edu/,America/New_York,en,18500101,,states: Ohio
+jeffersonville,Jeffersonville,https://railroads.unl.edu/,America/New_York,en,18400101,,2012 successor: Louisville and Indiana Railroad Company; states: Indiana
+joliet_and_northern_indiana,Joliet and Northern Indiana,https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: Elgin Joliet and Eastern Railway Company; states: Illinois, Indiana"
+kansas_city_southern_railway_company,Kansas City Southern Railway Company,https://railroads.unl.edu/,America/New_York,en,18700101,,
+kennebec_and_portland,Kennebec and Portland,https://railroads.unl.edu/,America/New_York,en,18500101,,states: Maine
+kenosha_rockford_and_rock_island,"Kenosha, Rockford and Rock Island",https://railroads.unl.edu/,America/New_York,en,18610101,,"2012 successor: Union Pacific Railroad Company; states: Illinois, Wisconsin"
+kentucky_central,Kentucky Central,https://railroads.unl.edu/,America/New_York,en,18500101,,2012 successor: Norfolk Southern Railway Company; states: Kentucky
+keokuk_fort_des_moines_and_minnesota,"Keokuk, Fort Des Moines and Minnesota",https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Burlington Northern and Santa Fe Railway Company; states: Iowa
+keokuk_mt_pleasant_and_muscatine,"Keokuk, Mt. Pleasant and Muscatine",https://railroads.unl.edu/,America/New_York,en,18550101,,2012 successor: Burlington Northern and Santa Fe Railway Company; states: Iowa
+kings_mountain,Kings Mountain,https://railroads.unl.edu/,America/New_York,en,18500101,,states: South Carolina
+kyle_railroad_company,Kyle Railroad Company,https://railroads.unl.edu/,America/New_York,en,18700101,,
+la_grange_and_milo,La Grange and Milo,https://railroads.unl.edu/,America/New_York,en,18700101,,states: Maine
+lackawanna_and_bloomsburg,Lackawanna and Bloomsburg,https://railroads.unl.edu/,America/New_York,en,18500101,,2012 successor: Luzerne and Susquehanna Railway Company; states: Pennsylvania
+lafayette_and_indianapolis,Lafayette and Indianapolis,https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: CSX Transportation, Incorporated; states: Indiana"
+laurens,Laurens,https://railroads.unl.edu/,America/New_York,en,18500101,,states: South Carolina
+lebanon_valley,Lebanon Valley,https://railroads.unl.edu/,America/New_York,en,18500101,,2012 successor: Norfolk Southern Railway Company; states: Pennsylvania
+lehigh_and_susquehanna,Lehigh and Susquehanna,https://railroads.unl.edu/,America/New_York,en,18450101,,2012 successor: Reading Blue Mountain and Northern Railroad Company; states: Pennsylvania
+lehigh_valley,Lehigh Valley,https://railroads.unl.edu/,America/New_York,en,18500101,,2012 successor: Norfolk Southern Railway Company; states: Pennsylvania
+lewys_island,Lewys Island,https://railroads.unl.edu/,America/New_York,en,18550101,,states: Maine
+lexington_and_big_sandy,Lexington and Big Sandy,https://railroads.unl.edu/,America/New_York,en,18610101,,"2012 successor: CSX Transportation, Incorporated; states: Kentucky"
+little_miami,Little Miami,https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: CSX Transportation, Incorporated; states: Ohio"
+littlestown,Littlestown,https://railroads.unl.edu/,America/New_York,en,18610101,,states: Pennsylvania
+lockhaven_and_tyrone,Lockhaven and Tyrone,https://railroads.unl.edu/,America/New_York,en,18610101,,states: Pennsylvania
+logansport_peoria_and_burlington,"Logansport, Peoria and Burlington",https://railroads.unl.edu/,America/New_York,en,18610101,,"2012 successor: Toledo Peoria and Western Railway; states: Illinois, Indiana"
+long_island,Long Island,https://railroads.unl.edu/,America/New_York,en,18400101,,2012 successor: Long Island Rail Road Company; states: New York
+louisville_and_frankfort,Louisville and Frankfort,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: Kentucky"
+louisville_and_nashville,Louisville and Nashville,https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: CSX Transportation, Incorporated; states: Kentucky, Tennessee"
+louisville_new_albany_and_chicago,"Louisville, New Albany and Chicago",https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: Indiana"
+lykens_valley,Lykens Valley,https://railroads.unl.edu/,America/New_York,en,18400101,,states: Pennsylvania
+macon_and_brunswick,Macon and Brunswick,https://railroads.unl.edu/,America/New_York,en,18610101,,states: Georgia
+macon_and_western,Macon and Western,https://railroads.unl.edu/,America/New_York,en,18500101,,states: Georgia
+madison_and_indianapolis,Madison and Indianapolis,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: Madison Railroad, Division of City of Madison Port Authority; states: Indiana"
+manassas_gap,Manassas Gap,https://railroads.unl.edu/,America/New_York,en,18500101,,2012 successor: Norfolk Southern Railway Company; states: Virginia
+manchester_and_lawrence,Manchester and Lawrence,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: Massachusetts Bay Transportation Authority; states: Masachusetts, New Hampshire"
+marietta_and_cincinnati,Marietta and Cincinnati,https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: CSX Transportation, Incorporated; states: Ohio"
+marion_and_cahaba,Marion and Cahaba,https://railroads.unl.edu/,America/New_York,en,18610101,,states: Alabama
+marlborough_branch,Marlborough Branch,https://railroads.unl.edu/,America/New_York,en,18610101,,"2012 successor: CSX Transportation, Incorporated; states: Masachusetts"
+mcminnville_and_manchester,McMinnville and Manchester,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Caney Fork and Western Railroad; states: Tennessee
+memphis_and_charleston,Memphis and Charleston,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: Norfolk Southern Railway Company; states: Alabama, Georgia, Mississippi, Tennessee"
+memphis_and_little_rock,Memphis and Little Rock,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: Union Pacific Railroad Company; states: Arkansas, Tennessee"
+memphis_and_ohio,Memphis and Ohio,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: Union Pacific Railroad Company; states: Kentucky, Tennessee"
+memphis_clarksville_and_louisville,"Memphis, Clarksville and Louisville",https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: R.J. Corman Railroad Company/ Memphis Line; states: Kentucky, Tennessee"
+mexican_gulf,Mexican Gulf,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: New Orleans Public Belt Railroad; states: Louisiana
+michigan_central,Michigan Central,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: Indiana, Michigan"
+michigan_southern_and_northern_indiana,Michigan Southern and Northern Indiana,https://railroads.unl.edu/,America/New_York,en,18450101,,"2012 successor: Norfolk Southern Railway Company; states: Illinois, Indiana, Michigan, Ohio"
+milford_and_olamon,Milford and Olamon,https://railroads.unl.edu/,America/New_York,en,18700101,,states: Maine
+milledgeville_and_eatonton,Milledgeville and Eatonton,https://railroads.unl.edu/,America/New_York,en,18500101,,states: Georgia
+milwaukee_and_chicago,Milwaukee and Chicago,https://railroads.unl.edu/,America/New_York,en,18550101,,2012 successor: Canadian Pacific Railway; states: Wisconsin
+milwaukee_and_minnesota,Milwaukee and Minnesota,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Wisconsin and Southern Railroad Company; states: Wisconsin
+milwaukee_and_prairie_du_chien,Milwaukee and Prairie du Chien,https://railroads.unl.edu/,America/New_York,en,18500101,,2012 successor: Canadian Pacific Railway; states: Wisconsin
+milwaukee_and_st_paul,Milwaukee and St. Paul,https://railroads.unl.edu/,America/New_York,en,18700101,,2012 successor: Canadian Pacific Railway; states: Wisconsin
+milwaukee_and_western,Milwaukee and Western,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Canadian Pacific Railway; states: Wisconsin
+milwaukee_st_paul_railroad,Milwaukee & St. Paul Railroad,https://railroads.unl.edu/,America/New_York,en,18700101,,states: WI
+mineral_point,Mineral Point,https://railroads.unl.edu/,America/New_York,en,18550101,,"2012 successor: Chicago, Milwaukee & St. Paul Railroad; states: Illinois, Wisconsin"
+mississippi_and_missouri,Mississippi and Missouri,https://railroads.unl.edu/,America/New_York,en,18550101,,"2012 successor: Iowa Interstate Railroad, Limited; states: Iowa"
+mississippi_and_tennessee,Mississippi and Tennessee,https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: Canadian National Railway; states: Mississippi, Tennessee"
+mississippi_and_wabash,Mississippi and Wabash,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Keokuk Junction Railway; states: Illinois
+mississippi_central,Mississippi Central,https://railroads.unl.edu/,America/New_York,en,18610101,,"2012 successor: Mississippi Central Railroad Company; states: Mississippi, Tennessee"
+missouri_pacific_railroad,Missouri Pacific Railroad,https://railroads.unl.edu/,America/New_York,en,18700101,,
+mobile_and_girard,Mobile and Girard,https://railroads.unl.edu/,America/New_York,en,18450101,,"2012 successor: Norfolk Southern Railway Company; states: Alabama, Georgia"
+mobile_and_ohio,Mobile and Ohio,https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: Burlington Northern and Santa Fe Railway Company; states: Alabama, Mississippi"
+montgomery_and_west_point,Montgomery and West Point,https://railroads.unl.edu/,America/New_York,en,18400101,,"states: Alabama, Georgia"
+morris_and_essex,Morris and Essex,https://railroads.unl.edu/,America/New_York,en,18400101,,2012 successor: New Jersey Transit Rail Operations; states: New Jersey
+moscow_and_somerville,Moscow and Somerville,https://railroads.unl.edu/,America/New_York,en,18450101,,states: Tennessee
+muscogee,Muscogee,https://railroads.unl.edu/,America/New_York,en,18500101,,states: Georgia
+napa_valley_railroad_company,NAPA Valley Railroad Company,https://railroads.unl.edu/,America/New_York,en,18700101,,
+nashua_and_lowell,Nashua and Lowell,https://railroads.unl.edu/,America/New_York,en,18400101,,"states: Masachusetts, New Hampshire"
+nashville_and_chattanooga,Nashville and Chattanooga,https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: CSX Transportation, Incorporated; states: Tennessee"
+nashville_and_decatur,Nashville and Decatur,https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: Tennessee Southern Railroad Company; states: Alabama, Tennessee"
+nashville_and_kentucky,Nashville and Kentucky,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: Kentucky, Tennessee"
+nashville_and_northwestern,Nashville and Northwestern,https://railroads.unl.edu/,America/New_York,en,18610101,,"2012 successor: CSX Transportation, Incorporated; states: Kentucky, Tennessee"
+naugatuck,Naugatuck,https://railroads.unl.edu/,America/New_York,en,18500101,,2012 successor: Metro-North Commuter Railroad; states: Connecticut
+new_bedford_and_taunton,New Bedford and Taunton,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: Masachusetts"
+new_haven_and_northampden,New Haven and Northampden,https://railroads.unl.edu/,America/New_York,en,18500101,,"states: Connecticut, Masachusetts"
+new_haven_and_northampton,New Haven and Northampton,https://railroads.unl.edu/,America/New_York,en,18500101,,2012 successor: ST Rail System; states: Connecticut
+new_haven_hartford_and_springfield,"New Haven, Hartford and Springfield",https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: Amtrak (National Railroad Passenger Corporation); states: Connecticut, Masachusetts"
+new_haven_new_london_and_stonington,"New Haven, New London and Stonington",https://railroads.unl.edu/,America/New_York,en,18500101,,2012 successor: Amtrak (National Railroad Passenger Corporation); states: Connecticut
+new_jersey,New Jersey,https://railroads.unl.edu/,America/New_York,en,18400101,,2012 successor: Amtrak (National Railroad Passenger Corporation); states: New Jersey
+new_jersey_central,New Jersey Central,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: New Jersey"
+new_london_willimantic_and_palmer,"New London, Willimantic and Palmer",https://railroads.unl.edu/,America/New_York,en,18450101,,"2012 successor: New England Central Railroad, Incorporated; states: Connecticut, Masachusetts"
+new_orleans_and_ohio,New Orleans and Ohio,https://railroads.unl.edu/,America/New_York,en,18610101,,states: Kentucky
+new_orleans_jackson_and_great_northern,"New Orleans, Jackson and Great Northern",https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: Canadian National Railway; states: Louisiana, Mississippi"
+new_orleans_opelousas_and_great_western,"New Orleans, Opelousas and Great Western",https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Union Pacific Railroad Company; states: Louisiana
+new_york_and_erie,New York and Erie,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: Norfolk Southern Railway Company; states: New Jersey, New York, Pennsylvania"
+new_york_and_harlem,New York and Harlem,https://railroads.unl.edu/,America/New_York,en,18450101,,2012 successor: Metro-North Commuter Railroad; states: New York
+new_york_and_new_haven,New York and New Haven,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: Amtrak (National Railroad Passenger Corporation); states: Connecticut, New York"
+new_york_central,New York Central,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: New York"
+new_york_providence_and_boston,"New York, Providence and Boston",https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: Amtrak (National Railroad Passenger Corporation); states: Connecticut, Rhode Island"
+newark_and_bloomfield,Newark and Bloomfield,https://railroads.unl.edu/,America/New_York,en,18550101,,2012 successor: New Jersey Transit Rail Operations; states: New Jersey
+newport_and_corinna,Newport and Corinna,https://railroads.unl.edu/,America/New_York,en,18700101,,states: Maine
+norfolk_and_petersburg,Norfolk and Petersburg,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Norfolk Southern Railway Company; states: Virginia
+norfolk_county,Norfolk County,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: Massachusetts Bay Transportation Authority; states: Connecticut, Masachusetts"
+norfolk_southern_railway_company,Norfolk Southern Railway Company,https://railroads.unl.edu/,America/New_York,en,18400101,,"states: Ohio, Pennsylvania"
+norfolk_western,Norfolk & Western,https://railroads.unl.edu/,America/New_York,en,18700101,,
+north_carolina,North Carolina,https://railroads.unl.edu/,America/New_York,en,18500101,,states: North Carolina
+north_eastern,North Eastern,https://railroads.unl.edu/,America/New_York,en,18610101,,states: South Carolina
+north_missouri,North Missouri,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Norfolk Southern Railway Company; states: Missouri
+north_missouri_central_railroad_company,North Missouri Central Railroad Company,https://railroads.unl.edu/,America/New_York,en,18700101,,
+north_pennsylvania,North Pennsylvania,https://railroads.unl.edu/,America/New_York,en,18500101,,2012 successor: Southeastern Pennsylvania Transportation Authority; states: Pennsylvania
+north_western_of_virginia,North Western of Virginia,https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: CSX Transportation, Incorporated; states: West Virginia"
+northern,Northern,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: Masachusetts, New Hampshire, New Jersey, New York, Vermont"
+northern_central,Northern Central,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: Amtrak (National Railroad Passenger Corporation); states: District of Columbia, Maryland, Virginia"
+norwich_and_worcester,Norwich and Worcester,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: Providence and Worcester Railroad; states: Connecticut, Masachusetts"
+oakland_and_nooridgewock,Oakland and Nooridgewock,https://railroads.unl.edu/,America/New_York,en,18700101,,states: Maine
+ogdensburgh,Ogdensburgh,https://railroads.unl.edu/,America/New_York,en,18500101,,states: New York
+ohio_and_mississippi,Ohio and Mississippi,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: Illinois, Indiana, Ohio"
+olamon_and_passadumkeag,Olamon and Passadumkeag,https://railroads.unl.edu/,America/New_York,en,18700101,,states: Maine
+old_colony_and_fall_river,Old Colony and Fall River,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: Masachusetts, Rhode Island"
+orange_and_alexandria,Orange and Alexandria,https://railroads.unl.edu/,America/New_York,en,18500101,,2012 successor: Norfolk Southern Railway Company; states: Virginia
+oswego_and_syracuse,Oswego and Syracuse,https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: CSX Transportation, Incorporated; states: New York"
+pacific,Pacific,https://railroads.unl.edu/,America/New_York,en,18550101,,2012 successor: Union Pacific Railroad Company; states: Missouri
+pennsylvania,Pennsylvania,https://railroads.unl.edu/,America/New_York,en,18400101,,2012 successor: Norfolk Southern Railway Company; states: Pennsylvania
+pensacola_and_georgia,Pensacola and Georgia,https://railroads.unl.edu/,America/New_York,en,18610101,,"2012 successor: CSX Transportation, Incorporated; states: Florida"
+peoria_and_bureau_valley,Peoria and Bureau Valley,https://railroads.unl.edu/,America/New_York,en,18450101,,"2012 successor: Iowa Interstate Railroad, Limited; states: Illinois"
+peoria_and_rock_island,Peoria and Rock Island,https://railroads.unl.edu/,America/New_York,en,18700101,,"2012 successor: Chicago, Rock Island and Pacific Railroad"
+peoria_oquawka_and_burlington,"Peoria, Oquawka and Burlington",https://railroads.unl.edu/,America/New_York,en,18400101,,2012 successor: Burlington Northern and Santa Fe Railway Company; states: Illinois
+peru_and_indianapolis,Peru and Indianapolis,https://railroads.unl.edu/,America/New_York,en,18500101,,2012 successor: Central Railroad Company of Indianapolis; states: Indiana
+peterborough_and_shirley,Peterborough and Shirley,https://railroads.unl.edu/,America/New_York,en,18400101,,"states: Masachusetts, New Hampshire"
+petersburg,Petersburg,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: North Carolina, Virginia"
+petersburg_and_lynchburg,Petersburg and Lynchburg,https://railroads.unl.edu/,America/New_York,en,18400101,,2012 successor: Norfolk Southern Railway Company; states: Virginia
+petersburg_and_tonica,Petersburg and Tonica,https://railroads.unl.edu/,America/New_York,en,18700101,,"2012 successor: St. Louis, Jacksonville and Chicago Railroad; states: Illinois"
+philadelphia_and_baltimore_central,Philadelphia and Baltimore Central,https://railroads.unl.edu/,America/New_York,en,18550101,,2012 successor: Southeastern Pennsylvania Transportation Authority; states: Pennsylvania
+philadelphia_and_erie,Philadelphia and Erie,https://railroads.unl.edu/,America/New_York,en,18400101,,2012 successor: Norfolk Southern Railway Company; states: Pennsylvania
+philadelphia_and_reading,Philadelphia and Reading,https://railroads.unl.edu/,America/New_York,en,18400101,,2012 successor: Norfolk Southern Railway Company; states: Pennsylvania
+philadelphia_and_trenton,Philadelphia and Trenton,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: Amtrak (National Railroad Passenger Corporation); states: New Jersey, Pennsylvania"
+philadelphia_wilmington_and_baltimore,"Philadelphia, Wilmington and Baltimore",https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: Delaware, Maryland, Pennsylvania"
+pittsburgh_and_connellsville,Pittsburgh and Connellsville,https://railroads.unl.edu/,America/New_York,en,18610101,,"2012 successor: CSX Transportation, Incorporated; states: Pennsylvania"
+pittsburgh_columbus_and_cincinnati,"Pittsburgh, Columbus and Cincinnati",https://railroads.unl.edu/,America/New_York,en,18400101,,2012 successor: Columbus and Ohio River Railroad Company; states: Ohio
+pittsburgh_fort_wayne_and_chicago,"Pittsburgh, Fort Wayne and Chicago",https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: Illinois, Indiana, Ohio, Pennsylvania"
+pittsfield_and_north_adams,Pittsfield and North Adams,https://railroads.unl.edu/,America/New_York,en,18500101,,states: Masachusetts
+platte_county,Platte County,https://railroads.unl.edu/,America/New_York,en,18400101,,2012 successor: Burlington Northern and Santa Fe Railway Company; states: Missouri
+plattsburgh_and_montreal,Plattsburgh and Montreal,https://railroads.unl.edu/,America/New_York,en,18500101,,2012 successor: Canadian Pacific Railway; states: New York
+portland_and_oxford_central,Portland and Oxford Central,https://railroads.unl.edu/,America/New_York,en,18500101,,states: Maine
+portland_saco_and_portsmouth,"Portland, Saco and Portsmouth",https://railroads.unl.edu/,America/New_York,en,18400101,,"states: Maine, New Hampshire"
+potsdam_and_watertown,Potsdam and Watertown,https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: New York and Ogdensburg Railway Company, Incorporated; states: New York"
+providence_and_worcester,Providence and Worcester,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: Providence and Worcester Railroad; states: Masachusetts, Rhode Island"
+quakake,Quakake,https://railroads.unl.edu/,America/New_York,en,18610101,,states: Pennsylvania
+quincy_and_chicago,Quincy and Chicago,https://railroads.unl.edu/,America/New_York,en,18400101,,2012 successor: Burlington Northern and Santa Fe Railway Company; states: Illinois
+quincy_and_palmyra,Quincy and Palmyra,https://railroads.unl.edu/,America/New_York,en,18610101,,"2012 successor: Burlington Northern and Santa Fe Railway Company; states: Illinois, Missouri"
+quincy_and_toledo,Quincy and Toledo,https://railroads.unl.edu/,America/New_York,en,18550101,,states: Illinois
+racine_and_mississippi,Racine and Mississippi,https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: Canadian Pacific Railway; states: Illinois, Wisconsin"
+raleigh_and_gaston,Raleigh and Gaston,https://railroads.unl.edu/,America/New_York,en,18400101,,states: North Carolina
+raritan_and_delaware_bay,Raritan and Delaware Bay,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: New Jersey Transit Rail Operations; states: New Jersey
+remove,Remove,https://railroads.unl.edu/,America/New_York,en,18700101,,2012 successor: Norfolk Southern Railway Company; states: Virginia
+rensselaer_and_saratoga,Rensselaer and Saratoga,https://railroads.unl.edu/,America/New_York,en,18400101,,2012 successor: Canadian Pacific Railway; states: New York
+richmond,Richmond,https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: CSX Transportation, Incorporated; states: Virginia"
+richmond_and_danville,Richmond and Danville,https://railroads.unl.edu/,America/New_York,en,18500101,,2012 successor: Norfolk Southern Railway Company; states: Virginia
+richmond_and_petersburg,Richmond and Petersburg,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: Virginia"
+richmond_and_york_river,Richmond and York River,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: Virginia"
+richmond_fredericksburg_and_potomac,"Richmond, Fredericksburg and Potomac",https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: Virginia"
+roanoke_valley,Roanoke Valley,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: Virginia Southern Division, North Carolina and Virginia Railroad; states: North Carolina, Virginia"
+rochester_and_lake_ontario,Rochester and Lake Ontario,https://railroads.unl.edu/,America/New_York,en,18610101,,"2012 successor: CSX Transportation, Incorporated; states: New York"
+rock_island_and_peoria,Rock Island and Peoria,https://railroads.unl.edu/,America/New_York,en,18550101,,"2012 successor: Iowa Interstate Railroad, Limited; states: Illinois"
+rock_island_and_sterling,Rock Island and Sterling,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Burlington Northern and Santa Fe Railway Company; states: Illinois
+rockford,Rockford,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Chicago-Chemung Railroad Corporation; states: Illinois
+rockford_and_beloit,Rockford and Beloit,https://railroads.unl.edu/,America/New_York,en,18550101,,"2012 successor: I and M Rail Link, LLC; states: Illinois"
+rome,Rome,https://railroads.unl.edu/,America/New_York,en,18500101,,states: Georgia
+rutland_and_burlington,Rutland and Burlington,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: Canadian American Railroad Company; states: New Hampshire, Vermont"
+rutland_and_washington,Rutland and Washington,https://railroads.unl.edu/,America/New_York,en,18400101,,"states: New York, Vermont"
+san_antonio_and_mexican_gulf,San Antonio and Mexican Gulf,https://railroads.unl.edu/,America/New_York,en,18610101,,states: Texas
+sandusky_dayton_and_cincinnati,"Sandusky, Dayton and Cincinnati",https://railroads.unl.edu/,America/New_York,en,18400101,,2012 successor: Indiana and Ohio Railway Company; states: Ohio
+sandusky_mansfield_and_newark,"Sandusky, Mansfield and Newark",https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: Ashland Railway, Incorporated; states: Ohio"
+saratoga_and_whitehall,Saratoga and Whitehall,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: Clarendon and Pittsford Railroad; states: New York, Vermont"
+savannah_albany_and_gulf,"Savannah, Albany and Gulf",https://railroads.unl.edu/,America/New_York,en,18610101,,states: Georgia
+schuylkill_and_susquehanna,Schuylkill and Susquehanna,https://railroads.unl.edu/,America/New_York,en,18550101,,states: Pennsylvania
+sciota_and_hocking_valley,Sciota and Hocking Valley,https://railroads.unl.edu/,America/New_York,en,18500101,,2012 successor: Great Miami and Scioto Railway Company; states: Ohio
+seaboard_and_roanoke,Seaboard and Roanoke,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: North Carolina, Virginia"
+sebec_dover_and_foxcroft,Sebec Dover and Foxcroft,https://railroads.unl.edu/,America/New_York,en,18700101,,states: Maine
+shamokin_valley_and_pottsville,Shamokin Valley and Pottsville,https://railroads.unl.edu/,America/New_York,en,18550101,,2012 successor: Shamokin Valley Railroad Company; states: Pennsylvania
+sheboygan_and_fond_du_lac,Sheboygan and Fond du Lac,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Union Pacific Railroad Company; states: Wisconsin
+shelbyville_lateral_and_rushville,Shelbyville Lateral and Rushville,https://railroads.unl.edu/,America/New_York,en,18500101,,states: Indiana
+somerset_and_kennebec,Somerset and Kennebec,https://railroads.unl.edu/,America/New_York,en,18500101,,states: Maine
+south_carolina,South Carolina,https://railroads.unl.edu/,America/New_York,en,18400101,,states: South Carolina
+south_shore,South Shore,https://railroads.unl.edu/,America/New_York,en,18500101,,2012 successor: Bay Colony Railroad Corporation; states: Masachusetts
+south_western,South Western,https://railroads.unl.edu/,America/New_York,en,18500101,,"states: Alabama, Georgia"
+southern_miss,Southern (MISS),https://railroads.unl.edu/,America/New_York,en,18400101,,2012 successor: Kansas City Southern Railway Company; states: Mississippi
+southern_pacific,Southern Pacific,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Union Pacific Railroad Company; states: Texas
+spartanburg_and_union,Spartanburg and Union,https://railroads.unl.edu/,America/New_York,en,18500101,,states: South Carolina
+springfield_and_columbus,Springfield and Columbus,https://railroads.unl.edu/,America/New_York,en,18550101,,2012 successor: Norfolk Southern Railway Company; states: Ohio
+springfield_and_south_eastern_railroad,Springfield and South-Eastern Railroad.,https://railroads.unl.edu/,America/New_York,en,18700101,,2012 successor: CSX Transportation
+springfield_mount_vernon_and_pittsburgh,"Springfield, Mount Vernon and Pittsburgh",https://railroads.unl.edu/,America/New_York,en,18500101,,2012 successor: Canadian National Railway; states: Ohio
+st_louis_alton_and_chicago,"St. Louis, Alton and Chicago",https://railroads.unl.edu/,America/New_York,en,18400101,,2012 successor: Union Pacific Railroad Company; states: Illinois
+st_louis_and_iron_mountain,St. Louis and Iron Mountain,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Union Pacific Railroad Company; states: Missouri
+stony_brook,Stony Brook,https://railroads.unl.edu/,America/New_York,en,18400101,,2012 successor: ST Rail System; states: Masachusetts
+sussex,Sussex,https://railroads.unl.edu/,America/New_York,en,18610101,,states: New Jersey
+syracuse_binghamton_and_new_york,"Syracuse, Binghamton and New York",https://railroads.unl.edu/,America/New_York,en,18450101,,2012 successor: New York Susquehanna and Western Railway Corporation; states: New York
+tallahassee,Tallahassee,https://railroads.unl.edu/,America/New_York,en,18450101,,states: Florida
+terre_haute_alton_and_st_louis,"Terre Haute, Alton and St. Louis",https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: Union Pacific Railroad Company; states: Illinois, Indiana"
+terre_haute_and_richmond,Terre Haute and Richmond,https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: CSX Transportation, Incorporated; states: Indiana"
+texas_and_new_orleans,Texas and New Orleans,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Union Pacific Railroad Company; states: Texas
+thomaston_and_barnesville,Thomaston and Barnesville,https://railroads.unl.edu/,America/New_York,en,18610101,,2012 successor: Norfolk Southern Railway Company; states: Georgia
+tioga,Tioga,https://railroads.unl.edu/,America/New_York,en,18610101,,states: Pennsylvania
+toledo_and_western,Toledo and Western,https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: Norfolk Southern Railway Company; states: Indiana, Ohio"
+toledo_peoria_and_western_railway,Toledo Peoria and Western Railway,https://railroads.unl.edu/,America/New_York,en,18700101,,
+troy_and_bennington,Troy and Bennington,https://railroads.unl.edu/,America/New_York,en,18500101,,states: New York
+troy_and_boston,Troy and Boston,https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: New England Central Railroad, Incorporated; states: Vermont"
+troy_and_greenbush,Troy and Greenbush,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: ST Rail System; states: Masachusetts, New York, Vermont"
+union_pacific_railroad_company,Union Pacific Railroad Company,https://railroads.unl.edu/,America/New_York,en,18610101,,states: Illinois
+unnamed_line_1840_383_wisconsin,Unnamed line 1840-383 (Wisconsin),https://railroads.unl.edu/,America/New_York,en,18400101,,states: Wisconsin
+unnamed_line_1840_384_iowa,Unnamed line 1840-384 (Iowa),https://railroads.unl.edu/,America/New_York,en,18400101,,states: Iowa
+unnamed_line_1840_385_illinois,Unnamed line 1840-385 (Illinois),https://railroads.unl.edu/,America/New_York,en,18400101,,states: Illinois
+unnamed_line_1840_387_michigan,Unnamed line 1840-387 (Michigan),https://railroads.unl.edu/,America/New_York,en,18400101,,states: Michigan
+unnamed_line_1840_388_ohio,Unnamed line 1840-388 (Ohio),https://railroads.unl.edu/,America/New_York,en,18400101,,states: Ohio
+unnamed_line_1840_389_pennsylvania,Unnamed line 1840-389 (Pennsylvania),https://railroads.unl.edu/,America/New_York,en,18400101,,states: Pennsylvania
+unnamed_line_1840_409,Unnamed line 1840-409,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_410,Unnamed line 1840-410,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_412,Unnamed line 1840-412,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_413,Unnamed line 1840-413,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_414,Unnamed line 1840-414,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_426,Unnamed line 1840-426,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_428,Unnamed line 1840-428,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_431,Unnamed line 1840-431,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_432,Unnamed line 1840-432,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_435,Unnamed line 1840-435,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_436,Unnamed line 1840-436,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_437,Unnamed line 1840-437,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_438,Unnamed line 1840-438,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_443,Unnamed line 1840-443,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_447,Unnamed line 1840-447,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_448,Unnamed line 1840-448,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_449,Unnamed line 1840-449,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_450,Unnamed line 1840-450,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_451,Unnamed line 1840-451,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_452,Unnamed line 1840-452,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_453,Unnamed line 1840-453,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_454,Unnamed line 1840-454,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_455,Unnamed line 1840-455,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_456,Unnamed line 1840-456,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_458,Unnamed line 1840-458,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_459,Unnamed line 1840-459,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_460,Unnamed line 1840-460,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_461,Unnamed line 1840-461,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_462,Unnamed line 1840-462,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_463,Unnamed line 1840-463,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_464,Unnamed line 1840-464,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_465,Unnamed line 1840-465,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_466,Unnamed line 1840-466,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_467,Unnamed line 1840-467,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_468,Unnamed line 1840-468,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_469,Unnamed line 1840-469,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_470,Unnamed line 1840-470,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_471,Unnamed line 1840-471,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_472,Unnamed line 1840-472,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_473,Unnamed line 1840-473,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_474,Unnamed line 1840-474,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_475,Unnamed line 1840-475,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_476,Unnamed line 1840-476,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_477,Unnamed line 1840-477,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_478,Unnamed line 1840-478,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1840_479,Unnamed line 1840-479,https://railroads.unl.edu/,America/New_York,en,18400101,,
+unnamed_line_1845_430_wisconsin,Unnamed line 1845-430 (Wisconsin),https://railroads.unl.edu/,America/New_York,en,18450101,,states: Wisconsin
+unnamed_line_1845_431_iowa,Unnamed line 1845-431 (Iowa),https://railroads.unl.edu/,America/New_York,en,18450101,,states: Iowa
+unnamed_line_1845_432_illinois,Unnamed line 1845-432 (Illinois),https://railroads.unl.edu/,America/New_York,en,18450101,,states: Illinois
+unnamed_line_1845_434_michigan,Unnamed line 1845-434 (Michigan),https://railroads.unl.edu/,America/New_York,en,18450101,,states: Michigan
+unnamed_line_1845_435_ohio,Unnamed line 1845-435 (Ohio),https://railroads.unl.edu/,America/New_York,en,18450101,,states: Ohio
+unnamed_line_1845_437_pennsylvania,Unnamed line 1845-437 (Pennsylvania),https://railroads.unl.edu/,America/New_York,en,18450101,,states: Pennsylvania
+unnamed_line_1845_447_new_york,Unnamed line 1845-447 (New York),https://railroads.unl.edu/,America/New_York,en,18450101,,states: New York
+unnamed_line_1845_465,Unnamed line 1845-465,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_467,Unnamed line 1845-467,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_470,Unnamed line 1845-470,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_471,Unnamed line 1845-471,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_472,Unnamed line 1845-472,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_474,Unnamed line 1845-474,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_475,Unnamed line 1845-475,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_476,Unnamed line 1845-476,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_480,Unnamed line 1845-480,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_483,Unnamed line 1845-483,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_484,Unnamed line 1845-484,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_487,Unnamed line 1845-487,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_489,Unnamed line 1845-489,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_490,Unnamed line 1845-490,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_491,Unnamed line 1845-491,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_493,Unnamed line 1845-493,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_494,Unnamed line 1845-494,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_495,Unnamed line 1845-495,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_496,Unnamed line 1845-496,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_497,Unnamed line 1845-497,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_498,Unnamed line 1845-498,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_499,Unnamed line 1845-499,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_503,Unnamed line 1845-503,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_504,Unnamed line 1845-504,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_505,Unnamed line 1845-505,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_510,Unnamed line 1845-510,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_511,Unnamed line 1845-511,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_512,Unnamed line 1845-512,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_514,Unnamed line 1845-514,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_515,Unnamed line 1845-515,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_516,Unnamed line 1845-516,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1845_519,Unnamed line 1845-519,https://railroads.unl.edu/,America/New_York,en,18450101,,
+unnamed_line_1850_1000_masachusetts,Unnamed line 1850-1000 (Masachusetts),https://railroads.unl.edu/,America/New_York,en,18500101,,states: Masachusetts
+unnamed_line_1850_1049_wisconsin,Unnamed line 1850-1049 (Wisconsin),https://railroads.unl.edu/,America/New_York,en,18500101,,states: Wisconsin
+unnamed_line_1850_1053_iowa,Unnamed line 1850-1053 (Iowa),https://railroads.unl.edu/,America/New_York,en,18500101,,states: Iowa
+unnamed_line_1850_1054_illinois,Unnamed line 1850-1054 (Illinois),https://railroads.unl.edu/,America/New_York,en,18500101,,states: Illinois
+unnamed_line_1850_1074_michigan,Unnamed line 1850-1074 (Michigan),https://railroads.unl.edu/,America/New_York,en,18500101,,states: Michigan
+unnamed_line_1850_1075_ohio,Unnamed line 1850-1075 (Ohio),https://railroads.unl.edu/,America/New_York,en,18500101,,states: Ohio
+unnamed_line_1850_1078_ohio,Unnamed line 1850-1078 (Ohio),https://railroads.unl.edu/,America/New_York,en,18500101,,states: Ohio
+unnamed_line_1850_1103_west_virginia,Unnamed line 1850-1103 (West Virginia),https://railroads.unl.edu/,America/New_York,en,18500101,,states: West Virginia
+unnamed_line_1850_1104_pennsylvania,Unnamed line 1850-1104 (Pennsylvania),https://railroads.unl.edu/,America/New_York,en,18500101,,states: Pennsylvania
+unnamed_line_1850_1105_pennsylvania,Unnamed line 1850-1105 (Pennsylvania),https://railroads.unl.edu/,America/New_York,en,18500101,,states: Pennsylvania
+unnamed_line_1850_1122_new_york,Unnamed line 1850-1122 (New York),https://railroads.unl.edu/,America/New_York,en,18500101,,states: New York
+unnamed_line_1850_1129_new_york,Unnamed line 1850-1129 (New York),https://railroads.unl.edu/,America/New_York,en,18500101,,states: New York
+unnamed_line_1850_1153_masachusetts,Unnamed line 1850-1153 (Masachusetts),https://railroads.unl.edu/,America/New_York,en,18500101,,states: Masachusetts
+unnamed_line_1850_1165,Unnamed line 1850-1165,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1170,Unnamed line 1850-1170,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1182,Unnamed line 1850-1182,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1183,Unnamed line 1850-1183,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1184,Unnamed line 1850-1184,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1187,Unnamed line 1850-1187,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1188,Unnamed line 1850-1188,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1189,Unnamed line 1850-1189,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1192,Unnamed line 1850-1192,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1193,Unnamed line 1850-1193,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1194,Unnamed line 1850-1194,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1195,Unnamed line 1850-1195,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1196,Unnamed line 1850-1196,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1197,Unnamed line 1850-1197,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1198,Unnamed line 1850-1198,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1199,Unnamed line 1850-1199,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1200,Unnamed line 1850-1200,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1201,Unnamed line 1850-1201,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1202,Unnamed line 1850-1202,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1203_michigan,Unnamed line 1850-1203 (Michigan),https://railroads.unl.edu/,America/New_York,en,18500101,,states: Michigan
+unnamed_line_1850_1206,Unnamed line 1850-1206,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1207,Unnamed line 1850-1207,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1210,Unnamed line 1850-1210,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1212,Unnamed line 1850-1212,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1216,Unnamed line 1850-1216,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1217,Unnamed line 1850-1217,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1218,Unnamed line 1850-1218,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1219,Unnamed line 1850-1219,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1221,Unnamed line 1850-1221,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1222,Unnamed line 1850-1222,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1223,Unnamed line 1850-1223,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1224,Unnamed line 1850-1224,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1225,Unnamed line 1850-1225,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1226,Unnamed line 1850-1226,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1227,Unnamed line 1850-1227,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1228,Unnamed line 1850-1228,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1229,Unnamed line 1850-1229,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1231,Unnamed line 1850-1231,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1850_1232,Unnamed line 1850-1232,https://railroads.unl.edu/,America/New_York,en,18500101,,
+unnamed_line_1855_1244_wisconsin,Unnamed line 1855-1244 (Wisconsin),https://railroads.unl.edu/,America/New_York,en,18550101,,states: Wisconsin
+unnamed_line_1855_1254_iowa,Unnamed line 1855-1254 (Iowa),https://railroads.unl.edu/,America/New_York,en,18550101,,states: Iowa
+unnamed_line_1855_1255_illinois,Unnamed line 1855-1255 (Illinois),https://railroads.unl.edu/,America/New_York,en,18550101,,states: Illinois
+unnamed_line_1855_1273_michigan,Unnamed line 1855-1273 (Michigan),https://railroads.unl.edu/,America/New_York,en,18550101,,states: Michigan
+unnamed_line_1855_1274_ohio,Unnamed line 1855-1274 (Ohio),https://railroads.unl.edu/,America/New_York,en,18550101,,states: Ohio
+unnamed_line_1855_1278_ohio,Unnamed line 1855-1278 (Ohio),https://railroads.unl.edu/,America/New_York,en,18550101,,states: Ohio
+unnamed_line_1855_1306_west_virginia,Unnamed line 1855-1306 (West Virginia),https://railroads.unl.edu/,America/New_York,en,18550101,,states: West Virginia
+unnamed_line_1855_1307_pennsylvania,Unnamed line 1855-1307 (Pennsylvania),https://railroads.unl.edu/,America/New_York,en,18550101,,states: Pennsylvania
+unnamed_line_1855_1311_pennsylvania,Unnamed line 1855-1311 (Pennsylvania),https://railroads.unl.edu/,America/New_York,en,18550101,,states: Pennsylvania
+unnamed_line_1855_1336_new_york,Unnamed line 1855-1336 (New York),https://railroads.unl.edu/,America/New_York,en,18550101,,states: New York
+unnamed_line_1855_1345_new_york,Unnamed line 1855-1345 (New York),https://railroads.unl.edu/,America/New_York,en,18550101,,states: New York
+unnamed_line_1855_1376_masachusetts,Unnamed line 1855-1376 (Masachusetts),https://railroads.unl.edu/,America/New_York,en,18550101,,states: Masachusetts
+unnamed_line_1855_1378_masachusetts,Unnamed line 1855-1378 (Masachusetts),https://railroads.unl.edu/,America/New_York,en,18550101,,states: Masachusetts
+unnamed_line_1855_1385,Unnamed line 1855-1385,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1388,Unnamed line 1855-1388,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1389,Unnamed line 1855-1389,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1390,Unnamed line 1855-1390,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1391,Unnamed line 1855-1391,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1392,Unnamed line 1855-1392,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1393_michigan,Unnamed line 1855-1393 (Michigan),https://railroads.unl.edu/,America/New_York,en,18550101,,states: Michigan
+unnamed_line_1855_1394,Unnamed line 1855-1394,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1395,Unnamed line 1855-1395,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1396,Unnamed line 1855-1396,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1397,Unnamed line 1855-1397,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1398,Unnamed line 1855-1398,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1401,Unnamed line 1855-1401,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1402,Unnamed line 1855-1402,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1412,Unnamed line 1855-1412,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1416,Unnamed line 1855-1416,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1417,Unnamed line 1855-1417,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1418,Unnamed line 1855-1418,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1419,Unnamed line 1855-1419,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1420,Unnamed line 1855-1420,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1421,Unnamed line 1855-1421,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1422,Unnamed line 1855-1422,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1423,Unnamed line 1855-1423,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1424,Unnamed line 1855-1424,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1425,Unnamed line 1855-1425,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1427,Unnamed line 1855-1427,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1432,Unnamed line 1855-1432,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1433,Unnamed line 1855-1433,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1436,Unnamed line 1855-1436,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1437,Unnamed line 1855-1437,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1438,Unnamed line 1855-1438,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1439,Unnamed line 1855-1439,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1440,Unnamed line 1855-1440,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1441,Unnamed line 1855-1441,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1442,Unnamed line 1855-1442,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1443,Unnamed line 1855-1443,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1444,Unnamed line 1855-1444,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1445,Unnamed line 1855-1445,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1447,Unnamed line 1855-1447,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1448,Unnamed line 1855-1448,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1449,Unnamed line 1855-1449,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1451,Unnamed line 1855-1451,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1452,Unnamed line 1855-1452,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1855_1453,Unnamed line 1855-1453,https://railroads.unl.edu/,America/New_York,en,18550101,,
+unnamed_line_1861_1671_masachusetts,Unnamed line 1861-1671 (Masachusetts),https://railroads.unl.edu/,America/New_York,en,18610101,,states: Masachusetts
+unnamed_line_1861_1802_illinois,Unnamed line 1861-1802 (Illinois),https://railroads.unl.edu/,America/New_York,en,18610101,,states: Illinois
+unnamed_line_1861_1803_wisconsin,Unnamed line 1861-1803 (Wisconsin),https://railroads.unl.edu/,America/New_York,en,18610101,,states: Wisconsin
+unnamed_line_1861_1804_illinois,Unnamed line 1861-1804 (Illinois),https://railroads.unl.edu/,America/New_York,en,18610101,,states: Illinois
+unnamed_line_1861_1813_iowa,Unnamed line 1861-1813 (Iowa),https://railroads.unl.edu/,America/New_York,en,18610101,,states: Iowa
+unnamed_line_1861_1826_wisconsin,Unnamed line 1861-1826 (Wisconsin),https://railroads.unl.edu/,America/New_York,en,18610101,,states: Wisconsin
+unnamed_line_1861_1827_wisconsin,Unnamed line 1861-1827 (Wisconsin),https://railroads.unl.edu/,America/New_York,en,18610101,,states: Wisconsin
+unnamed_line_1861_1830_wisconsin,Unnamed line 1861-1830 (Wisconsin),https://railroads.unl.edu/,America/New_York,en,18610101,,states: Wisconsin
+unnamed_line_1861_1831_iowa,Unnamed line 1861-1831 (Iowa),https://railroads.unl.edu/,America/New_York,en,18610101,,states: Iowa
+unnamed_line_1861_1832_illinois,Unnamed line 1861-1832 (Illinois),https://railroads.unl.edu/,America/New_York,en,18610101,,states: Illinois
+unnamed_line_1861_1871_michigan,Unnamed line 1861-1871 (Michigan),https://railroads.unl.edu/,America/New_York,en,18610101,,states: Michigan
+unnamed_line_1861_1872_michigan,Unnamed line 1861-1872 (Michigan),https://railroads.unl.edu/,America/New_York,en,18610101,,states: Michigan
+unnamed_line_1861_1873_ohio,Unnamed line 1861-1873 (Ohio),https://railroads.unl.edu/,America/New_York,en,18610101,,states: Ohio
+unnamed_line_1861_1880_ohio,Unnamed line 1861-1880 (Ohio),https://railroads.unl.edu/,America/New_York,en,18610101,,states: Ohio
+unnamed_line_1861_1931_pennsylvania,Unnamed line 1861-1931 (Pennsylvania),https://railroads.unl.edu/,America/New_York,en,18610101,,states: Pennsylvania
+unnamed_line_1861_1955_pennsylvania,Unnamed line 1861-1955 (Pennsylvania),https://railroads.unl.edu/,America/New_York,en,18610101,,states: Pennsylvania
+unnamed_line_1861_1970_new_york,Unnamed line 1861-1970 (New York),https://railroads.unl.edu/,America/New_York,en,18610101,,states: New York
+unnamed_line_1861_1971_new_york,Unnamed line 1861-1971 (New York),https://railroads.unl.edu/,America/New_York,en,18610101,,states: New York
+unnamed_line_1861_1983_new_york,Unnamed line 1861-1983 (New York),https://railroads.unl.edu/,America/New_York,en,18610101,,states: New York
+unnamed_line_1861_1984_new_york,Unnamed line 1861-1984 (New York),https://railroads.unl.edu/,America/New_York,en,18610101,,states: New York
+unnamed_line_1861_2026_masachusetts,Unnamed line 1861-2026 (Masachusetts),https://railroads.unl.edu/,America/New_York,en,18610101,,states: Masachusetts
+unnamed_line_1861_2028_masachusetts,Unnamed line 1861-2028 (Masachusetts),https://railroads.unl.edu/,America/New_York,en,18610101,,states: Masachusetts
+unnamed_line_1870_1687_masachusetts,Unnamed line 1870-1687 (Masachusetts),https://railroads.unl.edu/,America/New_York,en,18700101,,states: Masachusetts
+unnamed_line_1870_1820_illinois,Unnamed line 1870-1820 (Illinois),https://railroads.unl.edu/,America/New_York,en,18700101,,states: Illinois
+unnamed_line_1870_1879_michigan,Unnamed line 1870-1879 (Michigan),https://railroads.unl.edu/,America/New_York,en,18700101,,states: Michigan
+unnamed_line_1870_1880_michigan,Unnamed line 1870-1880 (Michigan),https://railroads.unl.edu/,America/New_York,en,18700101,,states: Michigan
+unnamed_line_1870_1881_ohio,Unnamed line 1870-1881 (Ohio),https://railroads.unl.edu/,America/New_York,en,18700101,,states: Ohio
+unnamed_line_1870_1888_ohio,Unnamed line 1870-1888 (Ohio),https://railroads.unl.edu/,America/New_York,en,18700101,,states: Ohio
+unnamed_line_1870_1928_west_virginia,Unnamed line 1870-1928 (West Virginia),https://railroads.unl.edu/,America/New_York,en,18700101,,states: West Virginia
+unnamed_line_1870_1929_pennsylvania,Unnamed line 1870-1929 (Pennsylvania),https://railroads.unl.edu/,America/New_York,en,18700101,,states: Pennsylvania
+unnamed_line_1870_1939_pennsylvania,Unnamed line 1870-1939 (Pennsylvania),https://railroads.unl.edu/,America/New_York,en,18700101,,states: Pennsylvania
+unnamed_line_1870_1963_pennsylvania,Unnamed line 1870-1963 (Pennsylvania),https://railroads.unl.edu/,America/New_York,en,18700101,,states: Pennsylvania
+unnamed_line_1870_1978_new_york,Unnamed line 1870-1978 (New York),https://railroads.unl.edu/,America/New_York,en,18700101,,states: New York
+unnamed_line_1870_1979_new_york,Unnamed line 1870-1979 (New York),https://railroads.unl.edu/,America/New_York,en,18700101,,states: New York
+unnamed_line_1870_1991_new_york,Unnamed line 1870-1991 (New York),https://railroads.unl.edu/,America/New_York,en,18700101,,states: New York
+unnamed_line_1870_1992_new_york,Unnamed line 1870-1992 (New York),https://railroads.unl.edu/,America/New_York,en,18700101,,states: New York
+unnamed_line_1870_2034_masachusetts,Unnamed line 1870-2034 (Masachusetts),https://railroads.unl.edu/,America/New_York,en,18700101,,states: Masachusetts
+unnamed_line_1870_2036_masachusetts,Unnamed line 1870-2036 (Masachusetts),https://railroads.unl.edu/,America/New_York,en,18700101,,states: Masachusetts
+unnamed_line_1870_2100,Unnamed line 1870-2100,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2101,Unnamed line 1870-2101,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2112,Unnamed line 1870-2112,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2113,Unnamed line 1870-2113,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2114,Unnamed line 1870-2114,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2115,Unnamed line 1870-2115,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2116,Unnamed line 1870-2116,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2117,Unnamed line 1870-2117,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2118,Unnamed line 1870-2118,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2119,Unnamed line 1870-2119,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2120,Unnamed line 1870-2120,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2121,Unnamed line 1870-2121,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2122,Unnamed line 1870-2122,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2123,Unnamed line 1870-2123,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2124,Unnamed line 1870-2124,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2125,Unnamed line 1870-2125,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2126,Unnamed line 1870-2126,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2127,Unnamed line 1870-2127,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2128,Unnamed line 1870-2128,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2129,Unnamed line 1870-2129,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2130,Unnamed line 1870-2130,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2131,Unnamed line 1870-2131,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2132,Unnamed line 1870-2132,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2133,Unnamed line 1870-2133,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2134,Unnamed line 1870-2134,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2135,Unnamed line 1870-2135,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2136,Unnamed line 1870-2136,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2137,Unnamed line 1870-2137,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2138,Unnamed line 1870-2138,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2139,Unnamed line 1870-2139,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2140,Unnamed line 1870-2140,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2141,Unnamed line 1870-2141,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2142,Unnamed line 1870-2142,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2143,Unnamed line 1870-2143,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2144,Unnamed line 1870-2144,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2145,Unnamed line 1870-2145,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2146,Unnamed line 1870-2146,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2147,Unnamed line 1870-2147,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2148,Unnamed line 1870-2148,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2149,Unnamed line 1870-2149,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2150,Unnamed line 1870-2150,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2151,Unnamed line 1870-2151,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2152,Unnamed line 1870-2152,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2153,Unnamed line 1870-2153,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2154,Unnamed line 1870-2154,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2155,Unnamed line 1870-2155,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2156,Unnamed line 1870-2156,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2157,Unnamed line 1870-2157,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2158,Unnamed line 1870-2158,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2159,Unnamed line 1870-2159,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2160,Unnamed line 1870-2160,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2161,Unnamed line 1870-2161,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2162,Unnamed line 1870-2162,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2163,Unnamed line 1870-2163,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2164,Unnamed line 1870-2164,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2165,Unnamed line 1870-2165,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2166,Unnamed line 1870-2166,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2167,Unnamed line 1870-2167,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2168,Unnamed line 1870-2168,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2169,Unnamed line 1870-2169,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2170,Unnamed line 1870-2170,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2171,Unnamed line 1870-2171,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2172,Unnamed line 1870-2172,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2173,Unnamed line 1870-2173,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2174,Unnamed line 1870-2174,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2175,Unnamed line 1870-2175,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2176,Unnamed line 1870-2176,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2177,Unnamed line 1870-2177,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2178,Unnamed line 1870-2178,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2179,Unnamed line 1870-2179,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2180,Unnamed line 1870-2180,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2181,Unnamed line 1870-2181,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2182,Unnamed line 1870-2182,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2183,Unnamed line 1870-2183,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2184,Unnamed line 1870-2184,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2185,Unnamed line 1870-2185,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2186,Unnamed line 1870-2186,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2187,Unnamed line 1870-2187,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2188,Unnamed line 1870-2188,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2189,Unnamed line 1870-2189,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2190,Unnamed line 1870-2190,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2191,Unnamed line 1870-2191,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2192,Unnamed line 1870-2192,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2193,Unnamed line 1870-2193,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2194,Unnamed line 1870-2194,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2195,Unnamed line 1870-2195,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2196,Unnamed line 1870-2196,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2197,Unnamed line 1870-2197,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2198,Unnamed line 1870-2198,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2199,Unnamed line 1870-2199,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2200,Unnamed line 1870-2200,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2201,Unnamed line 1870-2201,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2202,Unnamed line 1870-2202,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2203,Unnamed line 1870-2203,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2204,Unnamed line 1870-2204,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2205,Unnamed line 1870-2205,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2206,Unnamed line 1870-2206,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2207,Unnamed line 1870-2207,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2208,Unnamed line 1870-2208,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2209,Unnamed line 1870-2209,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2210,Unnamed line 1870-2210,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2211,Unnamed line 1870-2211,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2212,Unnamed line 1870-2212,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2213,Unnamed line 1870-2213,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2214,Unnamed line 1870-2214,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2215,Unnamed line 1870-2215,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2216,Unnamed line 1870-2216,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2217,Unnamed line 1870-2217,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2218,Unnamed line 1870-2218,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2219,Unnamed line 1870-2219,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2220,Unnamed line 1870-2220,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2221,Unnamed line 1870-2221,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2222,Unnamed line 1870-2222,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2223,Unnamed line 1870-2223,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2224,Unnamed line 1870-2224,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2225,Unnamed line 1870-2225,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2226,Unnamed line 1870-2226,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2227,Unnamed line 1870-2227,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2228,Unnamed line 1870-2228,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2229,Unnamed line 1870-2229,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2230,Unnamed line 1870-2230,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2231,Unnamed line 1870-2231,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2232,Unnamed line 1870-2232,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2233,Unnamed line 1870-2233,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2234,Unnamed line 1870-2234,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2235,Unnamed line 1870-2235,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2236,Unnamed line 1870-2236,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2237,Unnamed line 1870-2237,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2238,Unnamed line 1870-2238,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2239,Unnamed line 1870-2239,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2240,Unnamed line 1870-2240,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2241,Unnamed line 1870-2241,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2242,Unnamed line 1870-2242,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2243,Unnamed line 1870-2243,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2244,Unnamed line 1870-2244,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2245,Unnamed line 1870-2245,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2246,Unnamed line 1870-2246,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2247,Unnamed line 1870-2247,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2248,Unnamed line 1870-2248,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2249,Unnamed line 1870-2249,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2250,Unnamed line 1870-2250,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2251,Unnamed line 1870-2251,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2252,Unnamed line 1870-2252,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2253,Unnamed line 1870-2253,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2254,Unnamed line 1870-2254,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2255,Unnamed line 1870-2255,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2256,Unnamed line 1870-2256,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2257,Unnamed line 1870-2257,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2258,Unnamed line 1870-2258,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2259,Unnamed line 1870-2259,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2260,Unnamed line 1870-2260,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2261,Unnamed line 1870-2261,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2262,Unnamed line 1870-2262,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2263,Unnamed line 1870-2263,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2264,Unnamed line 1870-2264,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2265,Unnamed line 1870-2265,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2266,Unnamed line 1870-2266,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2267,Unnamed line 1870-2267,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2268,Unnamed line 1870-2268,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2269,Unnamed line 1870-2269,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2270,Unnamed line 1870-2270,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2271,Unnamed line 1870-2271,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2272,Unnamed line 1870-2272,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2273,Unnamed line 1870-2273,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2274,Unnamed line 1870-2274,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2275,Unnamed line 1870-2275,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2276,Unnamed line 1870-2276,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2277,Unnamed line 1870-2277,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2278,Unnamed line 1870-2278,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2279,Unnamed line 1870-2279,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2280,Unnamed line 1870-2280,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2281,Unnamed line 1870-2281,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2282,Unnamed line 1870-2282,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2283,Unnamed line 1870-2283,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2284,Unnamed line 1870-2284,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2285,Unnamed line 1870-2285,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2286,Unnamed line 1870-2286,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2287,Unnamed line 1870-2287,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2288,Unnamed line 1870-2288,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2289,Unnamed line 1870-2289,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2290,Unnamed line 1870-2290,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2291,Unnamed line 1870-2291,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2292,Unnamed line 1870-2292,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2293,Unnamed line 1870-2293,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2294,Unnamed line 1870-2294,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2295,Unnamed line 1870-2295,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2296,Unnamed line 1870-2296,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2297,Unnamed line 1870-2297,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2298,Unnamed line 1870-2298,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2299,Unnamed line 1870-2299,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2300,Unnamed line 1870-2300,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2301,Unnamed line 1870-2301,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2302,Unnamed line 1870-2302,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2303,Unnamed line 1870-2303,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2304,Unnamed line 1870-2304,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2305,Unnamed line 1870-2305,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2306,Unnamed line 1870-2306,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2307,Unnamed line 1870-2307,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2308,Unnamed line 1870-2308,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2309,Unnamed line 1870-2309,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2310,Unnamed line 1870-2310,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2311,Unnamed line 1870-2311,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2312,Unnamed line 1870-2312,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2313,Unnamed line 1870-2313,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2314,Unnamed line 1870-2314,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2315,Unnamed line 1870-2315,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2316,Unnamed line 1870-2316,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2317,Unnamed line 1870-2317,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2318,Unnamed line 1870-2318,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2319,Unnamed line 1870-2319,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2320,Unnamed line 1870-2320,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2321,Unnamed line 1870-2321,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2322,Unnamed line 1870-2322,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2323,Unnamed line 1870-2323,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2324,Unnamed line 1870-2324,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2325,Unnamed line 1870-2325,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2326,Unnamed line 1870-2326,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2327,Unnamed line 1870-2327,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2328,Unnamed line 1870-2328,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2329,Unnamed line 1870-2329,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2330,Unnamed line 1870-2330,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2331,Unnamed line 1870-2331,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2336,Unnamed line 1870-2336,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2337,Unnamed line 1870-2337,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2338,Unnamed line 1870-2338,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2339,Unnamed line 1870-2339,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2340,Unnamed line 1870-2340,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2341,Unnamed line 1870-2341,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2361,Unnamed line 1870-2361,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2368,Unnamed line 1870-2368,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2370,Unnamed line 1870-2370,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2371,Unnamed line 1870-2371,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2372,Unnamed line 1870-2372,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2373,Unnamed line 1870-2373,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2374,Unnamed line 1870-2374,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2375,Unnamed line 1870-2375,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2376,Unnamed line 1870-2376,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2378,Unnamed line 1870-2378,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2379,Unnamed line 1870-2379,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2380,Unnamed line 1870-2380,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2381,Unnamed line 1870-2381,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2382,Unnamed line 1870-2382,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2383,Unnamed line 1870-2383,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2385,Unnamed line 1870-2385,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2386,Unnamed line 1870-2386,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2387,Unnamed line 1870-2387,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2388,Unnamed line 1870-2388,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2389,Unnamed line 1870-2389,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2390,Unnamed line 1870-2390,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2391,Unnamed line 1870-2391,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2392,Unnamed line 1870-2392,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2393,Unnamed line 1870-2393,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2394,Unnamed line 1870-2394,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2395,Unnamed line 1870-2395,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2396,Unnamed line 1870-2396,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2397,Unnamed line 1870-2397,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2398,Unnamed line 1870-2398,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2399,Unnamed line 1870-2399,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2400,Unnamed line 1870-2400,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2401,Unnamed line 1870-2401,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2402,Unnamed line 1870-2402,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2403,Unnamed line 1870-2403,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2404,Unnamed line 1870-2404,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2405,Unnamed line 1870-2405,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2406,Unnamed line 1870-2406,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2407,Unnamed line 1870-2407,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2408,Unnamed line 1870-2408,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2409,Unnamed line 1870-2409,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2410,Unnamed line 1870-2410,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2423,Unnamed line 1870-2423,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2424,Unnamed line 1870-2424,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2425,Unnamed line 1870-2425,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2426,Unnamed line 1870-2426,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2427,Unnamed line 1870-2427,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2428,Unnamed line 1870-2428,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2429,Unnamed line 1870-2429,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2430,Unnamed line 1870-2430,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2431,Unnamed line 1870-2431,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2432,Unnamed line 1870-2432,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2433,Unnamed line 1870-2433,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2434,Unnamed line 1870-2434,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2435,Unnamed line 1870-2435,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2436,Unnamed line 1870-2436,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2437,Unnamed line 1870-2437,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2438,Unnamed line 1870-2438,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2439,Unnamed line 1870-2439,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2440,Unnamed line 1870-2440,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2441,Unnamed line 1870-2441,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2442,Unnamed line 1870-2442,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2443,Unnamed line 1870-2443,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2444,Unnamed line 1870-2444,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2445,Unnamed line 1870-2445,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2446,Unnamed line 1870-2446,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2447,Unnamed line 1870-2447,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2448,Unnamed line 1870-2448,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2449,Unnamed line 1870-2449,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2450,Unnamed line 1870-2450,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2451,Unnamed line 1870-2451,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2452,Unnamed line 1870-2452,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2453,Unnamed line 1870-2453,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2454,Unnamed line 1870-2454,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2455,Unnamed line 1870-2455,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2456,Unnamed line 1870-2456,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2457,Unnamed line 1870-2457,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2458,Unnamed line 1870-2458,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2459,Unnamed line 1870-2459,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2460,Unnamed line 1870-2460,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2461,Unnamed line 1870-2461,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2462,Unnamed line 1870-2462,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2463,Unnamed line 1870-2463,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2464,Unnamed line 1870-2464,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2465,Unnamed line 1870-2465,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2466,Unnamed line 1870-2466,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2467,Unnamed line 1870-2467,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2468,Unnamed line 1870-2468,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2469,Unnamed line 1870-2469,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2470,Unnamed line 1870-2470,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2471,Unnamed line 1870-2471,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2472,Unnamed line 1870-2472,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2473,Unnamed line 1870-2473,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2474,Unnamed line 1870-2474,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2475,Unnamed line 1870-2475,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2476,Unnamed line 1870-2476,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2477,Unnamed line 1870-2477,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2478,Unnamed line 1870-2478,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2479,Unnamed line 1870-2479,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2480,Unnamed line 1870-2480,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2481,Unnamed line 1870-2481,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2482,Unnamed line 1870-2482,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2483,Unnamed line 1870-2483,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2484,Unnamed line 1870-2484,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2485,Unnamed line 1870-2485,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2486,Unnamed line 1870-2486,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2487,Unnamed line 1870-2487,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2488,Unnamed line 1870-2488,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2489,Unnamed line 1870-2489,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2490,Unnamed line 1870-2490,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2491,Unnamed line 1870-2491,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2492,Unnamed line 1870-2492,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2493,Unnamed line 1870-2493,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2494,Unnamed line 1870-2494,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2495,Unnamed line 1870-2495,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2496,Unnamed line 1870-2496,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2497,Unnamed line 1870-2497,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2498,Unnamed line 1870-2498,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2499,Unnamed line 1870-2499,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2500,Unnamed line 1870-2500,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2501,Unnamed line 1870-2501,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2502,Unnamed line 1870-2502,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2509,Unnamed line 1870-2509,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2510,Unnamed line 1870-2510,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2511,Unnamed line 1870-2511,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2512,Unnamed line 1870-2512,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2534,Unnamed line 1870-2534,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2535,Unnamed line 1870-2535,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2543,Unnamed line 1870-2543,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2544,Unnamed line 1870-2544,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2556,Unnamed line 1870-2556,https://railroads.unl.edu/,America/New_York,en,18700101,,
+unnamed_line_1870_2557,Unnamed line 1870-2557,https://railroads.unl.edu/,America/New_York,en,18700101,,
+vermont_and_massachusetts,Vermont and Massachusetts,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: ST Rail System; states: Masachusetts, New Hampshire, Vermont"
+vermont_central,Vermont Central,https://railroads.unl.edu/,America/New_York,en,18500101,,"states: New Hampshire, Vermont"
+vicksburg_shreveport_and_texas,"Vicksburg, Shreveport and Texas",https://railroads.unl.edu/,America/New_York,en,18610101,,states: Louisiana
+virginia_and_tennessee,Virginia and Tennessee,https://railroads.unl.edu/,America/New_York,en,18550101,,2012 successor: Norfolk Southern Railway Company; states: Virginia
+virginia_central,Virginia Central,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: Virginia"
+wabash_and_grand_river_railway_company,Wabash and Grand River Railway Company,https://railroads.unl.edu/,America/New_York,en,18700101,,
+wabash_western_railway,Wabash & Western Railway,https://railroads.unl.edu/,America/New_York,en,18700101,,
+washington_county,Washington County,https://railroads.unl.edu/,America/New_York,en,18610101,,states: Texas
+waterbury_and_hartford,Waterbury and Hartford,https://railroads.unl.edu/,America/New_York,en,18500101,,2012 successor: ST Rail System; states: Connecticut
+waterbury_and_windstead,Waterbury and Windstead,https://railroads.unl.edu/,America/New_York,en,18500101,,2012 successor: ST Rail System; states: Connecticut
+watertown_and_madison_railroad,Watertown and Madison Railroad,https://railroads.unl.edu/,America/New_York,en,18700101,,2012 successor: Canadian Pacific Railway; states: Wisconsin
+watertown_and_rome,Watertown and Rome,https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: CSX Transportation, Incorporated; states: New York"
+west_feliciana,West Feliciana,https://railroads.unl.edu/,America/New_York,en,18400101,,"states: Louisiana, Mississippi"
+west_wisconsin,West Wisconsin,https://railroads.unl.edu/,America/New_York,en,18700101,,states: WI
+western,Western,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: Masachusetts"
+western_and_atlantic,Western and Atlantic,https://railroads.unl.edu/,America/New_York,en,18400101,,"states: Georgia, Tennessee"
+western_maryland,Western Maryland,https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: Maryland Midland Railway, Incorporated; states: Maryland"
+western_north_carolina,Western North Carolina,https://railroads.unl.edu/,America/New_York,en,18610101,,states: North Carolina
+western_railroad_of_north_carolina,Western Railroad of North Carolina,https://railroads.unl.edu/,America/New_York,en,18610101,,states: North Carolina
+western_union_railroad,Western Union Railroad,https://railroads.unl.edu/,America/New_York,en,18700101,,states: Wisconsin
+western_vermont,Western Vermont,https://railroads.unl.edu/,America/New_York,en,18500101,,"2012 successor: Vermont Railway, Incorporated; states: Vermont"
+white_mountain,White Mountain,https://railroads.unl.edu/,America/New_York,en,18400101,,"states: New Hampshire, Vermont"
+white_mountains,White Mountains,https://railroads.unl.edu/,America/New_York,en,18550101,,states: New Hampshire
+williamsport_and_elmira,Williamsport and Elmira,https://railroads.unl.edu/,America/New_York,en,18400101,,"states: New York, Pennsylvania"
+wilmington_and_manchester,Wilmington and Manchester,https://railroads.unl.edu/,America/New_York,en,18400101,,"states: North Carolina, South Carolina"
+wilmington_and_weldon,Wilmington and Weldon,https://railroads.unl.edu/,America/New_York,en,18450101,,states: North Carolina
+wilmington_charlotte_and_rutherford,"Wilmington, Charlotte and Rutherford",https://railroads.unl.edu/,America/New_York,en,18500101,,states: North Carolina
+winchester_and_alabama,Winchester and Alabama,https://railroads.unl.edu/,America/New_York,en,18610101,,states: Tennessee
+winchester_and_potomac,Winchester and Potomac,https://railroads.unl.edu/,America/New_York,en,18400101,,"2012 successor: CSX Transportation, Incorporated; states: Maryland, Virginia, West Virginia"
+winn_and_mattawamkeag,Winn and Mattawamkeag,https://railroads.unl.edu/,America/New_York,en,18700101,,states: Maine
+wisconsin_and_southern_railroad_company,Wisconsin and Southern Railroad Company,https://railroads.unl.edu/,America/New_York,en,18450101,,states: Wisconsin
+worcester_and_nashua,Worcester and Nashua,https://railroads.unl.edu/,America/New_York,en,18450101,,2012 successor: Massachusetts Bay Transportation Authority; states: Masachusetts
+york_and_cumberland,York and Cumberland,https://railroads.unl.edu/,America/New_York,en,18500101,,states: Maine
