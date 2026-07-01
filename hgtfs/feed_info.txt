@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
-"Open History Map - HGTFS reconstruction from RRMMA (U. Nebraska-Lincoln). Geography is archival; trips/stop_times are reconstructed structure (time_accuracy=1), not historical timetables.",https://hgtfs.github.io/,en,18400101,18701231,hgtfs-rrmma-1840-1870
+Open History Map,https://openhistorymap.org/,en,18400101,18701231,hgtfs-rrmma-1840-1870

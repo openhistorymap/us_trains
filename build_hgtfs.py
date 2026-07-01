@@ -648,13 +648,13 @@ def write_feed(routes, nodes, node_sid, depot_stops, name_at,
                 "Golden Spike driven at Promontory Summit, Utah.", ""]])
 
     # feed_info.txt
+    # feed_publisher_name stays a clean organisation name — the viewer renders
+    # it + historical_sources as the on-map credit. Reconstruction caveats live
+    # in README.md / historical_sources.source_notes, not here.
     write_csv(O("feed_info.txt"),
               ["feed_publisher_name", "feed_publisher_url", "feed_lang",
                "feed_start_date", "feed_end_date", "feed_version"],
-              [["Open History Map - HGTFS reconstruction from RRMMA (U. Nebraska-Lincoln). "
-                "Geography is archival; trips/stop_times are reconstructed structure "
-                "(time_accuracy=1), not historical timetables.",
-                "https://hgtfs.github.io/", "en",
+              [["Open History Map", "https://openhistorymap.org/", "en",
                 f"{YEARS[0]}0101", f"{YEARS[-1]}1231", "hgtfs-rrmma-1840-1870"]])
 
     # ---- summary ----
